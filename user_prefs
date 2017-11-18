@@ -1,0 +1,87 @@
+
+## The following is a reduced subset of what has accumulated in 
+## my ~/.spamassassin/user_prefs since 2002
+##
+## Consider each entry a suggestion.
+##
+## File may not be suitable for _your_ production use, so it is from mine.
+## No warranties, implied or other.  
+
+
+# edd 05 Mar 2004  lowered from default 12.0
+bayes_auto_learn_threshold_spam 8.0
+
+# edd 01 Jan 2010  as per http://lwn.net/Articles/368396/rss
+score FH_DATE_PAST_20XX 0.0
+
+# edd 07 Dec 2015
+blacklist_to            *@omicsonline.org
+
+## edd 21 Dec 2015       Omics variant
+blacklist_to            *@editorialmanagers.com
+
+# edd 28 Dec 2015
+blacklist_from          *@omicsonline.org
+
+# edd 28 Dec 2015
+blacklist_from          *@ijntr.com
+
+# edd 14 Apr 2016
+blacklist_from          cageo@elsevier.com
+
+## edd 03 Oct 2016      Omics variant
+blacklist_from          *@editorialmanager.com
+
+## edd 05 Oct 2016      IJR Pubs
+blacklist_from          *@ijrpublication.com
+
+## edd 25 Oct 2016	Email spam
+blacklist_from          *@guideproweb.com
+
+## edd 05 Nov 2016      Conference spam
+blacklist_from          *@theired.org
+
+## edd 09 Nov 2016      ijoer conf 
+blacklist_from          *@ijoer.org
+
+## edd 02 Dec 2016      sudden spam
+blacklist_from          *amykristen*@*
+
+## edd 24 Jul 2017
+blacklist_from          *@ijntrjournal.org
+
+## edd 26 Jul 2017
+blacklist_from          *@editorialoffice-journalcra.com
+
+## edd 09 Aug 2017
+blacklist_from          *@ijoerpublication.org
+
+## edd 25 Aug 2017
+blacklist_from          *@ijcser.in
+
+## edd 01 Sep 2017
+blacklist_from          *@journalijcar.com
+
+## edd 02 Sep 2017
+blacklist_from          *@info-recentscientific.com
+
+## edd 03 Oct 2017
+blacklist_from          *@journals.hindawi.com
+
+## edd 16 Oct 2017
+blacklist_from          *@journalijar.org.in
+
+## edd 17 Oct 2017
+blocklist_from		*@securerailconference.com
+
+## edd 01 Nov 2017
+blacklist_from          *@hackerearth.com
+
+## edd 07 Nov 2017
+blacklist_from          *@scientificadvancesresearch.com
+
+## edd 10 Nov 2017
+blacklist_from          *@tlpjournal.com
+
+## edd 18 Nov 2017
+blacklist_from          *@mail.iiisconferences2018.org
