@@ -85,3 +85,6 @@ blacklist_from          *@tlpjournal.com
 
 ## edd 18 Nov 2017
 blacklist_from          *@mail.iiisconferences2018.org
+
+## edd 19 Nov 2017
+blacklist_from          info@ieee.am
