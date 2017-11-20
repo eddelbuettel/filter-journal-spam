@@ -88,3 +88,9 @@ blacklist_from          *@mail.iiisconferences2018.org
 
 ## edd 19 Nov 2017
 blacklist_from          info@ieee.am
+
+## edd 19 Nov 2017
+blacklist_from          info@science-conference.com
+
+## edd 20 Nov 2017
+blacklist_from          info@conf-support.org
