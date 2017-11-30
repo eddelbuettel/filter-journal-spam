@@ -97,3 +97,6 @@ blacklist_from          info@conf-support.org
 
 ## edd 21 Nov 2017
 blacklist_from          arun@primeknot.com
+
+## edd 30 Nov 2017      normal IT spam
+blacklist_from          *@gethappie.me
