@@ -103,3 +103,6 @@ blacklist_from          *@gethappie.me
 
 ## edd 30 Nov 2017      CHAOS2018
 blacklist_from          Secretariat@cmsim.de
+
+## edd 02 Dec 2017      High Quality Journal
+blacklist_from          *@nrpubl.org
