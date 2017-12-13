@@ -109,3 +109,6 @@ blacklist_from          *@nrpubl.org
 
 ## edd 08 Dec 2017      European Journal of Experimental Biology
 blacklist_from          .*scholarlyjournals.org
+
+## edd 13 Dec 2017      
+blacklist_from          ijres04@rediffmail.com
