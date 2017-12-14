@@ -112,3 +112,6 @@ blacklist_from          .*scholarlyjournals.org
 
 ## edd 13 Dec 2017      
 blacklist_from          ijres04@rediffmail.com
+
+## edd 14 Dec 2017      WSEAS Conferences
+blacklist_from          *@wopu.org
