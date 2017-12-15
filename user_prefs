@@ -115,3 +115,6 @@ blacklist_from          ijres04@rediffmail.com
 
 ## edd 14 Dec 2017      WSEAS Conferences
 blacklist_from          *@wopu.org
+
+## edd 15 Dec 2017      ICRTES
+blacklist_to            contact@icrtes.org
