@@ -118,3 +118,6 @@ blacklist_from          *@wopu.org
 
 ## edd 15 Dec 2017      ICRTES
 blacklist_to            contact@icrtes.org
+
+## edd 16 Dec 2017      EECCMD
+blacklist_to            bala@eeccmc.org 
