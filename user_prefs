@@ -121,3 +121,6 @@ blacklist_to            contact@icrtes.org
 
 ## edd 16 Dec 2017      EECCMD
 blacklist_to            bala@eeccmc.org 
+
+## edd 17 Dec 2017      MMCTSE 2018
+blacklist_to            mmctse.conf@gmail.com
