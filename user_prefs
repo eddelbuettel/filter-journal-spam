@@ -124,3 +124,6 @@ blacklist_to            bala@eeccmc.org
 
 ## edd 17 Dec 2017      MMCTSE 2018
 blacklist_to            mmctse.conf@gmail.com
+
+## edd 23 Dec 2017      International Journal of Statistics: Advances in Theory and Applications
+blacklist_from          *@jyotiacademicjournal.org
