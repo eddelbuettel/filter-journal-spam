@@ -127,3 +127,6 @@ blacklist_to            mmctse.conf@gmail.com
 
 ## edd 23 Dec 2017      International Journal of Statistics: Advances in Theory and Applications
 blacklist_from          *@jyotiacademicjournal.org
+
+## edd 26 Dec 2017      Transcriptomics
+blacklist_from          @molecularbiologyjournals.com
