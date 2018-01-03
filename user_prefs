@@ -133,3 +133,6 @@ blacklist_from          *@molecularbiologyjournals.com
 
 ## edd 03 Jan 2018      International Multidisciplinary Research Journal
 blacklist_from          *@ijeas-publication.com
+
+## edd 03 Jan 2018      Applied Mathematics and Computational Methods in Engineering
+blacklist_to            inase.editorial@gmail.com
