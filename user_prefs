@@ -129,4 +129,7 @@ blacklist_to            mmctse.conf@gmail.com
 blacklist_from          *@jyotiacademicjournal.org
 
 ## edd 26 Dec 2017      Transcriptomics
-blacklist_from          @molecularbiologyjournals.com
+blacklist_from          *@molecularbiologyjournals.com
+
+## edd 03 Jan 2018      International Multidisciplinary Research Journal
+blacklist_from          *@ijeas-publication.com
