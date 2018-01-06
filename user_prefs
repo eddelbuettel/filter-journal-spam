@@ -136,3 +136,6 @@ blacklist_from          *@ijeas-publication.com
 
 ## edd 03 Jan 2018      Applied Mathematics and Computational Methods in Engineering
 blacklist_to            inase.editorial@gmail.com
+
+## edd 06 Jan 2018      IOSR
+blacklist_from          jnhs.paper02@rediffmail.com
