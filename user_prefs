@@ -139,3 +139,6 @@ blacklist_to            inase.editorial@gmail.com
 
 ## edd 06 Jan 2018      IOSR
 blacklist_from          jnhs.paper02@rediffmail.com
+
+## edd 08 Jan 2018      IJAETMAS
+blacklist_from          *@ijaetmas.com
