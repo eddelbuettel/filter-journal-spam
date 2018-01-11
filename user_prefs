@@ -142,3 +142,9 @@ blacklist_from          jnhs.paper02@rediffmail.com
 
 ## edd 08 Jan 2018      IJAETMAS
 blacklist_from          *@ijaetmas.com
+
+## edd 08 Jan 2018      IOSR
+blacklist_from          xrhnhd@sina.com
+
+## edd 10 Jan 2018      ICSTSS
+blacklist               conference@icstss.com
