@@ -147,4 +147,7 @@ blacklist_from          *@ijaetmas.com
 blacklist_from          xrhnhd@sina.com
 
 ## edd 10 Jan 2018      ICSTSS
-blacklist               conference@icstss.com
+blacklist_from          conference@icstss.com
+
+## edd 16 Jan 2018      
+blacklist_from          mail.iiisconfer2018.org
