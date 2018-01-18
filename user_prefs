@@ -154,3 +154,8 @@ blacklist_from          mail.iiisconfer2018.org
 
 ## edd 17 Jan 2018      JPRSS (spammed gsoc-mentors)
 blacklist_from          jprsseditor@scitecresearch.com
+
+## edd 18 Jan 2018
+blacklist_from          phr3@rediffmail.com
+blacklist_from          papers@iscconference.org
+blacklist_from          two-icamcs@mail.com
