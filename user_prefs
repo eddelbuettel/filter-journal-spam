@@ -162,3 +162,6 @@ blacklist_from          two-icamcs@mail.com
 
 ## edd 19 Jan 2018
 blacklist_from          hearingaids@clinicalmedicaljournals.com
+
+## edd 21 Jan 2018
+blacklist_from          invention001@rediffmail.com
