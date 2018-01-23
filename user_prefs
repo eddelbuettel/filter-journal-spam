@@ -168,3 +168,8 @@ blacklist_from          invention001@rediffmail.com
 
 ## edd 22 Jan 2018
 blacklist_from          secretariat@weecnetwork.org
+
+## edd 23 Jan 2018      
+blacklist_from          info@events-science.info
+blacklist_from          events@riskscience.co.za
+
