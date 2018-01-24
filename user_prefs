@@ -173,3 +173,5 @@ blacklist_from          secretariat@weecnetwork.org
 blacklist_from          info@events-science.info
 blacklist_from          events@riskscience.co.za
 
+## edd 23 Jan 2018      
+blacklist_from          theijes.paper111@rediffmail.com
