@@ -175,3 +175,8 @@ blacklist_from          events@riskscience.co.za
 
 ## edd 23 Jan 2018      
 blacklist_from          theijes.paper111@rediffmail.com
+blacklist_from          informationsociety@cambridge-energy.org
+
+## edd 24 Jan 2018      
+blacklist_from          ijerd02@rediffmail.com
+blacklist_from          submit.ijceronline@rediffmail.com
