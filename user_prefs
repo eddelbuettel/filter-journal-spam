@@ -180,3 +180,6 @@ blacklist_from          informationsociety@cambridge-energy.org
 ## edd 24 Jan 2018      
 blacklist_from          ijerd02@rediffmail.com
 blacklist_from          submit.ijceronline@rediffmail.com
+
+## edd 28 Jan 2018      
+blacklist_from          editor@ijsei.com
