@@ -72,7 +72,7 @@ blacklist_from          *@journals.hindawi.com
 blacklist_from          *@journalijar.org.in
 
 ## edd 17 Oct 2017
-blocklist_from		*@securerailconference.com
+blacklist_from		*@securerailconference.com
 
 ## edd 01 Nov 2017
 blacklist_from          *@hackerearth.com
