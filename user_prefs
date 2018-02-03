@@ -190,3 +190,7 @@ blacklist_from          cfhhhpn38@vip.163.com
 
 ## edd 02 Feb 2018      CNAI2018
 blacklist_from          Edward@mail1.interest-soon.com
+
+## edd 03 Feb 2018      American Review of Mathematics and Statistics (yeah, right) 
+blacklist_from          ssa30@cspid.org
+blacklist_from          banaghe.rdaisuke22@yahoo.com
