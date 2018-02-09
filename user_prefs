@@ -199,6 +199,9 @@ blacklist_from          renidimirova@yandex.com
 ## edd 05 Feb 2018      Int J of Bus Mgmt and Techn.
 blacklist_from          info@theijbmt.com
 
-## edd 08 Fen 2018
+## edd 08 Feb 2018
 blacklist_from          plant-biology@magnusscigroup.com
 blacklist_from          biostatistics@conferencesmail.com
+
+## edd 09 Feb 2018      Biostatistics and Biometrics Open Access Journal
+blacklist_from          biostats@juniperpublishers.us
