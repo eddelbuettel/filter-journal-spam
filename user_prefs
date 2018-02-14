@@ -205,3 +205,9 @@ blacklist_from          biostatistics@conferencesmail.com
 
 ## edd 09 Feb 2018      Biostatistics and Biometrics Open Access Journal
 blacklist_from          biostats@juniperpublishers.us
+
+## edd 13 Feb 2018      IC MSQUARE
+blacklist_from          secretariat@icmsquare.net
+
+## edd 14 Feb 2018      Indus Intl Journals
+blacklist_from          editor@indusedu.org
