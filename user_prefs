@@ -218,3 +218,6 @@ blacklist_from          submission@japjournals.co
 ## edd 16 Feb 2018      ICS Australia, stCSM 2018
 blacklist_from          indigenousconferences@iinet.net.au
 blacklist_from          *@mail.iiisconf2018.org
+
+## edd 21 Feb 2018      Future Technologies Conference
+blacklist_from          ftc@saiconference.com
