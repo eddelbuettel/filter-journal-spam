@@ -222,5 +222,8 @@ blacklist_from          *@mail.iiisconf2018.org
 ## edd 21 Feb 2018      Future Technologies Conference
 blacklist_from          ftc@saiconference.com
 
-## edd 22 Feb 2018      Proteomics 2018
+## edd 23 Feb 2018      Proteomics 2018o
 blacklist_from          proteomicsasia@scientificmeet.com
+
+## edd 28 Feb 2018      Everant ETJ Journal
+blacklist_from          info.afmj@ijahm.net
