@@ -225,5 +225,9 @@ blacklist_from          ftc@saiconference.com
 ## edd 23 Feb 2018      Proteomics 2018o
 blacklist_from          proteomicsasia@scientificmeet.com
 
-## edd 28 Feb 2018      Everant ETJ Journal
+## edd 28 Feb 2018      Everant ETJ Journal, CSCC
 blacklist_from          info.afmj@ijahm.net
+blacklist_from          congress2018c@math.tau.ac.il
+
+## edd 01 Mar 2018      Journal of Next Generation Sequencing & Applications
+blacklist_from          sequencing@molecularbiologyjournals.com
