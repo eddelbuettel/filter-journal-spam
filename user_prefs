@@ -234,3 +234,6 @@ blacklist_from          sequencing@molecularbiologyjournals.com
 
 ## edd 07 Mar 2018      Journal of Statistics: Advances in Theory and Application
 blacklist_from          *@scientificresearchjournal.info
+
+## edd 09 Mar 2018      IJRRE
+blacklist_from          manuscript_Invitation@opentransfer.co.cc 
