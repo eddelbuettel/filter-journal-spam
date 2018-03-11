@@ -237,3 +237,6 @@ blacklist_from          *@scientificresearchjournal.info
 
 ## edd 09 Mar 2018      IJRRE
 blacklist_from          manuscript_Invitation@opentransfer.co.cc 
+
+## edd 11 Mar 2018      Spring Journals
+blacklist_from          no-reply@springjournals.tk
