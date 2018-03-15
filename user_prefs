@@ -240,3 +240,8 @@ blacklist_from          manuscript_Invitation@opentransfer.co.cc
 
 ## edd 11 Mar 2018      Spring Journals
 blacklist_from          no-reply@springjournals.tk
+
+## edd 15 Mar 2018      MACISE/AMACS, proofread
+blacklist_from          call.for.papers@unizen.co
+blacklist_from          manuscript_invitation@haroldbromwich.co.cc
+blacklist_to            proofreadforme@editsyndicate.com
