@@ -245,3 +245,7 @@ blacklist_from          no-reply@springjournals.tk
 blacklist_from          call.for.papers@unizen.co
 blacklist_from          manuscript_invitation@haroldbromwich.co.cc
 blacklist_to            proofreadforme@editsyndicate.com
+
+## edd 18 Mar 2018      ICPMS 2018
+blacklist_from          Julia@mail.pmsconf.org
+blacklist_to            pms@a-scie.org
