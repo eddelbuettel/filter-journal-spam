@@ -249,3 +249,6 @@ blacklist_to            proofreadforme@editsyndicate.com
 ## edd 18 Mar 2018      ICPMS 2018
 blacklist_from          Julia@mail.pmsconf.org
 blacklist_to            pms@a-scie.org
+
+blacklist_from          *@wjrrjournal.online
+blacklist_to            info.wjrr@gmail.com
