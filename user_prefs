@@ -250,5 +250,9 @@ blacklist_to            proofreadforme@editsyndicate.com
 blacklist_from          Julia@mail.pmsconf.org
 blacklist_to            pms@a-scie.org
 
+## edd 19 Mar 2018      WJRR
 blacklist_from          *@wjrrjournal.online
 blacklist_to            info.wjrr@gmail.com
+
+## edd 24 Mar 2018      APSAC
+blacklist_to            apsac.conference@gmail.com
