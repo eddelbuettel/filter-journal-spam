@@ -263,3 +263,6 @@ blacklist_to            roboticsautomation@eursciconevent.com
 ## edd 02 Apr 2018      another IJCAR amd IJES
 blacklist_from          journalijcarcallforpaper@gmail.com
 blacklist_from          theijes.paper008@rediffmail.com
+
+## edd 03 Apr 2018      ICCSIE
+blacklist_from          ICCSIE@email.ia-ast.org
