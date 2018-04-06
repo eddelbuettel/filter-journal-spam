@@ -266,3 +266,6 @@ blacklist_from          theijes.paper008@rediffmail.com
 
 ## edd 03 Apr 2018      ICCSIE
 blacklist_from          ICCSIE@email.ia-ast.org
+
+## edd 06 Apr 2018      Donnish
+blacklist_to            contact@donnishjournals.org  
