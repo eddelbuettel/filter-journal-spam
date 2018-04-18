@@ -272,3 +272,7 @@ blacklist_to            contact@donnishjournals.org
 
 ## edd 12 Apr 2018      IJMSI
 blacklist_from          ijmsi7@rediffmail.com
+
+## edd 18 Apr 2018      TAPH
+blacklist_to            ajoias@researchpublication.info
+
