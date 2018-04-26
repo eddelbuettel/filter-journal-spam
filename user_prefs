@@ -279,3 +279,5 @@ blacklist_to            ajoias@researchpublication.info
 ## edd 19 Apr 2018      IJAST
 blacklist_to            cpi.ijast@gmail.com
 
+## edd 25 Apr 2018      Science-Event
+blacklist_from          info@science-event.com
