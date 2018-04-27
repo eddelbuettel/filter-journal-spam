@@ -281,3 +281,6 @@ blacklist_to            cpi.ijast@gmail.com
 
 ## edd 25 Apr 2018      Science-Event
 blacklist_from          info@science-event.com
+
+## edd 27 Apr 2018      Science Journal of Applied Mathematics and Statistics
+blacklist_from          issue@easjournal.net
