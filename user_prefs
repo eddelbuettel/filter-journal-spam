@@ -284,3 +284,6 @@ blacklist_from          info@science-event.com
 
 ## edd 27 Apr 2018      Science Journal of Applied Mathematics and Statistics
 blacklist_from          issue@easjournal.net
+
+## edd 30 Apr 2018      
+blacklist_to            contact@icmae.org.in
