@@ -287,3 +287,6 @@ blacklist_from          issue@easjournal.net
 
 ## edd 30 Apr 2018      
 blacklist_to            contact@icmae.org.in
+
+## edd 01 May 2018      PRCV 2018
+blacklist_from          prcv2018@hotmail.com
