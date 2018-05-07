@@ -293,3 +293,6 @@ blacklist_from          prcv2018@hotmail.com
 
 ## edd 05 May 2018      FICC
 blacklist_from          FICC@SAIConference.com
+
+## edd 07 May 2018      FSDMconf
+blacklist_from          info@fsdm2018.org
