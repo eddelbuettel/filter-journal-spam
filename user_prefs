@@ -296,3 +296,7 @@ blacklist_from          FICC@SAIConference.com
 
 ## edd 07 May 2018      FSDMconf
 blacklist_from          info@fsdm2018.org
+
+## edd 26 May 2018      WJRR, IJLEMR
+blacklist_to            info.wjrr@gmail.com
+blacklist_from          submission@ijlemr.com
