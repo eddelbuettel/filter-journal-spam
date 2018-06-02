@@ -300,3 +300,9 @@ blacklist_from          info@fsdm2018.org
 ## edd 26 May 2018      WJRR, IJLEMR
 blacklist_to            info.wjrr@gmail.com
 blacklist_from          submission@ijlemr.com
+
+## edd 29 May 2018      RIEECE
+blacklist_to            mohana@rieece.org
+
+## edd 02 Jun 2018
+blacklist_from          events@events.theired.org
