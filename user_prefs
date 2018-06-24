@@ -306,3 +306,6 @@ blacklist_to            mohana@rieece.org
 
 ## edd 02 Jun 2018
 blacklist_from          events@events.theired.org
+
+## edd 24 Jun 2018      WCTTE
+blacklist_from          wang@icssh.net
