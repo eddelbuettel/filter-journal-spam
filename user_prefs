@@ -309,3 +309,6 @@ blacklist_from          events@events.theired.org
 
 ## edd 24 Jun 2018      WCTTE
 blacklist_from          wang@icssh.net
+
+## edd 28 Jun 2018      ICIDEL
+blacklist_from          iaaset@email.ia-ast.org
