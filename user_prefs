@@ -312,3 +312,6 @@ blacklist_from          wang@icssh.net
 
 ## edd 28 Jun 2018      ICIDEL
 blacklist_from          iaaset@email.ia-ast.org
+
+## edd 03 Jul 2018      AgriFood Security
+blacklist_from          agrifoodsecurity@networkwithexpert.com
