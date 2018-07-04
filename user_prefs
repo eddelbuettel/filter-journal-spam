@@ -315,3 +315,6 @@ blacklist_from          iaaset@email.ia-ast.org
 
 ## edd 03 Jul 2018      AgriFood Security
 blacklist_from          agrifoodsecurity@networkwithexpert.com
+
+## edd 04 Jul 2018      ICICT2019
+blacklist_from          sictooom@sina.com
