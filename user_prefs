@@ -318,3 +318,8 @@ blacklist_from          agrifoodsecurity@networkwithexpert.com
 
 ## edd 04 Jul 2018      ICICT2019
 blacklist_from          sictooom@sina.com
+
+## edd 05 Jul 2018
+blacklist_from          paper.publish03@rediffmail.com
+blacklist_from          papercool12@rediffmail.com
+blacklist_to            aripd.arms@gmail.com
