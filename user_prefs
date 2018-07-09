@@ -333,3 +333,6 @@ blacklist_to            mcsi.conf@gmail.com
 
 ## edd 09 Jul 2018      SJAMS Ed Board invite spam
 blacklist_from          journal@jmodernchemistry.org
+
+## edd 10 Jul 2018
+blacklist_from          wireless@meettheglobalexpert.com
