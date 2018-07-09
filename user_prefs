@@ -330,3 +330,6 @@ blacklist_to            icntet@icntet.org
 
 ## edd 08 Jul 2018      MCSI 2018
 blacklist_to            mcsi.conf@gmail.com
+
+## edd 09 Jul 2018      SJAMS Ed Board invite spam
+blacklist_from          journal@jmodernchemistry.org
