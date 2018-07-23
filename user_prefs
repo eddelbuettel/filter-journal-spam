@@ -336,3 +336,14 @@ blacklist_from          journal@jmodernchemistry.org
 
 ## edd 10 Jul 2018
 blacklist_from          wireless@meettheglobalexpert.com
+
+## edd 15 Jul 2018      AMEME18
+blacklist_from          Sandy@mail1.among-scientists.com
+
+## edd 20 Jul 2018      Plant 2019
+blacklist_from          plantbiology-2019@magnus-group.org
+
+## edd 23 Jul 2018      IRECI, CTBB, ...
+blacklist_from          info@praiseworthyprize.org
+blacklist_from          biostats@lupinepublishers.com
+blacklist_from          dataanalytics@conferencesmail.com
