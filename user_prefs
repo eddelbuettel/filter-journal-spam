@@ -347,3 +347,8 @@ blacklist_from          plantbiology-2019@magnus-group.org
 blacklist_from          info@praiseworthyprize.org
 blacklist_from          biostats@lupinepublishers.com
 blacklist_from          dataanalytics@conferencesmail.com
+
+## edd 27 Jul 2018      UGC, INASE
+blacklist_from          indusjournals@indusedu.org
+blacklist_to            inase.editorial@gmail.com
+blacklist_from          inase.events@gmx.com
