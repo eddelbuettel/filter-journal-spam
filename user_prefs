@@ -361,3 +361,6 @@ blacklist_from		research@jyotiacademic.net
 
 ## edd 31 Jul 2018      IMCIC
 blacklist_from		cfp-spring@mail.iiisconf2019.org
+
+## edd 01 Aug 2018      Juniper
+blacklist_from		biostats@juniperpublishers.com
