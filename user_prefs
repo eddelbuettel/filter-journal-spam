@@ -352,3 +352,12 @@ blacklist_from          dataanalytics@conferencesmail.com
 blacklist_from          indusjournals@indusedu.org
 blacklist_to            inase.editorial@gmail.com
 blacklist_from          inase.events@gmx.com
+
+## edd 28 Jul 2018      LAP
+blacklist_from		r.cazac@lap-publishing.com
+
+## edd 30 Jul 2018      IJSAT
+blacklist_from		research@jyotiacademic.net
+
+## edd 31 Jul 2018      IMCIC
+blacklist_from		cfp-spring@mail.iiisconf2019.org
