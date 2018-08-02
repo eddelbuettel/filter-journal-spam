@@ -364,3 +364,6 @@ blacklist_from		cfp-spring@mail.iiisconf2019.org
 
 ## edd 01 Aug 2018      Juniper
 blacklist_from		biostats@juniperpublishers.com
+
+## edd 01 Aug 2018      EI/ISTP
+blacklist_from		sictooom@sina.com
