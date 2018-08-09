@@ -35,7 +35,7 @@ blacklist_from          *@editorialmanager.com
 ## edd 05 Oct 2016      IJR Pubs
 blacklist_from          *@ijrpublication.com
 
-## edd 25 Oct 2016	Email spam
+## edd 25 Oct 2016      Email spam
 blacklist_from          *@guideproweb.com
 
 ## edd 05 Nov 2016      Conference spam
@@ -72,7 +72,7 @@ blacklist_from          *@journals.hindawi.com
 blacklist_from          *@journalijar.org.in
 
 ## edd 17 Oct 2017
-blacklist_from		*@securerailconference.com
+blacklist_from          *@securerailconference.com
 
 ## edd 01 Nov 2017
 blacklist_from          *@hackerearth.com
@@ -354,19 +354,22 @@ blacklist_to            inase.editorial@gmail.com
 blacklist_from          inase.events@gmx.com
 
 ## edd 28 Jul 2018      LAP
-blacklist_from		r.cazac@lap-publishing.com
+blacklist_from          r.cazac@lap-publishing.com
 
 ## edd 30 Jul 2018      IJSAT
-blacklist_from		research@jyotiacademic.net
+blacklist_from          research@jyotiacademic.net
 
 ## edd 31 Jul 2018      IMCIC
-blacklist_from		cfp-spring@mail.iiisconf2019.org
+blacklist_from          cfp-spring@mail.iiisconf2019.org
 
 ## edd 01 Aug 2018      Juniper
-blacklist_from		biostats@juniperpublishers.com
+blacklist_from          biostats@juniperpublishers.com
 
 ## edd 02 Aug 2018      EI/ISTP
-blacklist_from		sictooom@sina.com
+blacklist_from          sictooom@sina.com
 
 ## edd 08 Aug 2018      Neuropharmacology 2018
-blacklist_from		networkwithexpert.com
+blacklist_from          networkwithexpert.com
+
+## edd 09 Aug 2018      WSEAS
+blacklist_from          kostas.chiotopoulos@gmail.com
