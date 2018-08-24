@@ -373,3 +373,9 @@ blacklist_from          networkwithexpert.com
 
 ## edd 09 Aug 2018      WSEAS
 blacklist_from          kostas.chiotopoulos@gmail.com
+
+## edd 10 Aug 2018      ICIETS
+blacklist_from          icpcsi.org
+
+## edd 24 Aug 2018      IJIESR
+blacklist_from          ijiesr.com
