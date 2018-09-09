@@ -379,3 +379,6 @@ blacklist_from          icpcsi.org
 
 ## edd 24 Aug 2018      IJIESR
 blacklist_from          ijiesr.com
+
+## edd 09 Sep 2018      
+blacklist_from          submit@scientificadvances.in
