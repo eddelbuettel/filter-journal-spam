@@ -382,3 +382,6 @@ blacklist_from          ijiesr.com
 
 ## edd 09 Sep 2018      
 blacklist_from          submit@scientificadvances.in
+
+## edd 19 Sep 2018      theijes.com -- broad-based spam
+blacklist_from          subdata53@rediffmail.com
