@@ -388,3 +388,6 @@ blacklist_from          subdata53@rediffmail.com
 
 ## edd 01 Oct 2018      ARME
 blacklist_from          robotics@lupinepublishers.us
+
+## edd 04 Oct 2018      DISP 19
+blacklist_from          disp.oxford@gmail.com
