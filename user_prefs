@@ -394,3 +394,6 @@ blacklist_from          disp.oxford@gmail.com
 
 ## edd 06 Oct 2018      AJMCS
 blacklist_from          service@ajmcs.org
+
+## edd 09 Oct 2018      Computing Conference 2019
+blacklist_from          conference@thesai.org
