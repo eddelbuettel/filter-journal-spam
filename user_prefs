@@ -397,3 +397,6 @@ blacklist_from          service@ajmcs.org
 
 ## edd 09 Oct 2018      Computing Conference 2019
 blacklist_from          conference@thesai.org
+
+## edd 10 Oct 2018      Another Biostat
+blacklist_from          biostatistics@gavinpublishersusa.com
