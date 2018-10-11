@@ -400,3 +400,6 @@ blacklist_from          conference@thesai.org
 
 ## edd 10 Oct 2018      Another Biostat
 blacklist_from          biostatistics@gavinpublishersusa.com
+
+## edd 11 Oct 2018      FSDMconf
+blacklist_from          fsdm@fsdmconf.org
