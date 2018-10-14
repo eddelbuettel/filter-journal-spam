@@ -403,3 +403,6 @@ blacklist_from          biostatistics@gavinpublishersusa.com
 
 ## edd 11 Oct 2018      FSDMconf
 blacklist_from          fsdm@fsdmconf.org
+
+## edd 14 Oct 2018      JCSR
+blacklist_to            jcsr@bilpublishing.com
