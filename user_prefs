@@ -406,3 +406,6 @@ blacklist_from          fsdm@fsdmconf.org
 
 ## edd 14 Oct 2018      JCSR
 blacklist_to            jcsr@bilpublishing.com
+
+## edd 21 Oct 2018      SciEP
+blacklist_to            submit@sciepub.com
