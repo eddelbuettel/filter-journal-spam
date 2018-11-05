@@ -409,3 +409,6 @@ blacklist_to            jcsr@bilpublishing.com
 
 ## edd 21 Oct 2018      SciEP
 blacklist_to            submit@sciepub.com
+
+## edd 05 Nov 2018      
+blacklist_to            eceic@eceic.org.in     
