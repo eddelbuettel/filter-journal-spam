@@ -412,3 +412,6 @@ blacklist_to            submit@sciepub.com
 
 ## edd 05 Nov 2018      
 blacklist_to            eceic@eceic.org.in     
+
+## edd 07 Nov 2018      INAIT
+blacklist_from          cfp@inait-event.host
