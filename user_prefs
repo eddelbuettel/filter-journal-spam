@@ -415,3 +415,7 @@ blacklist_to            eceic@eceic.org.in
 
 ## edd 07 Nov 2018      INAIT
 blacklist_from          cfp@inait-event.host
+
+## edd 19 Nov 2018
+blacklist_from          peerreviewedjournal.org
+blacklist_from          editor@ajwse.org
