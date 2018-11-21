@@ -419,3 +419,6 @@ blacklist_from          cfp@inait-event.host
 ## edd 19 Nov 2018
 blacklist_from          peerreviewedjournal.org
 blacklist_from          editor@ajwse.org
+
+## edd 21 Nov 2018      MMCTSE
+blacklist_from          mmctse.2019conf@mail.com
