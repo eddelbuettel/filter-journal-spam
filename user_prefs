@@ -420,5 +420,9 @@ blacklist_from          cfp@inait-event.host
 blacklist_from          peerreviewedjournal.org
 blacklist_from          editor@ajwse.org
 
-## edd 21 Nov 2018      MMCTSE
+## edd 21 Nov 2018      MMCTSE and 'aurora'
 blacklist_from          mmctse.2019conf@mail.com
+blacklist_from          auroraconferences.org
+
+## edd 21 Nov 2018      EENG-MS
+blacklist_from          editorial@bentham-ebmemberships.com
