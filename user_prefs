@@ -424,5 +424,8 @@ blacklist_from          editor@ajwse.org
 blacklist_from          mmctse.2019conf@mail.com
 blacklist_from          auroraconferences.org
 
-## edd 21 Nov 2018      EENG-MS
+## edd 28 Nov 2018      EENG-MS
 blacklist_from          editorial@bentham-ebmemberships.com
+
+## edd 01 Dec 2018      fair
+blacklist_from          fairpublish@daum.net
