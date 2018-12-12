@@ -429,3 +429,9 @@ blacklist_from          editorial@bentham-ebmemberships.com
 
 ## edd 01 Dec 2018      fair
 blacklist_from          fairpublish@daum.net
+
+## edd 07 Dec 2018      JoS:AiTaA
+blacklist_from          submission@scientificadvancesjournals.org 
+
+## edd 12 Dec 2018      SC Journal
+blacklist_from          submit@ajenv.org
