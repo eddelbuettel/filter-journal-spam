@@ -435,3 +435,6 @@ blacklist_from          submission@scientificadvancesjournals.org
 
 ## edd 12 Dec 2018      SC Journal
 blacklist_from          submit@ajenv.org
+
+## edd 17 Dec 2018      'Current Trends on Biostatistics and Biometrics'
+blacklist_from          biostats@lupinepublishers.org
