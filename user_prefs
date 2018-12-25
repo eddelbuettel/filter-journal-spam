@@ -444,3 +444,7 @@ blacklist_from          journals.editor@daum.net
 
 ## edd 22 Dec 2018      SciEP
 blacklist_from          sciinvitation.com
+
+## edd 25 Dec 2018      AASCIT Journal
+blacklist_from          editor@bmbjournal.org
+
