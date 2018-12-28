@@ -448,3 +448,5 @@ blacklist_from          sciinvitation.com
 ## edd 25 Dec 2018      AASCIT Journal
 blacklist_from          editor@bmbjournal.org
 
+## edd 27 Dec 2018      AJPSY
+blacklist_from          paper@ajpsy.org
