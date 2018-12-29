@@ -450,3 +450,6 @@ blacklist_from          editor@bmbjournal.org
 
 ## edd 27 Dec 2018      AJPSY
 blacklist_from          paper@ajpsy.org
+
+## edd 29 Dec 2018      Another AASCIT
+blacklist_from          editor@healthsciencesresearch.org
