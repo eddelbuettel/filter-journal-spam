@@ -453,3 +453,6 @@ blacklist_from          paper@ajpsy.org
 
 ## edd 29 Dec 2018      Another AASCIT
 blacklist_from          editor@healthsciencesresearch.org
+
+## edd 01 Jan 2019      IJLERA
+blacklist_from          contact@ijlera.com
