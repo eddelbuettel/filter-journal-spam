@@ -459,3 +459,6 @@ blacklist_from          contact@ijlera.com
 
 ## edd 04 Jan 2019      IJMREM
 blacklist_from          contact@ijmrem.com
+
+## edd 07 Jan 2019      SAI
+blacklist_from          intellisys@saiconference.com
