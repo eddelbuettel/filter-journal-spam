@@ -465,3 +465,7 @@ blacklist_from          intellisys@saiconference.com
 
 ## edd 09 Jan 2019      IJRERD
 blacklist_from          support@ijrerd.com
+
+## edd 12 Jan 2019      IWSMF
+blacklist_from          Conference_group@163.com
+
