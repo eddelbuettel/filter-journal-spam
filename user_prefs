@@ -469,3 +469,5 @@ blacklist_from          support@ijrerd.com
 ## edd 12 Jan 2019      IWSMF
 blacklist_from          Conference_group@163.com
 
+## edd 16 Jan 2019      Juniper
+blacklist_from          biostats@juniperpublishers.co
