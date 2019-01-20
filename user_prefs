@@ -471,3 +471,9 @@ blacklist_from          Conference_group@163.com
 
 ## edd 16 Jan 2019      Juniper
 blacklist_from          biostats@juniperpublishers.co
+
+## edd 17 Jan 2019      IFSDR
+blacklist_from          paper@ijsdr.net
+
+## edd 20 Jan 2019      STM Journals
+blacklist_from          stmjournals@stmjournals.info
