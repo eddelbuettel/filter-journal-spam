@@ -477,3 +477,9 @@ blacklist_from          paper@ijsdr.net
 
 ## edd 20 Jan 2019      STM Journals
 blacklist_from          stmjournals@stmjournals.info
+
+## edd 21 Jan 2019      JP Journal of Fundamental and Applied Statistics
+blacklist_from          ishaanmas201701@outlook.com
+
+## edd 27 Jan 2019      Mathematics and Computer Science
+blacklist_from          issue@modenergy.org
