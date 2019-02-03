@@ -486,4 +486,7 @@ blacklist_from          issue@modenergy.org
 
 ## edd 31 Jan 2019      big data & data science, IJRAMR
 blacklist_from          bigdata@lifescience.events
-blacklist_from          informationramr@supportijramr.com
+blacklist_from          informationramr@supportijramr.co
+
+## edd 03 Feb 2019      IJDR
+blacklist_from          *@ijdr-editorialoffice.com
