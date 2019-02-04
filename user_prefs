@@ -490,3 +490,7 @@ blacklist_from          informationramr@supportijramr.co
 
 ## edd 03 Feb 2019      IJDR
 blacklist_from          *@ijdr-editorialoffice.com
+
+## edd 04 Feb 2019      ICTE, DataMining2019
+blacklist_from          *@cspid.org
+blacklist_from          datamining@meettheglobalexpert.com
