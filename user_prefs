@@ -494,3 +494,6 @@ blacklist_from          *@ijdr-editorialoffice.com
 ## edd 04 Feb 2019      ICTE, DataMining2019
 blacklist_from          *@cspid.org
 blacklist_from          datamining@meettheglobalexpert.com
+
+## edd 14 Feb 2019      IJSMBR
+blacklist_from 		editor.ijsmbr@cmspublishers.com
