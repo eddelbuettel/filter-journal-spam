@@ -497,3 +497,7 @@ blacklist_from          datamining@meettheglobalexpert.com
 
 ## edd 14 Feb 2019      IJSMBR
 blacklist_from 		editor.ijsmbr@cmspublishers.com
+blacklist_from 		editor.sciencedomain99@gmail.com
+
+## edd 19 Feb 2019      Hot Topics in Linear Algebra
+blacklist_from 		nadyacolumbus@novapublishers.com
