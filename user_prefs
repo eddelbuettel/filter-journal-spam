@@ -504,3 +504,6 @@ blacklist_from		nadyacolumbus@novapublishers.com
 
 ## edd 20 Feb 2019
 blacklist_from 		ina663@mail1.cherish-cook.com
+
+## edd 24 Feb 2019      AA Journal
+blacklist_from 		editor@ajmaterials.org
