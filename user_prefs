@@ -507,3 +507,9 @@ blacklist_from 		ina663@mail1.cherish-cook.com
 
 ## edd 24 Feb 2019      AA Journal
 blacklist_from 		editor@ajmaterials.org
+
+## edd 25 Feb 2019      Mathematics and Computer Science
+blacklist_from 		submit@bsijournal.org
+
+## edd 28 Feb 2019      Indus
+blacklist_from 		indusjournal@indusedu.org
