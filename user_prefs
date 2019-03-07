@@ -513,3 +513,12 @@ blacklist_from 		submit@bsijournal.org
 
 ## edd 28 Feb 2019      Indus
 blacklist_from 		indusjournal@indusedu.org
+
+## edd 05 Mar 2019      Mathematics And Computer Science (again?)
+blacklist_from 		editor@ajentomology.org
+
+## edd 06 Mar 2019      ICPMS2019
+blacklist_from 		Gong@mr.pmsconf.org
+
+## edd 07 Mar 2019      MCS
+blacklist_from 		article@apjchem.org
