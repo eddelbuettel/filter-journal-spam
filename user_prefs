@@ -522,3 +522,9 @@ blacklist_from 		Gong@mr.pmsconf.org
 
 ## edd 07 Mar 2019      MCS
 blacklist_from 		article@apjchem.org
+
+## edd 08 Mar 2019      Juniper again, Plant Science, Open Access Library Journal, ICCAIRO
+blacklist_from          biostats@juniperpublishers.org
+blacklist_from          plantscience@auroraconferences.org
+blacklist_from          oalib@jkofw.org
+blacklist_from          iccairo2019@protonmail.com
