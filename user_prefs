@@ -528,3 +528,9 @@ blacklist_from          biostats@juniperpublishers.org
 blacklist_from          plantscience@auroraconferences.org
 blacklist_from          oalib@jkofw.org
 blacklist_from          iccairo2019@protonmail.com
+
+## edd 11 Mar 2019      ETJ
+blacklist_from          info.rajar@ijahm.net
+
+## edd 12 Mar 2019      IJSTRE
+blacklist_from          dhabarsi@gmail.com
