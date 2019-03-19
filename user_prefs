@@ -537,3 +537,6 @@ blacklist_from          dhabarsi@gmail.com
 
 ## edd 13 Mar 2019      Mechanical and Aerospace 2019
 blacklist_from          mechanicalandaerospace@eursciconevent.com
+
+## edd 15 Mar 2019      IJCAR
+blacklist_from          journalijcar2014@gmail.com
