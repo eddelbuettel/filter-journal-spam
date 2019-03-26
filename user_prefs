@@ -540,3 +540,16 @@ blacklist_from          mechanicalandaerospace@eursciconevent.com
 
 ## edd 15 Mar 2019      IJCAR
 blacklist_from          journalijcar2014@gmail.com
+
+## edd 20 Mar 2019      IJCMR, DataScience2019
+blacklist_from          service@ijcmr.org
+blacklist_from          datascience@coalesceconferences.com
+
+## edd 21 Mar 2019      IJSP, WMSCI, PlantScience
+blacklist_from          ijsp@ccsenet.org
+blacklist_from          cfp-summer@mail.iiisconference2019.org
+blacklist_from          plantscience@irisscientificgroup.org
+
+## edd 25 Mar 2019      ISDSA, Insight Statistics
+blacklist_from          meeting@isdsa.org
+blacklist_from          pidleteychukn85@gmail.com
