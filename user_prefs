@@ -553,3 +553,6 @@ blacklist_from          plantscience@irisscientificgroup.org
 ## edd 25 Mar 2019      ISDSA, Insight Statistics
 blacklist_from          meeting@isdsa.org
 blacklist_from          pidleteychukn85@gmail.com
+
+## edd 28 Mar           EPH Journal (to UofI)
+blacklist_from          reply@ephjournal.com
