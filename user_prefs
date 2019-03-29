@@ -554,5 +554,8 @@ blacklist_from          plantscience@irisscientificgroup.org
 blacklist_from          meeting@isdsa.org
 blacklist_from          pidleteychukn85@gmail.com
 
-## edd 28 Mar           EPH Journal (to UofI)
+## edd 28 Mar           EPH Journal (to UofI), Mathematics and Computer Science, AIJCR, Datamining 2019
 blacklist_from          reply@ephjournal.com
+blacklist_from          issue@mlrjournal.org
+blacklist_from          cpi.aijcr@gmail.comg
+blacklist_from          datamining@coalesceconferences.com
