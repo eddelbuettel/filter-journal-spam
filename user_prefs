@@ -559,3 +559,6 @@ blacklist_from          reply@ephjournal.com
 blacklist_from          issue@mlrjournal.org
 blacklist_from          cpi.aijcr@gmail.comg
 blacklist_from          datamining@coalesceconferences.com
+
+## edd 03 Apr           Agriculture and Plant Science
+blacklist_from          agri@networkwithexpert.com
