@@ -565,3 +565,7 @@ blacklist_from          agri@networkwithexpert.com
 
 ## edd 04 Apr           CSCC 2019
 blacklist_from          cscc.conf@gmail.com
+
+## edd 05 Apr           IJRDO, IJSMR
+blacklist_from          *@ijrdo.org
+blacklist_from          *@scnpublisher.com
