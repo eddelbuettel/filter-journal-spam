@@ -562,3 +562,6 @@ blacklist_from          datamining@coalesceconferences.com
 
 ## edd 03 Apr           Agriculture and Plant Science
 blacklist_from          agri@networkwithexpert.com
+
+## edd 04 Apr           CSCC 2019
+blacklist_from          cscc.conf@gmail.com
