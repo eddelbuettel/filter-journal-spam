@@ -569,3 +569,10 @@ blacklist_from          cscc.conf@gmail.com
 ## edd 05 Apr           IJRDO, IJSMR
 blacklist_from          *@ijrdo.org
 blacklist_from          *@scnpublisher.com
+
+## edd 08 Apr           e-learning confererence
+blacklist_from          *@ubi-learn.com
+
+## edd 09 Apr           Math and Comp Sci, Future Technologies
+blacklist_from          *@jfoodnutrition.org
+blacklist_from          *@saiconference.com
