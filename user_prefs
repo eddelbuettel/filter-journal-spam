@@ -573,6 +573,16 @@ blacklist_from          *@scnpublisher.com
 ## edd 08 Apr           e-learning confererence
 blacklist_from          *@ubi-learn.com
 
-## edd 09 Apr           Math and Comp Sci, Future Technologies
+## edd 09 Apr           Math and Comp Sci, Future Technologies, Journal of Statistics
 blacklist_from          *@jfoodnutrition.org
 blacklist_from          *@saiconference.com
+blacklist_from          *researchpublications.co
+
+## edd 09 Apr           ICA
+blacklist_from          *@mail1.cherish-cook.com
+
+## edd 12 Apr           IRPH
+blacklist_from          *@irphjournals.com
+
+## edd 16 Apr           Comp and Appl Math Journal
+blacklist_from          *@ajeducation.org
