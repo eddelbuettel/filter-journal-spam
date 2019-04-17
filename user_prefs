@@ -586,3 +586,6 @@ blacklist_from          *@irphjournals.com
 
 ## edd 16 Apr           Comp and Appl Math Journal
 blacklist_from          *@ajeducation.org
+
+## edd 17 Apr           IJERD 
+blacklist_from          *@rediffmail.com
