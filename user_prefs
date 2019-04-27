@@ -591,5 +591,12 @@ blacklist_from          *@ajeducation.org
 blacklist_from          *@rediffmail.com
 blacklist_from          *@ijcu.net
 
-## edd 23 Apr           ARMA
+## edd 23 Apr           ARMA, SSCHD2019
 blacklist_from          *@lupinepublishers.co
+blacklist_from          *@mail2.parrot-goes.com
+
+## edd 25 Apr           WCIO-2019
+blacklist_from          *@io2019onco.com
+
+## edd 27 Apr           IJLRHSS
+blacklist_from          *@ijlrhss.com
