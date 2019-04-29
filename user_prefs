@@ -600,3 +600,6 @@ blacklist_from          *@io2019onco.com
 
 ## edd 27 Apr           IJLRHSS
 blacklist_from          *@ijlrhss.com
+
+## edd 29 Apr           Sci J of Bioemtric and Biostatistics
+blacklist_from          *@sendresearch.com
