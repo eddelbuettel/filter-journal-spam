@@ -603,3 +603,6 @@ blacklist_from          *@ijlrhss.com
 
 ## edd 29 Apr           Sci J of Bioemtric and Biostatistics
 blacklist_from          *@sendresearch.com
+
+## edd 01 Mai           Food Science
+blacklist_from          *@coalesceconferences.com
