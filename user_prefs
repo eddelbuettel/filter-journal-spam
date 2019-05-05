@@ -606,3 +606,6 @@ blacklist_from          *@sendresearch.com
 
 ## edd 01 Mai           Food Science
 blacklist_from          *@coalesceconferences.com
+
+## edd 05 Mai           ICCSIE2019
+blacklist_from          iccsieconf@163.com
