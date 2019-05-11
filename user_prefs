@@ -604,8 +604,14 @@ blacklist_from          *@ijlrhss.com
 ## edd 29 Apr           Sci J of Bioemtric and Biostatistics
 blacklist_from          *@sendresearch.com
 
-## edd 01 Mai           Food Science
+## edd 01 May           Food Science
 blacklist_from          *@coalesceconferences.com
 
-## edd 05 Mai           ICCSIE2019
+## edd 05 May           ICCSIE2019
 blacklist_from          iccsieconf@163.com
+
+## edd 09 May           Plant Science
+blacklist_from          plantscience@magnus-group.org
+
+## edd 09 May           Plant Science
+blacklist_from          submission@jmodernchemistry.org
