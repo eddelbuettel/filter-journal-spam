@@ -619,5 +619,11 @@ blacklist_from          submission@jmodernchemistry.org
 ## edd 12 May           IOSR
 blacklist_from          buffchief.revie@daum.net
 
-## edd 13 May           MEIE
+## edd 13 May           MEIE, IJESI, Profile Online, Juniper
 blacklist_from          Daisy@mr.icmeie.com
+blacklist_from          impacthead.impa@daum.net
+blacklist_from          biostatistics@irispublishers.net
+blacklist_from          biostats@juniperpublisher.org
+
+## edd 16 May           Bioenergy
+blacklist_from          bioenergy@networkwithexpert.com
