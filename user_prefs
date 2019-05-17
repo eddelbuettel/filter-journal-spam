@@ -625,5 +625,6 @@ blacklist_from          impacthead.impa@daum.net
 blacklist_from          biostatistics@irispublishers.net
 blacklist_from          biostats@juniperpublisher.org
 
-## edd 16 May           Bioenergy
+## edd 16 May           Bioenergy, IJBSE
 blacklist_from          bioenergy@networkwithexpert.com
+blacklist_from          papers@ijbse.org
