@@ -628,3 +628,6 @@ blacklist_from          biostats@juniperpublisher.org
 ## edd 16 May           Bioenergy, IJBSE
 blacklist_from          bioenergy@networkwithexpert.com
 blacklist_from          papers@ijbse.org
+
+## edd 20 May           JIGC
+blacklist_from          editor.jigc@esciencejournal.com
