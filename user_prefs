@@ -631,3 +631,6 @@ blacklist_from          papers@ijbse.org
 
 ## edd 20 May           JIGC
 blacklist_from          editor.jigc@esciencejournal.com
+
+## edd 23 May           SOJAM
+blacklist_from          admin@sojampublish.org
