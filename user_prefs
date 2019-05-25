@@ -634,3 +634,6 @@ blacklist_from          editor.jigc@esciencejournal.com
 
 ## edd 23 May           SOJAM
 blacklist_from          admin@sojampublish.org
+
+## edd 23 May           ARIPD 
+blacklist_from          aripd.combined@gmail.com
