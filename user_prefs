@@ -637,3 +637,9 @@ blacklist_from          admin@sojampublish.org
 
 ## edd 23 May           ARIPD 
 blacklist_from          aripd.combined@gmail.com
+
+## edd 26 May           WEHRO
+blacklist_from          beatrice.taulegne@cor.europa.eu
+
+## edd 26 May           WSEAS
+blacklist_from          rena.nik.politi@hotmail.com
