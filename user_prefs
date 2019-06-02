@@ -643,3 +643,6 @@ blacklist_from          beatrice.taulegne@cor.europa.eu
 
 ## edd 26 May           WSEAS
 blacklist_from          rena.nik.politi@hotmail.com
+
+## edd 02 Jun           ITISE
+blacklist_from          ITISE_CFP@itise.org
