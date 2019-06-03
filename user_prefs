@@ -646,3 +646,6 @@ blacklist_from          rena.nik.politi@hotmail.com
 
 ## edd 02 Jun           ITISE
 blacklist_from          ITISE_CFP@itise.org
+
+## edd 03 Jun           Mathematics and Computer Science, again
+blacklist_from          *@ajafrm.org
