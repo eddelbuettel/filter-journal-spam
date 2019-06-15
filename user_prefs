@@ -649,3 +649,6 @@ blacklist_from          ITISE_CFP@itise.org
 
 ## edd 03 Jun           Mathematics and Computer Science, again
 blacklist_from          *@ajafrm.org
+
+## edd 15 Jun           RAJAR
+blacklist_from          rajar@rajournals.in
