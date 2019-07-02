@@ -652,3 +652,6 @@ blacklist_from          *@ajafrm.org
 
 ## edd 15 Jun           RAJAR
 blacklist_from          rajar@rajournals.in
+
+## edd 02 Jul           IJLRET
+blacklist_from          support@ijlret.com
