@@ -655,3 +655,6 @@ blacklist_from          rajar@rajournals.in
 
 ## edd 02 Jul           IJLRET
 blacklist_from          support@ijlret.com
+
+## edd 03 Jul           Thieme
+blacklist_from          emailjournals@thieme.com
