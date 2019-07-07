@@ -658,3 +658,6 @@ blacklist_from          support@ijlret.com
 
 ## edd 03 Jul           Thieme
 blacklist_from          emailjournals@thieme.com
+
+## edd 07 Jul           SJAMS
+blacklist_from          editorialboard@clinicalmed.org
