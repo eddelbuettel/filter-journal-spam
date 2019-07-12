@@ -661,3 +661,8 @@ blacklist_from          emailjournals@thieme.com
 
 ## edd 07 Jul           SJAMS
 blacklist_from          editorialboard@clinicalmed.org
+
+## edd 12 Jul           DDTWC, Avanti, IJMREM
+blacklist_from          info@drugdisc-conf.net
+blacklist_from          *@avantipublisher.com
+blacklist_from          editor@ijmrem.com
