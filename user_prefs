@@ -662,7 +662,15 @@ blacklist_from          emailjournals@thieme.com
 ## edd 07 Jul           SJAMS
 blacklist_from          editorialboard@clinicalmed.org
 
-## edd 12 Jul           DDTWC, Avanti, IJMREM
+## edd 12 Jul           DDTWC, Avanti, IJMREM, GBP ("Plant Biology")
 blacklist_from          info@drugdisc-conf.net
 blacklist_from          *@avantipublisher.com
 blacklist_from          editor@ijmrem.com
+blacklist_from          *@magnus-group.org
+
+## edd 19 Jul           CCCS
+blacklist_from          editorial@innovationscorrmatsci.net
+
+## edd 27 Jul           China conf, JoS:AdvTheoAppl
+blacklist_from          mnbghcx@vip.163.com
+blacklist_from          papersubmit@researchpublications.co
