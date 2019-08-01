@@ -678,3 +678,6 @@ blacklist_from          papersubmit@researchpublications.co
 ## edd 31 Jul           Frontiers in ElecEng, AmerJourn of Eng Res
 blacklist_from          editorial@ebookseries-pharmacology.net
 blacklist_from          publish_pubs96@excite.com
+
+## edd 01 Aug           IMCIC 2020
+blacklist_from          *@mail.iiisconfer2020.org
