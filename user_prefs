@@ -681,3 +681,6 @@ blacklist_from          publish_pubs96@excite.com
 
 ## edd 01 Aug           IMCIC 2020
 blacklist_from          *@mail.iiisconfer2020.org
+
+## edd 06 Aug           AJBSR
+blacklist_from          nursing@scientificresearch.co
