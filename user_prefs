@@ -684,3 +684,6 @@ blacklist_from          *@mail.iiisconfer2020.org
 
 ## edd 06 Aug           AJBSR
 blacklist_from          nursing@scientificresearch.co
+
+## edd 07 Aug           Mathematics and Computer Science, again
+blacklist_from          editorialboard@educationjournal.net
