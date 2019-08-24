@@ -699,3 +699,6 @@ blacklist_from          office93publish@excite.com
 
 ## edd 21 Aug           Biometrics&Biostatistics
 blacklist_from          biometrics@onomyresearch.org
+
+## edd 23 Aug           Science Journal of Applied Math + Stats
+blacklist_from          submission@journaloflanguage.org
