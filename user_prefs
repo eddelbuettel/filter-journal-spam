@@ -702,3 +702,6 @@ blacklist_from          biometrics@onomyresearch.org
 
 ## edd 23 Aug           Science Journal of Applied Math + Stats
 blacklist_from          submission@journaloflanguage.org
+
+## edd 26 Aug           ICNAAM
+blacklist_from          noreply@conf-support.org
