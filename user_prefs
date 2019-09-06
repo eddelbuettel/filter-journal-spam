@@ -705,3 +705,9 @@ blacklist_from          submission@journaloflanguage.org
 
 ## edd 26 Aug           ICNAAM
 blacklist_from          noreply@conf-support.org
+
+## edd 03 Sep           CCCC-MS
+blacklist_from          info@editorial-benthamsci.com
+
+## edd 06 Sep           AIIPCC_2019 review
+blacklist_from          review@am.aiipcc.org
