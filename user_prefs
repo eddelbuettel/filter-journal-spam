@@ -709,5 +709,9 @@ blacklist_from          noreply@conf-support.org
 ## edd 03 Sep           CCCC-MS
 blacklist_from          info@editorial-benthamsci.com
 
-## edd 06 Sep           AIIPCC_2019 review
+## edd 06 Sep           AIIPCC_2019 review, another reviewer
 blacklist_from          review@am.aiipcc.org
+blacklist_from          editorial@micro-rna.net
+
+## edd 06 Sep           WCIOT2019
+blacklist_from          belinda1@wcimmun-2019.com
