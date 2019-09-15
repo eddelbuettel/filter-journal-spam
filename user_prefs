@@ -715,3 +715,6 @@ blacklist_from          editorial@micro-rna.net
 
 ## edd 06 Sep           WCIOT2019
 blacklist_from          belinda1@wcimmun-2019.com
+
+## edd 15 Sep           Science Journal of Applied Math + Stats
+blacklist_from		paper@ijphmchem.org
