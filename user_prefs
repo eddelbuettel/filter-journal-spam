@@ -718,3 +718,6 @@ blacklist_from          belinda1@wcimmun-2019.com
 
 ## edd 15 Sep           Science Journal of Applied Math + Stats
 blacklist_from		paper@ijphmchem.org
+
+## edd 16 Sep           lupine, again
+blacklist_from		biostats@lupinejournals.org
