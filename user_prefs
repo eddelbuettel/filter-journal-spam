@@ -721,3 +721,6 @@ blacklist_from		paper@ijphmchem.org
 
 ## edd 16 Sep           lupine, again
 blacklist_from		biostats@lupinejournals.org
+
+## edd 18 Sep           Agri conf
+blacklist_from		agriculture@magnusmeetings.com
