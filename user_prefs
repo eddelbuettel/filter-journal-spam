@@ -724,3 +724,6 @@ blacklist_from		biostats@lupinejournals.org
 
 ## edd 18 Sep           Agri conf
 blacklist_from		agriculture@magnusmeetings.com
+
+## edd 24 Sep           ICMIC
+blacklist_from		cfp-spring@mail.iiisconf2020.org
