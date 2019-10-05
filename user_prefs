@@ -725,5 +725,18 @@ blacklist_from		biostats@lupinejournals.org
 ## edd 18 Sep           Agri conf
 blacklist_from		agriculture@magnusmeetings.com
 
-## edd 24 Sep           ICMIC
+## edd 24 Sep           IMCIC
 blacklist_from		cfp-spring@mail.iiisconf2020.org
+
+## edd 30 Sep 2019      UNCSD
+blacklist_to		sdgsummit@conference-csd.org
+
+## edd 01 Oct 2019      Science Journal of Applied Mathematics and Statistics
+blacklist_from		editor@ijsspe.org
+
+## edd 02 Oct 2019      WCAIML, Best Journal
+blacklist_from		info@ijeert.com
+blacklist_from		bestjournal45@rambler.ru
+
+## edd 03 Oct 2019      IOSR JEN
+blacklist_from		paperchief@yeah.net
