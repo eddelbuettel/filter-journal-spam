@@ -747,3 +747,6 @@ blacklist_from		editor@astronomyjournal.org
 
 ## edd 11 Oct 2019      Annals of Biostatistics & Biometric Applications
 blacklist_from		biostatistics@irisresearch.us
+
+## edd 12 Oct 2019      Crimson
+blacklist_from		oabb@crimsonpublishers.net
