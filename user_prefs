@@ -750,3 +750,10 @@ blacklist_from		biostatistics@irisresearch.us
 
 ## edd 12 Oct 2019      Crimson
 blacklist_from		oabb@crimsonpublishers.net
+
+## edd 17 Oct 2019      IJERD, Bentham
+blacklist_from		through6year@net.hr
+blacklist_from		editorial@ebook-science.net
+
+## edd 23 Oct 2019      CCCS
+blacklist_from		editorial@proteinpeptlett.net
