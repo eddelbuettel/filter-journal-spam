@@ -757,3 +757,10 @@ blacklist_from		editorial@ebook-science.net
 
 ## edd 23 Oct 2019      CCCS
 blacklist_from		editorial@proteinpeptlett.net
+
+## edd 25 Oct 2019      ICICT, SJAMS
+blacklist_from		support@icict.co.uk
+blacklist_from		submission@jhealthresearch.org
+
+## edd 30 Oct 2019      Plant Science
+blacklist_from		oxford@sci.scientific-direct.net
