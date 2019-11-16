@@ -764,3 +764,10 @@ blacklist_from		submission@jhealthresearch.org
 
 ## edd 30 Oct 2019      Plant Science
 blacklist_from		oxford@sci.scientific-direct.net
+
+## edd 07 Nov 2019      IJES, ICAMMCE2019
+blacklist_from          cool96good@freemail.hu
+blacklist_from          conf@icammce2020.org
+
+## edd 16 Nov 2019      more WSEAS
+blacklist_from          wseas-team@wseas.org
