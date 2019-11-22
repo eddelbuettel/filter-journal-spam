@@ -778,5 +778,6 @@ blacklist_from          *@ibc-congress2019.com
 ## edd 21 Nov 2019      more WSEAS
 blacklist_to            wseas.transactions@gmail.com
 
-## edd 22 Nov 2019      Science Journal of Applied Math + Stats
+## edd 22 Nov 2019      Science Journal of Applied Math + Stats, MACISE
 blacklist_from          editorialboard@animalvetsci.org
+blacklist_from          weeklyreview@iknowfirst-ai.com
