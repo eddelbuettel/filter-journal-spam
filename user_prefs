@@ -792,3 +792,7 @@ blacklist_from          angelia03@wctbcongress2020.com
 
 ## edd 27 Nov 2019      Sci-events
 blacklist_from          info@sci-events.org
+
+## edd 05 Dec 2019      IOSR, MACISE
+blacklist_from          UltimateStres002@all.bg
+blacklist_from          macise2020@outlook.com>   
