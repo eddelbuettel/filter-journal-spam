@@ -795,4 +795,7 @@ blacklist_from          info@sci-events.org
 
 ## edd 05 Dec 2019      IOSR, MACISE
 blacklist_from          UltimateStres002@all.bg
-blacklist_from          macise2020@outlook.com>   
+blacklist_from          macise2020@outlook.com>
+
+## edd 10 Dec 2019      JMSA
+blacklist_from          jmsa@sajcfp.info
