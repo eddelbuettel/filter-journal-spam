@@ -799,3 +799,6 @@ blacklist_from          macise2020@outlook.com>
 
 ## edd 10 Dec 2019      JMSA
 blacklist_from          jmsa@sajcfp.info
+
+## edd 11 Dec 2019      MACISE
+blacklist_from          macise2020@outlook.com
