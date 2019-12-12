@@ -802,3 +802,6 @@ blacklist_from          jmsa@sajcfp.info
 
 ## edd 11 Dec 2019      MACISE
 blacklist_from          macise2020@outlook.com
+
+## edd 12 Dec 2019      IJESI
+blacklist_from          xpertgreat.jour@daum.net
