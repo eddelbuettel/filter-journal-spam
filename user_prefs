@@ -805,3 +805,6 @@ blacklist_from          macise2020@outlook.com
 
 ## edd 12 Dec 2019      IJESI
 blacklist_from          xpertgreat.jour@daum.net
+
+## edd 13 Dec 2019      Juniper
+blacklist_from          biostats@junipersciences.org
