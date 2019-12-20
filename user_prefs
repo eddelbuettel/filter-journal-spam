@@ -808,3 +808,9 @@ blacklist_from          xpertgreat.jour@daum.net
 
 ## edd 13 Dec 2019      Juniper
 blacklist_from          biostats@junipersciences.org
+
+## edd 15 Dec 2019      More WSEAS
+blacklist_to		wseas.transactions@gmail.com
+
+## edd 20 Dec 2019      WCBDDMCC-2020
+blacklist_from          wcbddmcc2020@conferencesera.com
