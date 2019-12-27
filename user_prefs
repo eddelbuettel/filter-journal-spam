@@ -814,3 +814,6 @@ blacklist_to		wseas.transactions@gmail.com
 
 ## edd 20 Dec 2019      WCBDDMCC-2020
 blacklist_from          wcbddmcc2020@conferencesera.com
+
+## edd 27 Dec 2019      IJAR
+blacklist_from          editor@journalijar.com
