@@ -817,3 +817,6 @@ blacklist_from          wcbddmcc2020@conferencesera.com
 
 ## edd 27 Dec 2019      IJAR
 blacklist_from          editor@journalijar.com
+
+## edd 29 Dec 2019      Mathematics and Computer Science
+blacklist_from          journal@opticsphotonics.org
