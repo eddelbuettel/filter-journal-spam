@@ -820,3 +820,6 @@ blacklist_from          editor@journalijar.com
 
 ## edd 29 Dec 2019      Mathematics and Computer Science
 blacklist_from          journal@opticsphotonics.org
+
+## edd 31 Dec 2019      MEIE
+blacklist_from          *@mr.icmeie.com
