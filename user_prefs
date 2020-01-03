@@ -823,3 +823,6 @@ blacklist_from          journal@opticsphotonics.org
 
 ## edd 31 Dec 2019      MEIE
 blacklist_from          *@mr.icmeie.com
+
+## edd 02 Jan 2020      4th Global Summit on Nanotechnology
+blacklist_from          nanotechnology@czechiacongress.com
