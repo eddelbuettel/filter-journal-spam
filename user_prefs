@@ -826,3 +826,7 @@ blacklist_from          *@mr.icmeie.com
 
 ## edd 02 Jan 2020      4th Global Summit on Nanotechnology
 blacklist_from          nanotechnology@czechiacongress.com
+
+## edd 08 Jan 2020      IJSTRE, SCML
+blacklist_from          furqanali241@gmail.com
+blacklist_from          scml@icscml.org
