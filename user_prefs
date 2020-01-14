@@ -830,3 +830,6 @@ blacklist_from          nanotechnology@czechiacongress.com
 ## edd 08 Jan 2020      IJSTRE, SCML
 blacklist_from          furqanali241@gmail.com
 blacklist_from          scml@icscml.org
+
+## edd 10 Jan 2020      MMSSE 2020
+blacklist_from          zoe.michel@alphabank.gr
