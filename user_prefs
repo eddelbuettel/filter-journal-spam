@@ -833,3 +833,7 @@ blacklist_from          scml@icscml.org
 
 ## edd 10 Jan 2020      MMSSE 2020
 blacklist_from          zoe.michel@alphabank.gr
+
+## edd 17 Jan 2020      SWCC, ETJ
+blacklist_from          info@editorial-peer-review.net
+blacklist_from          editor@everant.org
