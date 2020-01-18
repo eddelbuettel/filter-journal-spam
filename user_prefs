@@ -837,3 +837,6 @@ blacklist_from          zoe.michel@alphabank.gr
 ## edd 17 Jan 2020      SWCC, ETJ
 blacklist_from          info@editorial-peer-review.net
 blacklist_from          editor@everant.org
+
+## edd 18 Jan 2020      Agriculture
+blacklist_from          agriculture@biocorejapan.info
