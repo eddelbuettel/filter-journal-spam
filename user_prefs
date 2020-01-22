@@ -840,3 +840,6 @@ blacklist_from          editor@everant.org
 
 ## edd 18 Jan 2020      Agriculture
 blacklist_from          agriculture@biocorejapan.info
+
+## edd 22 Jan 2020      Bentham, again: Current Chinese Computer Science
+blacklist_from          editorial@currentchinesecomputerscience.net
