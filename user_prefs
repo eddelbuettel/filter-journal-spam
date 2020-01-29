@@ -843,3 +843,7 @@ blacklist_from          agriculture@biocorejapan.info
 
 ## edd 22 Jan 2020      Bentham, again: Current Chinese Computer Science
 blacklist_from          editorial@currentchinesecomputerscience.net
+
+## edd 29 Jan 2020      IJDA
+blacklist_from          Liam1122James@outlook.com
+
