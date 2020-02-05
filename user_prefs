@@ -852,3 +852,6 @@ blacklist_from          editor@ajere.net
 
 ## edd 04 Feb 2020      CSAE 2020
 blacklist_from          Yang@mr.csaeconf.org
+
+## edd 05 Feb 2020      Mathematics and Computer Science, again
+blacklist_from          issue@ijhep.org
