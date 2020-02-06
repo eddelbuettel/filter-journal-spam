@@ -855,3 +855,6 @@ blacklist_from          Yang@mr.csaeconf.org
 
 ## edd 05 Feb 2020      Mathematics and Computer Science, again
 blacklist_from          issue@ijhep.org
+
+## edd 05 Feb 2020      Asian Journal of Computer Science Engineering
+blacklist_from          hodca@meu.edu.in
