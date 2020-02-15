@@ -858,3 +858,6 @@ blacklist_from          issue@ijhep.org
 
 ## edd 05 Feb 2020      Asian Journal of Computer Science Engineering
 blacklist_from          hodca@meu.edu.in
+
+## edd 20 Feb 2020      Big Data 2019 (!!)
+blacklist_from          bigdata@insightsconferences.com
