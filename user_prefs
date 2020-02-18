@@ -859,5 +859,8 @@ blacklist_from          issue@ijhep.org
 ## edd 05 Feb 2020      Asian Journal of Computer Science Engineering
 blacklist_from          hodca@meu.edu.in
 
-## edd 20 Feb 2020      Big Data 2019 (!!)
+## edd 15 Feb 2020      Big Data 2019 (!!)
 blacklist_from          bigdata@insightsconferences.com
+
+## edd 18 Feb 2020      Food Science
+blacklist_from          foodscience@biocorejapan.info
