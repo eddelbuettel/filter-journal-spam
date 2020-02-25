@@ -865,6 +865,10 @@ blacklist_from          bigdata@insightsconferences.com
 ## edd 18 Feb 2020      Food Science
 blacklist_from          foodscience@biocorejapan.info
 
-## edd 19 Feb 2020      Martials Science, Juniper (again!!)
+## edd 19 Feb 2020      Materials Science, Juniper (again!!)
 blacklist_from          materialsscience@czechiacongress.com
 blacklist_from          biostats@juniperpublishers-nl.org
+
+## edd 25 Feb 2020      WMSCI 2020, IJECS
+blacklist_from          *@2020conf-iiis.org
+blacklist_from          editorialboard@ijecs.org
