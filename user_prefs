@@ -869,6 +869,7 @@ blacklist_from          foodscience@biocorejapan.info
 blacklist_from          materialsscience@czechiacongress.com
 blacklist_from          biostats@juniperpublishers-nl.org
 
-## edd 25 Feb 2020      WMSCI 2020, IJECS
+## edd 25 Feb 2020      WMSCI 2020, IJECS, JPFAS
 blacklist_from          *@2020conf-iiis.org
 blacklist_from          editorialboard@ijecs.org
+blacklist_from          iph201701@outlook.com
