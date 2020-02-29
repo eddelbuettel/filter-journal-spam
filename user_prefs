@@ -873,3 +873,6 @@ blacklist_from          biostats@juniperpublishers-nl.org
 blacklist_from          *@2020conf-iiis.org
 blacklist_from          editorialboard@ijecs.org
 blacklist_from          iph201701@outlook.com
+
+## edd 29 Feb 2020      Chemistry Congress
+blacklist_from          chemistrycongress@biocoreitaly.info
