@@ -876,3 +876,6 @@ blacklist_from          iph201701@outlook.com
 
 ## edd 29 Feb 2020      Chemistry Congress
 blacklist_from          chemistrycongress@biocoreitaly.info
+
+## edd 03 Mar 2020      Global Journals Inc
+blacklist_from          chiefauthor@computerresearch.org
