@@ -879,3 +879,6 @@ blacklist_from          chemistrycongress@biocoreitaly.info
 
 ## edd 03 Mar 2020      Global Journals Inc
 blacklist_from          chiefauthor@computerresearch.org
+
+## edd 05 Mar 2020      AJAM
+blacklist_from          member@clinicalmed.org
