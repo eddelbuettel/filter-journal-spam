@@ -883,5 +883,6 @@ blacklist_from          chiefauthor@computerresearch.org
 ## edd 05 Mar 2020      AJAM
 blacklist_from          member@clinicalmed.org
 
-## edd 09 Mar 2020      FSDM2020
+## edd 09 Mar 2020      FSDM2020, AJBSR
 blacklist_from          invitation@confcfp.org
+blacklist_from          drugdesigning@scientificresearch.co
