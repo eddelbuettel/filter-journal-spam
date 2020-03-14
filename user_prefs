@@ -496,32 +496,32 @@ blacklist_from          *@cspid.org
 blacklist_from          datamining@meettheglobalexpert.com
 
 ## edd 14 Feb 2019      IJSMBR
-blacklist_from 		editor.ijsmbr@cmspublishers.com
-blacklist_from 		editor.sciencedomain99@gmail.com
+blacklist_from          editor.ijsmbr@cmspublishers.com
+blacklist_from          editor.sciencedomain99@gmail.com
 
-## edd 19 Feb 2019	Hot Topics in Linear Algebra
-blacklist_from		nadyacolumbus@novapublishers.com
+## edd 19 Feb 2019      Hot Topics in Linear Algebra
+blacklist_from          nadyacolumbus@novapublishers.com
 
 ## edd 20 Feb 2019
-blacklist_from 		ina663@mail1.cherish-cook.com
+blacklist_from          ina663@mail1.cherish-cook.com
 
 ## edd 24 Feb 2019      AA Journal
-blacklist_from 		editor@ajmaterials.org
+blacklist_from          editor@ajmaterials.org
 
 ## edd 25 Feb 2019      Mathematics and Computer Science
-blacklist_from 		submit@bsijournal.org
+blacklist_from          submit@bsijournal.org
 
 ## edd 28 Feb 2019      Indus
-blacklist_from 		indusjournal@indusedu.org
+blacklist_from          indusjournal@indusedu.org
 
 ## edd 05 Mar 2019      Mathematics And Computer Science (again?)
-blacklist_from 		editor@ajentomology.org
+blacklist_from          editor@ajentomology.org
 
 ## edd 06 Mar 2019      ICPMS2019
-blacklist_from 		Gong@mr.pmsconf.org
+blacklist_from          Gong@mr.pmsconf.org
 
 ## edd 07 Mar 2019      MCS
-blacklist_from 		article@apjchem.org
+blacklist_from          article@apjchem.org
 
 ## edd 08 Mar 2019      Juniper again, Plant Science, Open Access Library Journal, ICCAIRO
 blacklist_from          biostats@juniperpublishers.org
@@ -717,53 +717,53 @@ blacklist_from          editorial@micro-rna.net
 blacklist_from          belinda1@wcimmun-2019.com
 
 ## edd 15 Sep           Science Journal of Applied Math + Stats
-blacklist_from		paper@ijphmchem.org
+blacklist_from          paper@ijphmchem.org
 
 ## edd 16 Sep           lupine, again
-blacklist_from		biostats@lupinejournals.org
+blacklist_from          biostats@lupinejournals.org
 
 ## edd 18 Sep           Agri conf
-blacklist_from		agriculture@magnusmeetings.com
+blacklist_from          agriculture@magnusmeetings.com
 
 ## edd 24 Sep           IMCIC
-blacklist_from		cfp-spring@mail.iiisconf2020.org
+blacklist_from          cfp-spring@mail.iiisconf2020.org
 
 ## edd 30 Sep 2019      UNCSD
-blacklist_to		sdgsummit@conference-csd.org
+blacklist_to            sdgsummit@conference-csd.org
 
 ## edd 01 Oct 2019      Science Journal of Applied Mathematics and Statistics
-blacklist_from		editor@ijsspe.org
+blacklist_from          editor@ijsspe.org
 
 ## edd 02 Oct 2019      WCAIML, Best Journal
-blacklist_from		info@ijeert.com
-blacklist_from		bestjournal45@rambler.ru
+blacklist_from          info@ijeert.com
+blacklist_from          bestjournal45@rambler.ru
 
 ## edd 03 Oct 2019      IOSR JEN
-blacklist_from		paperchief@yeah.net
+blacklist_from          paperchief@yeah.net
 
 ## edd 09 Oct 2019      IJMRET
-blacklist_from		ijmret.asia1@gmail.com
-blacklist_from		editor@astronomyjournal.org
+blacklist_from          ijmret.asia1@gmail.com
+blacklist_from          editor@astronomyjournal.org
 
 ## edd 11 Oct 2019      Annals of Biostatistics & Biometric Applications
-blacklist_from		biostatistics@irisresearch.us
+blacklist_from          biostatistics@irisresearch.us
 
 ## edd 12 Oct 2019      Crimson
-blacklist_from		oabb@crimsonpublishers.net
+blacklist_from          oabb@crimsonpublishers.net
 
 ## edd 17 Oct 2019      IJERD, Bentham
-blacklist_from		through6year@net.hr
-blacklist_from		editorial@ebook-science.net
+blacklist_from          through6year@net.hr
+blacklist_from          editorial@ebook-science.net
 
 ## edd 23 Oct 2019      CCCS
-blacklist_from		editorial@proteinpeptlett.net
+blacklist_from          editorial@proteinpeptlett.net
 
 ## edd 25 Oct 2019      ICICT, SJAMS
-blacklist_from		support@icict.co.uk
-blacklist_from		submission@jhealthresearch.org
+blacklist_from          support@icict.co.uk
+blacklist_from          submission@jhealthresearch.org
 
 ## edd 30 Oct 2019      Plant Science
-blacklist_from		oxford@sci.scientific-direct.net
+blacklist_from          oxford@sci.scientific-direct.net
 
 ## edd 07 Nov 2019      IJES, ICAMMCE2019
 blacklist_from          cool96good@freemail.hu
@@ -810,7 +810,7 @@ blacklist_from          xpertgreat.jour@daum.net
 blacklist_from          biostats@junipersciences.org
 
 ## edd 15 Dec 2019      More WSEAS
-blacklist_to		wseas.transactions@gmail.com
+blacklist_to            wseas.transactions@gmail.com
 
 ## edd 20 Dec 2019      WCBDDMCC-2020
 blacklist_from          wcbddmcc2020@conferencesera.com
@@ -886,3 +886,6 @@ blacklist_from          member@clinicalmed.org
 ## edd 09 Mar 2020      FSDM2020, AJBSR
 blacklist_from          invitation@confcfp.org
 blacklist_from          drugdesigning@scientificresearch.co
+
+## edd 14 Mar 2020      JJR
+blacklist_from          editor@sciencexcel.info
