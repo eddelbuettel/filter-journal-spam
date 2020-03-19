@@ -895,3 +895,6 @@ blacklist_from          factor.most152@rambler.ru
 
 ## edd 18 Mar 2020      IJERD
 blacklist_from          rassiindex@rambler.ru
+
+## edd 19 Mar 2020      Open Artificial Intelligence Journal
+blacklist_from          editorial@openartificialintelligencej.net
