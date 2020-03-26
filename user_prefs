@@ -898,3 +898,6 @@ blacklist_from          rassiindex@rambler.ru
 
 ## edd 19 Mar 2020      Open Artificial Intelligence Journal
 blacklist_from          editorial@openartificialintelligencej.net
+
+## edd 25 Mar 2020      Math and Comp Sci, again
+blacklist_from          editor@awcnjournal.org
