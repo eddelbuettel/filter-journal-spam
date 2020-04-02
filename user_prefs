@@ -904,3 +904,6 @@ blacklist_from          editor@awcnjournal.org
 
 ## edd 27 Mar 2020      Plant Science 2020
 blacklist_from          plantscience@scietechinternational.biz
+
+## edd 02 Apr 2020      Internantional Organization of Scientific Research
+blacklist_from          band.with76@all.bg
