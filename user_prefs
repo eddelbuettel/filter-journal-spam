@@ -907,3 +907,6 @@ blacklist_from          plantscience@scietechinternational.biz
 
 ## edd 02 Apr 2020      Internantional Organization of Scientific Research
 blacklist_from          band.with76@all.bg
+
+## edd 08 Apr 2020      Dr Leonid Aronov (promising unnamed Journals)
+blacklist_from          dr.leonid.aronov@finviz.com
