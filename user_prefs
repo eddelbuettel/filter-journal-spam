@@ -910,3 +910,6 @@ blacklist_from          band.with76@all.bg
 
 ## edd 08 Apr 2020      Dr Leonid Aronov (promising unnamed Journals)
 blacklist_from          dr.leonid.aronov@finviz.com
+
+## edd 10 Apr 2020      IJPERA
+blacklist_from          dent.speed180@all.bg
