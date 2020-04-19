@@ -914,3 +914,10 @@ blacklist_from          dr.leonid.aronov@finviz.com
 ## edd 10 Apr 2020      IJPERA, WorldS4
 blacklist_from          dent.speed180@all.bg
 blacklist_from          support@worlds4.co.uk
+
+## edd 11 Apr 2020      INASE, again
+blacklist_from          inase.e-conferences@inase.org
+
+## edd 18 Apr 2020      CMSIM, AJAM
+blacklist_from          Secretariat@cmsim.de
+blacklist_from          editorialboard@ajphyschem.org
