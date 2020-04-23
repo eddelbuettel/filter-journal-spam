@@ -921,3 +921,6 @@ blacklist_from          inase.e-conferences@inase.org
 ## edd 18 Apr 2020      CMSIM, AJAM
 blacklist_from          Secretariat@cmsim.de
 blacklist_from          editorialboard@ajphyschem.org
+
+## edd 23 Apr 2020      ICPEM2020
+blacklist_from		icpem@icpem.cn
