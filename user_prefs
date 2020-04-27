@@ -924,3 +924,6 @@ blacklist_from          editorialboard@ajphyschem.org
 
 ## edd 23 Apr 2020      ICPEM2020
 blacklist_from		icpem@icpem.cn
+
+## edd 27 Apr 2020      Lupine, again
+blacklist_from		biostats@lupinepublisher.co
