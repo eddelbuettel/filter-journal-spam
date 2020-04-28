@@ -927,3 +927,6 @@ blacklist_from		icpem@icpem.cn
 
 ## edd 27 Apr 2020      Lupine, again
 blacklist_from		biostats@lupinepublisher.co
+
+## edd 28 Apr 2020      IJES
+blacklist_from		bestindex35407@excite.com
