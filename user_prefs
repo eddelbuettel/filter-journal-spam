@@ -931,5 +931,6 @@ blacklist_from		biostats@lupinepublisher.co
 ## edd 28 Apr 2020      IJES
 blacklist_from		bestindex35407@excite.com
 
-## edd 29 Apr 2020      Bentham, again
+## edd 29 Apr 2020      Bentham, again; Vaccines Virtual
 blacklist_from		editorial@openartificialintelligencejournal.net
+blacklist_from		vaccines@magnusgroupllc.com
