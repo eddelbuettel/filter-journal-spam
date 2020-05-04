@@ -934,3 +934,6 @@ blacklist_from		bestindex35407@excite.com
 ## edd 29 Apr 2020      Bentham, again; Vaccines Virtual
 blacklist_from		editorial@openartificialintelligencejournal.net
 blacklist_from		vaccines@magnusgroupllc.com
+
+## edd 04 May 2020      SOFT2020
+blacklist_from		stevesmith.phd@hotmail.com
