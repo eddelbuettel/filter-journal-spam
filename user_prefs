@@ -1,4 +1,5 @@
-
+## -*- mode: makefile; -*-
+##
 ## The following is a reduced subset of what has accumulated in 
 ## my ~/.spamassassin/user_prefs since 2002
 ##
@@ -953,3 +954,6 @@ blacklist_from		RobertLee@oatjournals.com
 
 ## edd 23 May           WCC-2021
 blacklist_from		judy06@cmcb2020.com
+
+## edd 01 Jun           Current Chinese Computer Science
+blacklist_from		info@drugdiscoveryconference.net
