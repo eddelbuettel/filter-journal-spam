@@ -960,3 +960,6 @@ blacklist_from		info@drugdiscoveryconference.net
 
 ## edd 06 Jun           18 Geography Paper
 blacklist_from		Anders@mail4.orchid-bean.com
+
+## edd 15 Jun		Chinese Journal of Artificial Intelligence
+blacklist_from		editorial@ccs-artificial-intell.net
