@@ -963,3 +963,7 @@ blacklist_from		Anders@mail4.orchid-bean.com
 
 ## edd 15 Jun		Chinese Journal of Artificial Intelligence
 blacklist_from		editorial@ccs-artificial-intell.net
+
+## edd 22 Jun		MLIS2020, IJERD
+blacklist_from		info@machinelearningconf.org
+blacklist_from		editor@artile-publish.in
