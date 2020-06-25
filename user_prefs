@@ -967,3 +967,6 @@ blacklist_from		editorial@ccs-artificial-intell.net
 ## edd 22 Jun		MLIS2020, IJERD
 blacklist_from		info@machinelearningconf.org
 blacklist_from		editor@artile-publish.in
+
+## edd 23 Jun		IJNME
+blacklist_from		ijnme@biocoregroup.info
