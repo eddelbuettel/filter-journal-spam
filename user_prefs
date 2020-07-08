@@ -974,3 +974,6 @@ blacklist_from		ijnme@biocoregroup.info
 ## edd 29 Jun		CCS, IJEFMS
 blacklist_from		editorial@curentchinesecomputersciencejournal.net
 blacklist_from		jocelyn.h@ijefms.org
+
+## edd 08 Jul		Asian Journal of Computer Science Engineering
+blacklist_from		journals@mandsauruniversity.edu.in
