@@ -977,3 +977,9 @@ blacklist_from		jocelyn.h@ijefms.org
 
 ## edd 08 Jul		Asian Journal of Computer Science Engineering
 blacklist_from		journals@mandsauruniversity.edu.in
+
+## edd 10 Jul		Mathematics and Computers in Sciences and Industry
+blacklist_from		info@mcsi-conf.org
+
+## edd 15 Jul 2020	Journal of Applied Math and Stat
+blacklist_from		article@ajist.org
