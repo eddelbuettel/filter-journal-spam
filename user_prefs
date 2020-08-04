@@ -990,3 +990,6 @@ blacklist_from		editor@journalsforu.com
 ## edd 28 Jul 2020	Amer J of Appl Math, Sc J of Appl Math + Stats
 blacklist_from		williams@jphysics.org>
 blacklist_from		issue@jbed.org
+
+## edd 04 Aug 2020	IJAREM
+blacklist_from		submission@ijarem.org
