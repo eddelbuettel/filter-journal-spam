@@ -993,3 +993,9 @@ blacklist_from		issue@jbed.org
 
 ## edd 04 Aug 2020	IJAREM
 blacklist_from		submission@ijarem.org
+
+## edd 07 Aug 2020	Savant Journals
+blacklist_from		q@aff3.online
+
+## edd 09 Aug 2020	IJRES
+blacklist_from		editor@articleuk.com
