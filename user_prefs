@@ -999,3 +999,6 @@ blacklist_from		q@aff3.online
 
 ## edd 09 Aug 2020	IJRES
 blacklist_from		editor@articleuk.com
+
+## edd 12 Aug 2020	Mathematics and Computer Science, again
+blacklist_from		hodges@acmjournal.org
