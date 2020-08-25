@@ -1002,3 +1002,7 @@ blacklist_from		editor@articleuk.com
 
 ## edd 12 Aug 2020	Mathematics and Computer Science, again
 blacklist_from		hodges@acmjournal.org
+
+## edd 25 Aug 2020	CSMA2020, ACC
+blacklist_from		csma@ectaprm.com
+blacklist_from		acc@ngapor.com
