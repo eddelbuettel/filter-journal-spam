@@ -1006,3 +1006,9 @@ blacklist_from		hodges@acmjournal.org
 ## edd 25 Aug 2020	CSMA2020, ACC
 blacklist_from		csma@ectaprm.com
 blacklist_from		acc@ngapor.com
+
+## edd 25 Aug 2020	IOSR
+blacklist_from		editor@journalsarticles.com
+
+## edd 09 Sep 2020	Sc J of Appl Math & Stats
+blacklist_from		khloe@applscires.com
