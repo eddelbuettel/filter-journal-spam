@@ -1024,3 +1024,6 @@ blacklist_from		ma.naidu@mipmandsaur.org
 
 ## edd 04 Oct 2020	WCC2020
 blacklist_from		aina03@wcc2020-congress.com
+
+## edd 06 Oct 2020	IMCIC2021
+blacklist_from		cfp-spring@2021conf-iiis.org
