@@ -1027,3 +1027,6 @@ blacklist_from		aina03@wcc2020-congress.com
 
 ## edd 06 Oct 2020	IMCIC2021
 blacklist_from		cfp-spring@2021conf-iiis.org
+
+## edd 09 Oct 2020	Applied Math Eng Comp Sci
+blacklist_from		dr.g.petrakis@polito.it
