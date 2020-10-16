@@ -1030,3 +1030,6 @@ blacklist_from		cfp-spring@2021conf-iiis.org
 
 ## edd 09 Oct 2020	Applied Math Eng Comp Sci
 blacklist_from		dr.g.petrakis@polito.it
+
+## edd 16 Oct 2020	JHMHP
+blacklist_from		email@amegroups.net
