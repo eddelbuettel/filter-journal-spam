@@ -1033,3 +1033,6 @@ blacklist_from		dr.g.petrakis@polito.it
 
 ## edd 16 Oct 2020	JHMHP
 blacklist_from		email@amegroups.net
+
+## edd 21 Oct 2020	SJAMS
+blacklist_from		editor@apjcm.org
