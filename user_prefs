@@ -1036,3 +1036,6 @@ blacklist_from		email@amegroups.net
 
 ## edd 21 Oct 2020	SJAMS
 blacklist_from		editor@apjcm.org
+
+## edd 26 Oct 2020	AJPS
+blacklist_from		editor.journal27@gmail.com
