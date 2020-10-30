@@ -1039,3 +1039,9 @@ blacklist_from		editor@apjcm.org
 
 ## edd 26 Oct 2020	AJPS
 blacklist_from		editor.journal27@gmail.com
+
+## edd 27 Oct 2020      INASE, again
+blacklist_from		selected-conferences-2020@simplywall.st
+
+## edd 29 Oct 2020      Lupine, again
+blacklist_from		medicalsciences@lupinejournals.co
