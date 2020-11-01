@@ -42,7 +42,7 @@ blacklist_from          *@guideproweb.com
 ## edd 05 Nov 2016      Conference spam
 blacklist_from          *@theired.org
 
-## edd 09 Nov 2016      ijoer conf 
+## edd 09 Nov 2016      ijoer conf
 blacklist_from          *@ijoer.org
 
 ## edd 02 Dec 2016      sudden spam
@@ -111,7 +111,7 @@ blacklist_from          *@nrpubl.org
 ## edd 08 Dec 2017      European Journal of Experimental Biology
 blacklist_from          .*scholarlyjournals.org
 
-## edd 13 Dec 2017      
+## edd 13 Dec 2017
 blacklist_from          ijres04@rediffmail.com
 
 ## edd 14 Dec 2017      WSEAS Conferences
@@ -121,7 +121,7 @@ blacklist_from          *@wopu.org
 blacklist_to            contact@icrtes.org
 
 ## edd 16 Dec 2017      EECCMD
-blacklist_to            bala@eeccmc.org 
+blacklist_to            bala@eeccmc.org
 
 ## edd 17 Dec 2017      MMCTSE 2018
 blacklist_to            mmctse.conf@gmail.com
@@ -150,7 +150,7 @@ blacklist_from          xrhnhd@sina.com
 ## edd 10 Jan 2018      ICSTSS
 blacklist_from          conference@icstss.com
 
-## edd 16 Jan 2018      
+## edd 16 Jan 2018
 blacklist_from          mail.iiisconfer2018.org
 
 ## edd 17 Jan 2018      JPRSS (spammed gsoc-mentors)
@@ -170,29 +170,29 @@ blacklist_from          invention001@rediffmail.com
 ## edd 22 Jan 2018
 blacklist_from          secretariat@weecnetwork.org
 
-## edd 23 Jan 2018      
+## edd 23 Jan 2018
 blacklist_from          info@events-science.info
 blacklist_from          events@riskscience.co.za
 
-## edd 23 Jan 2018      
+## edd 23 Jan 2018
 blacklist_from          theijes.paper111@rediffmail.com
 blacklist_from          informationsociety@cambridge-energy.org
 
-## edd 24 Jan 2018      
+## edd 24 Jan 2018
 blacklist_from          ijerd02@rediffmail.com
 blacklist_from          submit.ijceronline@rediffmail.com
 
-## edd 28 Jan 2018      
+## edd 28 Jan 2018
 blacklist_from          editor@ijsei.com
 
-## edd 31 Jan 2018      
+## edd 31 Jan 2018
 blacklist_from          research-articles@juniperpublishers.org
 blacklist_from          cfhhhpn38@vip.163.com
 
 ## edd 02 Feb 2018      CNAI2018
 blacklist_from          Edward@mail1.interest-soon.com
 
-## edd 03 Feb 2018      American Review of Mathematics and Statistics (yeah, right) 
+## edd 03 Feb 2018      American Review of Mathematics and Statistics (yeah, right)
 blacklist_from          ssa30@cspid.org
 blacklist_from          banaghe.rdaisuke22@yahoo.com
 blacklist_from          renidimirova@yandex.com
@@ -237,7 +237,7 @@ blacklist_from          sequencing@molecularbiologyjournals.com
 blacklist_from          *@scientificresearchjournal.info
 
 ## edd 09 Mar 2018      IJRRE
-blacklist_from          manuscript_Invitation@opentransfer.co.cc 
+blacklist_from          manuscript_Invitation@opentransfer.co.cc
 
 ## edd 11 Mar 2018      Spring Journals
 blacklist_from          no-reply@springjournals.tk
@@ -269,7 +269,7 @@ blacklist_from          theijes.paper008@rediffmail.com
 blacklist_from          ICCSIE@email.ia-ast.org
 
 ## edd 06 Apr 2018      Donnish
-blacklist_to            contact@donnishjournals.org  
+blacklist_to            contact@donnishjournals.org
 
 ## edd 12 Apr 2018      IJMSI
 blacklist_from          ijmsi7@rediffmail.com
@@ -286,7 +286,7 @@ blacklist_from          info@science-event.com
 ## edd 27 Apr 2018      Science Journal of Applied Mathematics and Statistics
 blacklist_from          issue@easjournal.net
 
-## edd 30 Apr 2018      
+## edd 30 Apr 2018
 blacklist_to            contact@icmae.org.in
 
 ## edd 01 May 2018      PRCV 2018
@@ -381,7 +381,7 @@ blacklist_from          icpcsi.org
 ## edd 24 Aug 2018      IJIESR
 blacklist_from          ijiesr.com
 
-## edd 09 Sep 2018      
+## edd 09 Sep 2018
 blacklist_from          submit@scientificadvances.in
 
 ## edd 19 Sep 2018      theijes.com -- broad-based spam
@@ -411,8 +411,8 @@ blacklist_to            jcsr@bilpublishing.com
 ## edd 21 Oct 2018      SciEP
 blacklist_to            submit@sciepub.com
 
-## edd 05 Nov 2018      
-blacklist_to            eceic@eceic.org.in     
+## edd 05 Nov 2018
+blacklist_to            eceic@eceic.org.in
 
 ## edd 07 Nov 2018      INAIT
 blacklist_from          cfp@inait-event.host
@@ -432,7 +432,7 @@ blacklist_from          editorial@bentham-ebmemberships.com
 blacklist_from          fairpublish@daum.net
 
 ## edd 07 Dec 2018      JoS:AiTaA
-blacklist_from          submission@scientificadvancesjournals.org 
+blacklist_from          submission@scientificadvancesjournals.org
 
 ## edd 12 Dec 2018      SC Journal
 blacklist_from          submit@ajenv.org
@@ -636,7 +636,7 @@ blacklist_from          editor.jigc@esciencejournal.com
 ## edd 23 May           SOJAM
 blacklist_from          admin@sojampublish.org
 
-## edd 23 May           ARIPD 
+## edd 23 May           ARIPD
 blacklist_from          aripd.combined@gmail.com
 
 ## edd 26 May           WEHRO
@@ -924,124 +924,127 @@ blacklist_from          Secretariat@cmsim.de
 blacklist_from          editorialboard@ajphyschem.org
 
 ## edd 23 Apr 2020      ICPEM2020
-blacklist_from		icpem@icpem.cn
+blacklist_from          icpem@icpem.cn
 
 ## edd 27 Apr 2020      Lupine, again
-blacklist_from		biostats@lupinepublisher.co
+blacklist_from          biostats@lupinepublisher.co
 
 ## edd 28 Apr 2020      IJES
-blacklist_from		bestindex35407@excite.com
+blacklist_from          bestindex35407@excite.com
 
 ## edd 29 Apr 2020      Bentham, again; Vaccines Virtual
-blacklist_from		editorial@openartificialintelligencejournal.net
-blacklist_from		vaccines@magnusgroupllc.com
+blacklist_from          editorial@openartificialintelligencejournal.net
+blacklist_from          vaccines@magnusgroupllc.com
 
 ## edd 04 May 2020      SOFT2020
-blacklist_from		stevesmith.phd@hotmail.com
+blacklist_from          stevesmith.phd@hotmail.com
 
 ## edd 06 May 2020      IJSPTM
-blacklist_from		mary10_shelley@yahoo.com
+blacklist_from          mary10_shelley@yahoo.com
 
 ## edd 07 May 2020      Editage
-blacklist_from		aparna.ayyar@editage.com
+blacklist_from          aparna.ayyar@editage.com
 
 ## edd 14 May           PEEES2020, WCC-2021
-blacklist_from		dr.bianca@vip.163.com
-blacklist_from		Mandy14@gastrointestinalconference2019.com
+blacklist_from          dr.bianca@vip.163.com
+blacklist_from          Mandy14@gastrointestinalconference2019.com
 
 ## edd 15 May           JClinInvAndStudies
-blacklist_from		RobertLee@oatjournals.com
+blacklist_from          RobertLee@oatjournals.com
 
 ## edd 23 May           WCC-2021
-blacklist_from		judy06@cmcb2020.com
+blacklist_from          judy06@cmcb2020.com
 
 ## edd 01 Jun           Current Chinese Computer Science
-blacklist_from		info@drugdiscoveryconference.net
+blacklist_from          info@drugdiscoveryconference.net
 
 ## edd 06 Jun           18 Geography Paper
-blacklist_from		Anders@mail4.orchid-bean.com
+blacklist_from          Anders@mail4.orchid-bean.com
 
-## edd 15 Jun		Chinese Journal of Artificial Intelligence
-blacklist_from		editorial@ccs-artificial-intell.net
+## edd 15 Jun           Chinese Journal of Artificial Intelligence
+blacklist_from          editorial@ccs-artificial-intell.net
 
-## edd 22 Jun		MLIS2020, IJERD
-blacklist_from		info@machinelearningconf.org
-blacklist_from		editor@artile-publish.in
+## edd 22 Jun           MLIS2020, IJERD
+blacklist_from          info@machinelearningconf.org
+blacklist_from          editor@artile-publish.in
 
-## edd 23 Jun		IJNME
-blacklist_from		ijnme@biocoregroup.info
+## edd 23 Jun           IJNME
+blacklist_from          ijnme@biocoregroup.info
 
-## edd 29 Jun		CCS, IJEFMS
-blacklist_from		editorial@curentchinesecomputersciencejournal.net
-blacklist_from		jocelyn.h@ijefms.org
+## edd 29 Jun           CCS, IJEFMS
+blacklist_from          editorial@curentchinesecomputersciencejournal.net
+blacklist_from          jocelyn.h@ijefms.org
 
-## edd 08 Jul		Asian Journal of Computer Science Engineering
-blacklist_from		journals@mandsauruniversity.edu.in
+## edd 08 Jul           Asian Journal of Computer Science Engineering
+blacklist_from          journals@mandsauruniversity.edu.in
 
-## edd 10 Jul		Mathematics and Computers in Sciences and Industry
-blacklist_from		info@mcsi-conf.org
+## edd 10 Jul           Mathematics and Computers in Sciences and Industry
+blacklist_from          info@mcsi-conf.org
 
-## edd 15 Jul 2020	Journal of Applied Math and Stat
-blacklist_from		article@ajist.org
+## edd 15 Jul 2020      Journal of Applied Math and Stat
+blacklist_from          article@ajist.org
 
-## edd 21 Jul 2020	Int J of Mod Eng Res
-blacklist_from		editor@journalsforu.com
+## edd 21 Jul 2020      Int J of Mod Eng Res
+blacklist_from          editor@journalsforu.com
 
-## edd 28 Jul 2020	Amer J of Appl Math, Sc J of Appl Math + Stats
-blacklist_from		williams@jphysics.org>
-blacklist_from		issue@jbed.org
+## edd 28 Jul 2020      Amer J of Appl Math, Sc J of Appl Math + Stats
+blacklist_from          williams@jphysics.org>
+blacklist_from          issue@jbed.org
 
-## edd 04 Aug 2020	IJAREM
-blacklist_from		submission@ijarem.org
+## edd 04 Aug 2020      IJAREM
+blacklist_from          submission@ijarem.org
 
-## edd 07 Aug 2020	Savant Journals
-blacklist_from		q@aff3.online
+## edd 07 Aug 2020      Savant Journals
+blacklist_from          q@aff3.online
 
-## edd 09 Aug 2020	IJRES
-blacklist_from		editor@articleuk.com
+## edd 09 Aug 2020      IJRES
+blacklist_from          editor@articleuk.com
 
-## edd 12 Aug 2020	Mathematics and Computer Science, again
-blacklist_from		hodges@acmjournal.org
+## edd 12 Aug 2020      Mathematics and Computer Science, again
+blacklist_from          hodges@acmjournal.org
 
-## edd 25 Aug 2020	CSMA2020, ACC
-blacklist_from		csma@ectaprm.com
-blacklist_from		acc@ngapor.com
+## edd 25 Aug 2020      CSMA2020, ACC
+blacklist_from          csma@ectaprm.com
+blacklist_from          acc@ngapor.com
 
-## edd 25 Aug 2020	IOSR
-blacklist_from		editor@journalsarticles.com
+## edd 25 Aug 2020      IOSR
+blacklist_from          editor@journalsarticles.com
 
-## edd 09 Sep 2020	Sc J of Appl Math & Stats
-blacklist_from		khloe@applscires.com
+## edd 09 Sep 2020      Sc J of Appl Math & Stats
+blacklist_from          khloe@applscires.com
 
-## edd 15 Sep 2020	AMEME2020
-blacklist_from		cathy2020@vip.163.com
+## edd 15 Sep 2020      AMEME2020
+blacklist_from          cathy2020@vip.163.com
 
-## edd 25 Sep 2020	IJMSI
-blacklist_from		submitpaper@fictiveinfo.com
+## edd 25 Sep 2020      IJMSI
+blacklist_from          submitpaper@fictiveinfo.com
 
-## edd 25 Sep 2020	BRNSS
-blacklist_from		ma.naidu@mipmandsaur.org
+## edd 25 Sep 2020      BRNSS
+blacklist_from          ma.naidu@mipmandsaur.org
 
-## edd 04 Oct 2020	WCC2020
-blacklist_from		aina03@wcc2020-congress.com
+## edd 04 Oct 2020      WCC2020
+blacklist_from          aina03@wcc2020-congress.com
 
-## edd 06 Oct 2020	IMCIC2021
-blacklist_from		cfp-spring@2021conf-iiis.org
+## edd 06 Oct 2020      IMCIC2021
+blacklist_from          cfp-spring@2021conf-iiis.org
 
-## edd 09 Oct 2020	Applied Math Eng Comp Sci
-blacklist_from		dr.g.petrakis@polito.it
+## edd 09 Oct 2020      Applied Math Eng Comp Sci
+blacklist_from          dr.g.petrakis@polito.it
 
-## edd 16 Oct 2020	JHMHP
-blacklist_from		email@amegroups.net
+## edd 16 Oct 2020      JHMHP
+blacklist_from          email@amegroups.net
 
-## edd 21 Oct 2020	SJAMS
-blacklist_from		editor@apjcm.org
+## edd 21 Oct 2020      SJAMS
+blacklist_from          editor@apjcm.org
 
-## edd 26 Oct 2020	AJPS
-blacklist_from		editor.journal27@gmail.com
+## edd 26 Oct 2020      AJPS
+blacklist_from          editor.journal27@gmail.com
 
 ## edd 27 Oct 2020      INASE, again
-blacklist_from		selected-conferences-2020@simplywall.st
+blacklist_from          selected-conferences-2020@simplywall.st
 
 ## edd 29 Oct 2020      Lupine, again
-blacklist_from		medicalsciences@lupinejournals.co
+blacklist_from          medicalsciences@lupinejournals.co
+
+## edd 01 Nov 2020      ICMIR2020
+blacklist_from          shaneela.khowaja@rjguzman.xeetsea.cn
