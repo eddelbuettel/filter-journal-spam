@@ -1048,3 +1048,6 @@ blacklist_from          medicalsciences@lupinejournals.co
 
 ## edd 01 Nov 2020      ICMIR2020
 blacklist_from          shaneela.khowaja@rjguzman.xeetsea.cn
+
+## edd 04 Nov 2020      IJDOH
+blacklist_from          ijdoh@biocoregroup.info
