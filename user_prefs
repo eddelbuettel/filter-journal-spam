@@ -1052,5 +1052,6 @@ blacklist_from          shaneela.khowaja@rjguzman.xeetsea.cn
 ## edd 04 Nov 2020      IJDOH
 blacklist_from          ijdoh@biocoregroup.info
 
-## edd 09 Nov 2020      EPE2021
+## edd 09 Nov 2020      EPE2021, JCIS
 blacklist_from          submit@epe-conf.org
+blacklist_from          editor@clinicalopenaccess.com
