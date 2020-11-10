@@ -1055,3 +1055,6 @@ blacklist_from          ijdoh@biocoregroup.info
 ## edd 09 Nov 2020      EPE2021, JCIS
 blacklist_from          submit@epe-conf.org
 blacklist_from          editor@clinicalopenaccess.com
+
+## edd 10 Nov 2020      CHAOS2021
+blacklist_from          Secretar@cmsim.de
