@@ -1062,5 +1062,6 @@ blacklist_from          Secretar@cmsim.de
 ## edd 17 Nov 2020	IJBSSR
 blacklist_from		isaifulbd728@gmail.com
 
-## edd 22 Nov 2020	Science J. of Applied Mathematics and Statistics
+## edd 22 Nov 2020	Science J. of Applied Mathematics and Statistics, ICPMS48381
 blacklist_from		editor@journalofppa.org
+blacklist_from		info@mc.pmsconf.org
