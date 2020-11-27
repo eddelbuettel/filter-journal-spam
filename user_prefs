@@ -1066,5 +1066,6 @@ blacklist_from		isaifulbd728@gmail.com
 blacklist_from		editor@journalofppa.org
 blacklist_from		info@mc.pmsconf.org
 
-## edd 26 Nov 2020	JAMC
+## edd 26 Nov 2020	JAMC, IHSES/ILSET (to uofi)
 blacklist_from		jamc@cutablw.com
+blacklist_from		conference@istes.org
