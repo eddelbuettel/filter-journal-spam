@@ -1072,3 +1072,6 @@ blacklist_from		conference@istes.org
 
 ## edd 01 Dec 2020 	Journal of Statistics: Advances in Theory and Application
 blacklist_from		papersubmit@publicationresearch.com
+
+## edd 03 Dec 2020	IJHSS (to .edu address)
+blacklist_from		ezra_aripd034@outlook.com
