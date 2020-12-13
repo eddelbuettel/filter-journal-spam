@@ -1075,3 +1075,7 @@ blacklist_from		papersubmit@publicationresearch.com
 
 ## edd 03 Dec 2020	IJHSS (to .edu address)
 blacklist_from		ezra_aripd034@outlook.com
+
+## edd 12 Dec 2020	IJAHSS, IJBASS (to .edu address)
+blacklist_from		adam865210@outlook.com
+blacklist_from		r.mijanurr@yahoo.com
