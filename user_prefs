@@ -1079,3 +1079,6 @@ blacklist_from		ezra_aripd034@outlook.com
 ## edd 12 Dec 2020	IJAHSS, IJBASS (to .edu address)
 blacklist_from		adam865210@outlook.com
 blacklist_from		r.mijanurr@yahoo.com
+
+## edd 14 Dec 2020	SJAMS
+blacklist_from		hadley@chemicaleng.org
