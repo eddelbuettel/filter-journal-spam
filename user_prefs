@@ -1089,3 +1089,6 @@ blacklist_from		noreply@hostinggraph.com
 
 ## edd 05 Jan 2021	IJERA
 blacklist_from		info@operatech.website
+
+## edd 06 Jan 2021	SJAMS
+blacklist_from		delilah@scienceres.org
