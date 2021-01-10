@@ -1092,3 +1092,6 @@ blacklist_from		info@operatech.website
 
 ## edd 06 Jan 2021	SJAMS
 blacklist_from		delilah@scienceres.org
+
+## edd 09 Jan 2021	SCI REA
+blacklist_from		albert@sjofs.org
