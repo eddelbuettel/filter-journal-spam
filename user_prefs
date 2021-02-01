@@ -1107,3 +1107,6 @@ blacklist_from		bit7724@bitcongress.cn
 
 ## edd 20 Jan 2021	OAES2021
 blacklist_from		li.qiang69@mail2.ivory-pomelo.com
+
+## edd 01 Feb 2021	Chinese Computer Science
+blacklist_from		editorial@openornithologyjournal.net
