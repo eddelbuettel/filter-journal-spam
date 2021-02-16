@@ -1113,3 +1113,6 @@ blacklist_from		editorial@openornithologyjournal.net
 
 ## edd 09 Feb 2021	Asian Journal of Statistical Sciences
 blacklist_from		vijaykumarjha2014@gmail.com
+
+## edd 16 Feb 2021	BBOAJ (Juniper)
+blacklist_from		biostats@juniperepublishers.org
