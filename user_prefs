@@ -1116,3 +1116,6 @@ blacklist_from		vijaykumarjha2014@gmail.com
 
 ## edd 16 Feb 2021	BBOAJ (Juniper)
 blacklist_from		biostats@juniperepublishers.org
+
+## edd 18 Feb 2021 	CHAOS 2021
+blacklist_from		secretar@cmsim1.org
