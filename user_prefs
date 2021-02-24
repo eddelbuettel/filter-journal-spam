@@ -1119,3 +1119,6 @@ blacklist_from		biostats@juniperepublishers.org
 
 ## edd 18 Feb 2021 	CHAOS 2021
 blacklist_from		secretar@cmsim1.org
+
+## edd 24 Feb 2021 	IOSS
+blacklist_from		IOSR Journals <noreply@mailzbox.com>
