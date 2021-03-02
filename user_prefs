@@ -1122,3 +1122,6 @@ blacklist_from		secretar@cmsim1.org
 
 ## edd 24 Feb 2021 	IOSR
 blacklist_from		IOSR Journals <noreply@mailzbox.com>
+
+## edd 02 Mar 2021 	AJSS
+blacklist_from		arfbooks@icloud.com
