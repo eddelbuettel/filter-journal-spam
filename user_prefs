@@ -1,12 +1,12 @@
 ## -*- mode: makefile; -*-
 ##
-## The following is a reduced subset of what has accumulated in 
+## The following is a reduced subset of what has accumulated in
 ## my ~/.spamassassin/user_prefs since 2002
 ##
 ## Consider each entry a suggestion.
 ##
 ## File may not be suitable for _your_ production use, so it is from mine.
-## No warranties, implied or other.  
+## No warranties, implied or other.
 
 
 # edd 05 Mar 2004  lowered from default 12.0
@@ -1121,7 +1121,13 @@ blacklist_from		biostats@juniperepublishers.org
 blacklist_from		secretar@cmsim1.org
 
 ## edd 24 Feb 2021 	IOSR
-blacklist_from		IOSR Journals <noreply@mailzbox.com>
+blacklist_from		noreply@mailzbox.com
 
 ## edd 02 Mar 2021 	AJSS
 blacklist_from		arfbooks@icloud.com
+
+## edd 06 Mar 2021 	IEEE scam?
+blacklist_from		info@interbit-research.com
+
+## edd 10 Mar 2021 	Online Tech Summit on Big Data, Data Science & Machine Learning
+blacklist_from		machinelearning@averevents.org
