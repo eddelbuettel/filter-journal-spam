@@ -1131,3 +1131,6 @@ blacklist_from		info@interbit-research.com
 
 ## edd 10 Mar 2021 	Online Tech Summit on Big Data, Data Science & Machine Learning
 blacklist_from		machinelearning@averevents.org
+
+## edd 14 Mar 2021 	ICMECE 2021
+blacklist_from		icmece@ecerg.com
