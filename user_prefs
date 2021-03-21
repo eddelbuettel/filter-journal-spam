@@ -1134,3 +1134,6 @@ blacklist_from		machinelearning@averevents.org
 
 ## edd 14 Mar 2021 	ICMECE 2021
 blacklist_from		icmece@ecerg.com
+
+## edd 21 Mar 2021	Science Јоᴜrnal of Applied Mathematics and Statistics
+blacklist_from		simon@ijoass.com
