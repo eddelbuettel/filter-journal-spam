@@ -1138,5 +1138,6 @@ blacklist_from		icmece@ecerg.com
 ## edd 21 Mar 2021	Science Јоᴜrnal of Applied Mathematics and Statistics
 blacklist_from		simon@ijoass.com
 
-## edd 25 Mar 2021	IJHSSI
+## edd 25 Mar 2021	IJHSSI, WCC2022
 blacklist_from		noreply@bankmitrabcapply.in
+blacklist_to		vicky-wcc@eventcomittee.com
