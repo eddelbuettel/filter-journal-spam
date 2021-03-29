@@ -1141,3 +1141,6 @@ blacklist_from		simon@ijoass.com
 ## edd 25 Mar 2021	IJHSSI, WCC2022
 blacklist_from		noreply@bankmitrabcapply.in
 blacklist_to		vicky-wcc@eventcomittee.com
+
+## edd 29 Mar 2021	International Journal of Biology and Biomedical Engineering
+blacklist_from		catherine.b.thome@gmail.com
