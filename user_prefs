@@ -1148,3 +1148,6 @@ blacklist_from		catherine.b.thome@gmail.com
 ## edd 30 Mar 2021	JAMC, HealthJ
 blacklist_from		jamc@iitast.com
 blacklist_from		chaturvedi@healthj.org
+
+## edd 02 Apr 2021 	IJERA
+blacklist_from		info@electicbuzz.com
