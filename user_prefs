@@ -1152,5 +1152,6 @@ blacklist_from		chaturvedi@healthj.org
 ## edd 02 Apr 2021 	IJERA
 blacklist_from		info@electicbuzz.com
 
-## edd 04 Apr 2021 	IJLREM
+## edd 04 Apr 2021 	IJLREM, CSMA
 blacklist_from		support@ijlrem.org
+blacklist_from		csma@etkiler.com
