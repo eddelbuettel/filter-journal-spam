@@ -1155,3 +1155,6 @@ blacklist_from		info@electicbuzz.com
 ## edd 04 Apr 2021 	IJLREM, CSMA
 blacklist_from		support@ijlrem.org
 blacklist_from		csma@etkiler.com
+
+## edd 06 Apr 2021	THEIJES again
+whitelist_to		theijes@submitmails.com
