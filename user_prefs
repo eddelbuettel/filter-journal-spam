@@ -1157,4 +1157,7 @@ blacklist_from		support@ijlrem.org
 blacklist_from		csma@etkiler.com
 
 ## edd 06 Apr 2021	THEIJES again
-whitelist_to		theijes@submitmails.com
+blacklist_to		theijes@submitmails.com
+
+## edd 04 Apr 2021 	EME 2021 and C&P 2021
+blacklist_from		*@*.2021iiisconferences.org
