@@ -1159,5 +1159,8 @@ blacklist_from		csma@etkiler.com
 ## edd 06 Apr 2021	THEIJES again
 blacklist_to		theijes@submitmails.com
 
-## edd 04 Apr 2021 	EME 2021 and C&P 2021
+## edd 07 Apr 2021 	EME 2021 and C&P 2021
 blacklist_from		*@*.2021iiisconferences.org
+
+## edd 08 Apr 2021 	ICAETA-2021
+blacklist_from		alaa.hameed@izu.edu.tr
