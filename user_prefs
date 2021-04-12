@@ -1164,3 +1164,6 @@ blacklist_from		*@*.2021iiisconferences.org
 
 ## edd 08 Apr 2021 	ICAETA-2021
 blacklist_from		alaa.hameed@izu.edu.tr
+
+## edd 12 Apr 2021 	Research and Communications in Mathematics and Mathematical Sciences
+blacklist_from		submitted@interpublication.org
