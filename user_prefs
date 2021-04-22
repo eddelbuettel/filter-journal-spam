@@ -1171,3 +1171,6 @@ blacklist_from		submitted@interpublication.org
 ## edd 14 Apr 2021	Nano Research, ABBA
 blacklist_from		postmaster@reco.aminer.org
 blacklist_from		biostatistics@irispublishers-nl.net
+
+## edd 22 Apr 2021	Journal of Computer and Communications (JCC)
+blacklist_from		jcc@kindlc.com
