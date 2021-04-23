@@ -1174,3 +1174,6 @@ blacklist_from		biostatistics@irispublishers-nl.net
 
 ## edd 22 Apr 2021	Journal of Computer and Communications (JCC)
 blacklist_from		jcc@kindlc.com
+
+## edd 23 Apr 2021	Science Journal of Applied Math + Stats
+blacklist_from		abigail@ijoaos.com
