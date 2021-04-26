@@ -1177,3 +1177,6 @@ blacklist_from		jcc@kindlc.com
 
 ## edd 23 Apr 2021	Science Journal of Applied Math + Stats
 blacklist_from		abigail@ijoaos.com
+
+## edd 26 Apr 2021	Journal of Econometrics and Statistics
+blacklist_from		vijaykumarjha2018@gmail.com
