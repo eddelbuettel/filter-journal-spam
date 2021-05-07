@@ -1186,3 +1186,6 @@ blacklist_from		jeanwang@sjoams.com
 
 ## edd 03 May 2021	SciCity
 blacklist_from		news@sci.city
+
+## edd 07 May 2021	Current Chinese Science - Computer science
+blacklist_from		info@international-event-experts.net
