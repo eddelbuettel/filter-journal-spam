@@ -1189,3 +1189,6 @@ blacklist_from		news@sci.city
 
 ## edd 07 May 2021	Current Chinese Science - Computer science
 blacklist_from		info@international-event-experts.net
+
+## edd 08 May 2021	2nd CCIIS2022
+blacklist_from		submit@2nd-cciis.org
