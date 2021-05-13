@@ -1193,5 +1193,6 @@ blacklist_from		info@international-event-experts.net
 ## edd 08 May 2021	2nd CCIIS2022
 blacklist_from		submit@2nd-cciis.org
 
-## edd 13 May 2021	Youth Environmental Education Congress (YEEC)
-blacklist_from		weecnetwork@gmail.com
+## edd 13 May 2021	Youth Environmental Education Congress (YEEC), WCC
+blacklist_from		weecnetwork@gmail.co
+blacklist_from		mvicky01@wcc2021-congress.com
