@@ -1196,3 +1196,6 @@ blacklist_from		submit@2nd-cciis.org
 ## edd 13 May 2021	Youth Environmental Education Congress (YEEC), WCC
 blacklist_from		weecnetwork@gmail.co
 blacklist_from		mvicky01@wcc2021-congress.com
+
+## edd 14 May 2021	BJSTR
+blacklist_from		drugdesigning@biomedicalresearch.net
