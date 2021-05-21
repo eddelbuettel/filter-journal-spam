@@ -1202,3 +1202,6 @@ blacklist_from		drugdesigning@biomedicalresearch.net
 
 ## edd 20 May 20201	Technium Science
 blacklist_from		office@techniumscience.org
+
+## edd 21 May 20201	Interbit
+blacklist_from		info@engw.org
