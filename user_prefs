@@ -1205,3 +1205,6 @@ blacklist_from		office@techniumscience.org
 
 ## edd 21 May 20201	Interbit
 blacklist_from		info@engw.org
+
+## edd 25 May 20201	IJOEST (to .edu address)
+blacklist_from		vidhipal@publishijoest.com
