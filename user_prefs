@@ -1208,3 +1208,6 @@ blacklist_from		info@engw.org
 
 ## edd 25 May 20201	IJOEST (to .edu address)
 blacklist_from		vidhipal@publishijoest.com
+
+## edd 29 May 20201	3ICT2021
+blacklist_from		iiict2018@uob.edu.bh
