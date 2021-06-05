@@ -1200,14 +1200,17 @@ blacklist_from		mvicky01@wcc2021-congress.com
 ## edd 14 May 2021	BJSTR
 blacklist_from		drugdesigning@biomedicalresearch.net
 
-## edd 20 May 20201	Technium Science
+## edd 20 May 2021	Technium Science
 blacklist_from		office@techniumscience.org
 
-## edd 21 May 20201	Interbit
+## edd 21 May 2021	Interbit
 blacklist_from		info@engw.org
 
-## edd 25 May 20201	IJOEST (to .edu address)
+## edd 25 May 2021	IJOEST (to .edu address)
 blacklist_from		vidhipal@publishijoest.com
 
-## edd 29 May 20201	3ICT2021
+## edd 29 May 2021	3ICT2021
 blacklist_from		iiict2018@uob.edu.bh
+
+## edd 05 Jun 2021	OJRAT
+blacklist_from		robotics@irissciences.org
