@@ -1214,3 +1214,6 @@ blacklist_from		iiict2018@uob.edu.bh
 
 ## edd 05 Jun 2021	OJRAT
 blacklist_from		robotics@irissciences.org
+
+## edd 09 Jun 2021	Covid19 for National Accounting Review
+blacklist_from		nar7@aimspress7.com
