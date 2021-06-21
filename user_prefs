@@ -1220,3 +1220,6 @@ blacklist_from		nar7@aimspress7.com
 
 ## edd 12 Jun 2021	The Innovation
 blacklist_from		editorial@office.the-innovation.org
+
+## edd 21 Jun 2021	ARF INDIA
+blacklist_from		editor.ijta@gmail.com
