@@ -1235,3 +1235,6 @@ blacklist_to		editor.ijaims@gmail.com
 
 ## edd 25 Jun 2021	ICAIA2021
 blacklist_from		Ogilvie@mail1.indigo-loquat.com
+
+## edd 05 Jul 2021	IOSR
+blacklist_to		support@iosrjournals.info
