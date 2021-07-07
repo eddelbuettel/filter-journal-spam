@@ -1238,3 +1238,6 @@ blacklist_from		Ogilvie@mail1.indigo-loquat.com
 
 ## edd 05 Jul 2021	IOSR
 blacklist_to		support@iosrjournals.info
+
+## edd 07 Jul 2021	Scientific Advances Publishers
+blacklist_from		sendpapers@journalresearch.org
