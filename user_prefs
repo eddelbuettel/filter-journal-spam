@@ -1245,3 +1245,6 @@ blacklist_from		sendpapers@journalresearch.org
 ## edd 09 Jul 2021	Journal of Mathematics, WSEAS
 blacklist_from		helmut@sjofbio.org
 blacklist_to		maria.managing.editor@gmail.com
+
+## edd 10 Jul 2021	Journal of Econometrics and Statistics
+blacklist_from		vijaykumarjha2019@gmail.com
