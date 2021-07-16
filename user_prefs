@@ -1248,3 +1248,6 @@ blacklist_to		maria.managing.editor@gmail.com
 
 ## edd 10 Jul 2021	Journal of Econometrics and Statistics
 blacklist_from		vijaykumarjha2019@gmail.com
+
+## edd 16 Jul 2021	SJAMS
+blacklist_from		ford@biochembio.org
