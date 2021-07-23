@@ -1255,3 +1255,6 @@ blacklist_from		ford@biochembio.org
 ## edd 20 Jul 2021	Int J of Circuits, Systems and Signal processing, Intl Vaccines Congress
 blacklist_from		catherine.b.thome@marketwatch.com
 blacklist_from		*@scientific-meetings.com
+
+## edd 23 Jul 2021	JDEF
+blacklist_from		ijta2018@gmail.com
