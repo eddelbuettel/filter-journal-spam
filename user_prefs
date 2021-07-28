@@ -1258,3 +1258,6 @@ blacklist_from		*@scientific-meetings.com
 
 ## edd 23 Jul 2021	JDEF
 blacklist_from		ijta2018@gmail.com
+
+## edd 28 Jul 2021	Plant Science and Molec Bio
+blacklist_from		plant@magnusgroupevents.com
