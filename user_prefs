@@ -1261,3 +1261,6 @@ blacklist_from		ijta2018@gmail.com
 
 ## edd 28 Jul 2021	Plant Science and Molec Bio
 blacklist_from		plant@magnusgroupevents.com
+
+## edd 03 Aug 2021	BioMedGrid
+blacklist_from		casestudies@biomedgrid.org
