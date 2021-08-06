@@ -1264,3 +1264,6 @@ blacklist_from		plant@magnusgroupevents.com
 
 ## edd 03 Aug 2021	BioMedGrid
 blacklist_from		casestudies@biomedgrid.org
+
+## edd 06 Aug 2021	AMEE2021
+blacklist_from		alex@icbmeconf.com
