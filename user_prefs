@@ -1270,3 +1270,6 @@ blacklist_from		alex@icbmeconf.com
 
 ## edd 10 Aug 2021	J o Math + Stat Analysis
 blacklist_from		jmsa@sciadvent.online
+
+## edd 19 Aug 2021	Data Science Webinar
+blacklist_from		mailer@conferencesengage.org
