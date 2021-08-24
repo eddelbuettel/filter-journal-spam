@@ -1273,3 +1273,6 @@ blacklist_from		jmsa@sciadvent.online
 
 ## edd 19 Aug 2021	Data Science Webinar
 blacklist_from		mailer@conferencesengage.org
+
+## edd 23 Aug 2021	IMCIC 2022
+blacklist_from		cfp-spring@2022conf-iiis.org
