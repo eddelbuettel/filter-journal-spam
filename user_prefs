@@ -1279,3 +1279,6 @@ blacklist_from		cfp-spring@2022conf-iiis.org
 
 ## edd 24 Aug 2021	IAOAJIML
 blacklist_from		Artificial_Intelligence@oajaiml.onmicrosoft.com
+
+## edd 25 Aug 2021	WCC-2022
+blacklist_from		vicky13@wcc2021-conference.com
