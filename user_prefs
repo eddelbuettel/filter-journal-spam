@@ -1288,3 +1288,6 @@ blacklist_from		ijaem.ad@gmail.com
 
 ## edd 31 Aug 2021	Peer Review Week 2021
 blacklist_from		hello@info.researcher.life
+
+## edd 03 Sep 2021	INSAI2021
+blacklist_from		service@mail.ia-ast.cn
