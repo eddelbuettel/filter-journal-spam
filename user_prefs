@@ -1291,3 +1291,6 @@ blacklist_from		hello@info.researcher.life
 
 ## edd 03 Sep 2021	INSAI2021
 blacklist_from		service@mail.ia-ast.cn
+
+## edd 08 Sep 2021	ICNCSS2021
+blacklist_from		Brinley@mail4.green-watermelon.com
