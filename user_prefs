@@ -1297,3 +1297,6 @@ blacklist_from		Brinley@mail4.green-watermelon.com
 
 ## edd 11 Sep 2021	IMCIC 2022 / ICETI 2022 / ICSIT 2022
 blacklist_from		cfp-spring@mail2.2022iiisconferences.org
+
+## edd 13 Sep 2021	JCC
+blacklist_from		jcc@rrifie.com
