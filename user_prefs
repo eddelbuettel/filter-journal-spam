@@ -1301,3 +1301,6 @@ blacklist_from		cfp-spring@mail2.2022iiisconferences.org
 ## edd 13 Sep 2021	JCC, Automatic Control special issue
 blacklist_from		jcc@rrifie.com
 blacklist_to		drjohn.k.phili@gmail.com
+
+## edd 15 Sep 2021	SCIREA
+blacklist_from		iain@sjofee.org
