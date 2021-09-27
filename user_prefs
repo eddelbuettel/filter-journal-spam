@@ -1310,3 +1310,6 @@ blacklist_from		ijeb2011@gmail.com
 
 ## edd 26 Sep 2021	IJCSSP
 blacklist_to		drjohn.k.phili@gmail.com
+
+## edd 27 Sep 2021	ICBDADS
+blacklist_from		mailer@conferencesmail.com
