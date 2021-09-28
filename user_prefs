@@ -1311,5 +1311,6 @@ blacklist_from		ijeb2011@gmail.com
 ## edd 26 Sep 2021	IJCSSP
 blacklist_to		drjohn.k.phili@gmail.com
 
-## edd 27 Sep 2021	ICBDADS
+## edd 27 Sep 2021	ICBDADS, Agriculture 2021
 blacklist_from		mailer@conferencesmail.com
+blacklist_from		agri@magcongress.com
