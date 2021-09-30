@@ -1317,3 +1317,6 @@ blacklist_from		agri@magcongress.com
 
 ## edd 28 Sep 2021	ICCES 2022
 blacklist_from		miya@iccesconf.org
+
+## edd 30 Sep 2021	IVC 2021
+blacklist_from		vaccines@mgconferences.net
