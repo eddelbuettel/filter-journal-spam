@@ -1320,3 +1320,6 @@ blacklist_from		miya@iccesconf.org
 
 ## edd 30 Sep 2021	IVC 2021
 blacklist_from		vaccines@mgconferences.net
+
+## edd 01 Oct 2021	SJAMS
+blacklist_from		elizabeth@jofmhc.com
