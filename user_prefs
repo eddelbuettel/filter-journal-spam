@@ -1323,3 +1323,6 @@ blacklist_from		vaccines@mgconferences.net
 
 ## edd 01 Oct 2021	SJAMS
 blacklist_from		elizabeth@jofmhc.com
+
+## edd 12 Oct 2021 	IJOAMTP
+blacklist_from		chloe@ijoamtp.com
