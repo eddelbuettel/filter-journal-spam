@@ -1326,3 +1326,7 @@ blacklist_from		elizabeth@jofmhc.com
 
 ## edd 12 Oct 2021 	IJOAMTP
 blacklist_from		chloe@ijoamtp.com
+
+## edd 17 Oct 2021 	another inase, also block TO
+blacklist_from		highqualityarticles@mmctse.org
+blacklist_to		support@inase.org
