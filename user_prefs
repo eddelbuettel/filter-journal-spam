@@ -1330,3 +1330,6 @@ blacklist_from		chloe@ijoamtp.com
 ## edd 17 Oct 2021 	another inase, also block TO
 blacklist_from		highqualityarticles@mmctse.org
 blacklist_to		support@inase.org
+
+## edd 19 Oct 2021 	editsprings
+blacklist_from		*@editsprings.com
