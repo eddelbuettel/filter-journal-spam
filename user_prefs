@@ -1331,5 +1331,6 @@ blacklist_from		chloe@ijoamtp.com
 blacklist_from		highqualityarticles@mmctse.org
 blacklist_to		support@inase.org
 
-## edd 19 Oct 2021 	editsprings
+## edd 19 Oct 2021 	editsprings, plantbiology@magnusmeets.com
 blacklist_from		*@editsprings.com
+blacklist_from		plantbiology@magnusmeets.com
