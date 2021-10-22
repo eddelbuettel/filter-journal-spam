@@ -1334,3 +1334,6 @@ blacklist_to		support@inase.org
 ## edd 19 Oct 2021 	editsprings, plantbiology@magnusmeets.com
 blacklist_from		*@editsprings.com
 blacklist_from		plantbiology@magnusmeets.com
+
+## edd 22 Oct 2021 	Science Jοurnαl of Applied Mathematics and Statistics, again
+blacklist_from		wolfe@ijmedimag.org
