@@ -1346,3 +1346,6 @@ blacklist_from		ijeb2009@gmail.com
 
 ## edd 05 Nov 2021 	Mathematical Biosciences and Engineering
 blacklist_from		mbe1@aimspress2.com
+
+## edd 15 Nov 2021	IOSR
+blacklist_to		support@iosrmails.org
