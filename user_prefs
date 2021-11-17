@@ -1349,3 +1349,6 @@ blacklist_from		mbe1@aimspress2.com
 
 ## edd 15 Nov 2021	IOSR
 blacklist_to		support@iosrmails.org
+
+## edd 17 Nov 2021	JAIST
+blacklist_to		jaist@scimedresearchmail.biz
