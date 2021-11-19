@@ -1352,3 +1352,6 @@ blacklist_to		support@iosrmails.org
 
 ## edd 17 Nov 2021	JAIST
 blacklist_to		jaist@scimedresearchmail.biz
+
+## edd 19 Nov 2021	Journal of Computer and Communications
+blacklist_to		service@openaccessj.com
