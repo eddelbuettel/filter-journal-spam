@@ -1358,3 +1358,6 @@ blacklist_to		service@openaccessj.com
 
 ## edd 26 Nov 2021	Science Journal of Applied Mathematics and Statics, again
 blacklist_from		kate@plantj.org
+
+## edd 29 Nov 2021	International Journal of Dentistry and Oral Health
+blacklist_from		ijdoh@biocoreopen.info
