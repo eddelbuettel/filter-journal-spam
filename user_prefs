@@ -1361,3 +1361,6 @@ blacklist_from		kate@plantj.org
 
 ## edd 29 Nov 2021	International Journal of Dentistry and Oral Health
 blacklist_from		ijdoh@biocoreopen.info
+
+## edd 01 Dec 2021	Journal of Econometrics and Statistics (ARFJOURNALS)
+blacklist_from		vijay.arjindia@gmail.com
