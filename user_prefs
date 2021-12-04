@@ -1367,3 +1367,6 @@ blacklist_from		vijay.arjindia@gmail.com
 
 ## edd 02 Dec 2021	Journal of Computer Science and Information Technology
 blacklist_from		computersci@peerjournal.org
+
+## edd 04 Dec 2021	Science Јournаl of Applied Mathematics and Statistics (SJAMS)
+blacklist_from		brady@pamath.org
