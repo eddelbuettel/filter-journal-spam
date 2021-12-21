@@ -1377,5 +1377,10 @@ blacklist_from		ellis@jfoodnutrition.com
 ## edd 18 Dec 2021	WCC-2022
 blacklist_from		emma3@awcc2021cancercon.com
 
-## edd 20 Dec 2021 	Asian Journal of Statistical Sciences
+## edd 20 Dec 2021 	Asian Journal of Statistical Sciences, ICAPMS2021-Final
 blacklist_from		icmms2018@gmail.com
+blacklist_from		francesca@grvx.com
+blacklist_to		icapms2021@sina.com
+
+## edd 21 Dec 2021 	Systemics, Cybernetics and Informatics
+blacklist_from		cfp-summer@mail1.2022iiisconferences.org
