@@ -1384,3 +1384,6 @@ blacklist_to		icapms2021@sina.com
 
 ## edd 21 Dec 2021 	Systemics, Cybernetics and Informatics
 blacklist_from		cfp-summer@mail1.2022iiisconferences.org
+
+## edd 24 Dec 2021	Jokull
+blacklist_from		announcement@elimianta.club
