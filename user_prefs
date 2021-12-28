@@ -1387,3 +1387,7 @@ blacklist_from		cfp-summer@mail1.2022iiisconferences.org
 
 ## edd 24 Dec 2021	Jokull
 blacklist_from		announcement@elimianta.club
+
+## edd 28 Dec 2021	INASE
+blacklist_from		zoe.michel@revolut.com
+blacklist_to		inase.editorial@gmail.com
