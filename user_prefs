@@ -1397,3 +1397,7 @@ blacklist_from		Helene@mail1.thursday-supermarket.com
 
 ## edd 01 Jan 2022	Journal of Statistics: Advances in Theory and Applications
 blacklist_from		information@pubresearch.co
+
+## edd 03 Jan 2022      Journal of Computer and Communications (JCC)
+blacklist_from		jcc@gnifica.com
+blacklist_to		service@openaccessj.com
