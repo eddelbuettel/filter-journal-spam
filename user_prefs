@@ -1401,3 +1401,9 @@ blacklist_from		information@pubresearch.co
 ## edd 03 Jan 2022      Journal of Computer and Communications (JCC)
 blacklist_from		jcc@gnifica.com
 blacklist_to		service@openaccessj.com
+
+## edd 05 Jan 2022      WCC-2022, Asian Journal of Statistical Sciences
+blacklist_from		vicky22@wcc2021-meeting.com
+blacklist_to		vicky-wcc@eventcomittee.com
+blacklist_from		aravjournals@gmail.com
+blacklist_to		vijaykumarjha1977@gmail.com
