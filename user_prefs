@@ -1407,3 +1407,6 @@ blacklist_from		vicky22@wcc2021-meeting.com
 blacklist_to		vicky-wcc@eventcomittee.com
 blacklist_from		aravjournals@gmail.com
 blacklist_to		vijaykumarjha1977@gmail.com
+
+## edd 08 Jan 2022	International Journal of Electrical and Computer Engineering Research (IJECER)
+blacklist_from		ijecer.org@gmail.com
