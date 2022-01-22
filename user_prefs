@@ -1413,3 +1413,9 @@ blacklist_from		ijecer.org@gmail.com
 
 ## edd 10 Jan 2022	Asian Journal of Statistical Sciences
 blacklist_from		icaber2018@gmail.com
+
+## edd 13 Jan 2022	WSEAS
+blacklist_to		wseas.transactions@gmail.com
+
+## edd 22 Jan 2022	ICCAES
+blacklist_from		Trilby@mail4.season-airport.com
