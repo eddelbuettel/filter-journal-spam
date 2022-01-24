@@ -1419,3 +1419,8 @@ blacklist_to		wseas.transactions@gmail.com
 
 ## edd 22 Jan 2022	ICCAES
 blacklist_from		Trilby@mail4.season-airport.com
+
+## edd 24 Jan 2022	ICAA2022, ARF INDIA
+blacklist_from		Lorelei@mail4.april-office.com
+blacklist_from		ijta2017@gmail.com
+blacklist_to		vijaykumarjha2014@gmail.com
