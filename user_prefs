@@ -1434,5 +1434,6 @@ blacklist_to		vicky-wcc@eventcomittee.com
 ## edd 30 Jan 2022	IVC-2022
 blacklist_from		vaccines@magnus-conferences.net
 
-## edd 01 Feb 2022	WMSCI 2022
+## edd 01 Feb 2022	WMSCI 2022, ECRES 2022
 blacklist_from		cfp-summer@2022conf-iiis.org
+blacklist_from		2022@ecres.net
