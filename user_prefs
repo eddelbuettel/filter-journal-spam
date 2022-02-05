@@ -1440,3 +1440,8 @@ blacklist_from		2022@ecres.net
 
 ## edd 03 Feb 2022	ICMSE2022 TPC
 blacklist_from		Antonina@mail5.january-bus.com
+
+## edd 05 Feb 2022	JFRERD, IJAEM
+blacklist_from		editor@ijrerd.com
+blacklist_from		info@max-mundo.com
+blacklist_to		ijaem.ad@gmail.com
