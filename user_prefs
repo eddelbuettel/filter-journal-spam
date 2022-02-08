@@ -1445,3 +1445,6 @@ blacklist_from		Antonina@mail5.january-bus.com
 blacklist_from		editor@ijrerd.com
 blacklist_from		info@max-mundo.com
 blacklist_to		ijaem.ad@gmail.com
+
+## edd 08 Feb 2022	Mathematics and Statistics
+blacklist_from		ms.editor@horizon-publishing.org
