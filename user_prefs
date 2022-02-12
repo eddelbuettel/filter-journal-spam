@@ -1454,3 +1454,7 @@ blacklist_from		editor@ijlera.com
                         # Journal of Mathematical and Statistical Analysis
 blacklist_from		editor@reviewmanuscript.biz
 blacklist_to		submissions@scimedopenaccess.biz
+
+# edd 12 Feb 2022	Journal of Econometrics and Statistics
+blacklist_from		globalresearchpublications@gmail.com
+blacklist_to		ijta2018@gmail.com
