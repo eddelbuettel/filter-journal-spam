@@ -1458,3 +1458,10 @@ blacklist_to		submissions@scimedopenaccess.biz
 # edd 12 Feb 2022	Journal of Econometrics and Statistics
 blacklist_from		globalresearchpublications@gmail.com
 blacklist_to		ijta2018@gmail.com
+#			IJESI
+blacklist_from		noreply@point4web.com
+blacklist_to		ijesi@invmails.com
+
+# edd 13 Feb 2022	ICECET 2022
+blacklist_from		info@icecet.com
+blacklist_to		info@icecet.com
