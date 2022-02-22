@@ -1469,3 +1469,7 @@ blacklist_to		info@icecet.com
 # edd 14 Feb 2022	Kelsiehanson
 blacklist_from		office@kelsiehansonmail.com
 blacklist_to		office@kelsiehansonmail.com
+
+# edd 22 Feb 2022	WCC-2023
+blacklist_from		vicky5@cancer-meeting2021.com
+blacklist_to		vicky-wcc@eventcomittee.com
