@@ -1473,3 +1473,7 @@ blacklist_to		office@kelsiehansonmail.com
 # edd 22 Feb 2022	WCC-2023
 blacklist_from		vicky5@cancer-meeting2021.com
 blacklist_to		vicky-wcc@eventcomittee.com
+
+# edd 28 Feb 2022	WSEAS again
+blacklist_from		wseas.transactions@gmail.com
+blacklist_to		blacklist_to
