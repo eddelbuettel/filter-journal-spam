@@ -1476,4 +1476,7 @@ blacklist_to		vicky-wcc@eventcomittee.com
 
 # edd 28 Feb 2022	WSEAS again
 blacklist_from		wseas.transactions@gmail.com
-blacklist_to		blacklist_to
+
+# edd 01 March 2022	WSEAS again
+blacklist_from		anna.papadimitriou@missouristate.edu
+blacklist_to		support@wseas.org
