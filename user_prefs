@@ -1483,3 +1483,6 @@ blacklist_to		support@wseas.org
 
 # edd 02 March 2022	ICAA2022
 blacklist_from		Padraigin@mail5.december-bar.com
+#                       IOSR again
+blacklist_from		info@emailprada.com
+blacklist_to		support@iosrmails.org
