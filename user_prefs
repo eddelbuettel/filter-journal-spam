@@ -1480,3 +1480,6 @@ blacklist_from		wseas.transactions@gmail.com
 # edd 01 March 2022	WSEAS again
 blacklist_from		anna.papadimitriou@missouristate.edu
 blacklist_to		support@wseas.org
+
+# edd 02 March 2022	ICAA2022
+blacklist_from		Padraigin@mail5.december-bar.com
