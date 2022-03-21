@@ -1494,6 +1494,7 @@ blacklist_to		info@iceccme.com
 # edd 16 Mar 2022	J of Statistics: Advancences in Theory and Application
 blacklist_from		paperssub@oldacademic.org
 
-# edd 20 Mar 2022	INASE, again
+# edd 20 Mar 2022	INASE, again; Medical & Clinical Research
 blacklist_from		zoe.michel@zohocorp.com
 blacklist_to		inase.editorial@gmail.com
+blacklist_from		info@mcropenaccess.live
