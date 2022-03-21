@@ -1498,3 +1498,7 @@ blacklist_from		paperssub@oldacademic.org
 blacklist_from		zoe.michel@zohocorp.com
 blacklist_to		inase.editorial@gmail.com
 blacklist_from		info@mcropenaccess.live
+
+# edd 21 Mar 2022	American Review of Mathematics and Statistics
+blacklist_from		addilynfrances201@outlook.com
+blacklist_to		editor.aripd@gmail.com
