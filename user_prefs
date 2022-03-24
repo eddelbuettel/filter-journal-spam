@@ -1506,3 +1506,6 @@ blacklist_to		editor.aripd@gmail.com
 # edd 22 Mar 2022	WCC2023
 blacklist_from		niki04@wcc2021-meeting.com
 blacklist_to		vicky-wcc@eventcomittee.com
+
+# edd 24 Mar 2022	ISDSA
+blacklist_from		meeting@isdsa.org
