@@ -1507,5 +1507,6 @@ blacklist_to		editor.aripd@gmail.com
 blacklist_from		niki04@wcc2021-meeting.com
 blacklist_to		vicky-wcc@eventcomittee.com
 
-# edd 24 Mar 2022	ISDSA
+# edd 24 Mar 2022	ISDSA, WSEAS
 blacklist_from		meeting@isdsa.org
+blacklist_from		dr.g.petrakis@gmail.com
