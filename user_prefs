@@ -1510,3 +1510,7 @@ blacklist_to		vicky-wcc@eventcomittee.com
 # edd 24 Mar 2022	ISDSA, WSEAS
 blacklist_from		meeting@isdsa.org
 blacklist_from		dr.g.petrakis@gmail.com
+
+# edd 28 Mar 2022	IJERD
+blacklist_from		info@thebudgetmarketing.com
+blacklist_to		ijerd@editormails.com
