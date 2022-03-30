@@ -1515,6 +1515,10 @@ blacklist_from		dr.g.petrakis@gmail.com
 blacklist_from		info@thebudgetmarketing.com
 blacklist_to		ijerd@editormails.com
 
-# edd 28 Mar 2022	IARAS
+# edd 29 Mar 2022	IARAS
 blacklist_from		luciano.simoni2@mail.ing.unibo.it
 blacklist_to		drjohn.k.phili@gmail.com
+
+# edd 30 Mar 2022	DMT
+blacklist_from		editorial@wiser-pub.com
+blacklist_to		editor-dmt@universalwiser.com
