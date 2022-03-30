@@ -1519,6 +1519,7 @@ blacklist_to		ijerd@editormails.com
 blacklist_from		luciano.simoni2@mail.ing.unibo.it
 blacklist_to		drjohn.k.phili@gmail.com
 
-# edd 30 Mar 2022	DMT
+# edd 30 Mar 2022	DMT, IASC2022
 blacklist_from		editorial@wiser-pub.com
-blacklist_to		editor-dmt@universalwiser.com
+blacklist_to		editor-dmt@universalwiser.co
+blacklist_from		Peppi@mail2.purple-grape.com
