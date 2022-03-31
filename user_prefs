@@ -1523,3 +1523,6 @@ blacklist_to		drjohn.k.phili@gmail.com
 blacklist_from		editorial@wiser-pub.com
 blacklist_to		editor-dmt@universalwiser.co
 blacklist_from		Peppi@mail2.purple-grape.com
+
+# edd 31 Mar 2022	EDEP2022
+blacklist_from		Annabella@mail3.october-library.com
