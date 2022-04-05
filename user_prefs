@@ -1531,6 +1531,8 @@ blacklist_from		Annabella@mail3.october-library.com
 blacklist_from		vijay.arjindia@gmail.com
 blacklist_to		ijta2018@gmail.com
 
-# edd 05 Apr 2022	JCC
+# edd 05 Apr 2022	JCC, IJEMS
 blacklist_from		jcc@narrayo.com
 blacklist_to		service@openaccessj.com
+blacklist_from		drjohn.k.phili@inail.it
+blacklist_to		drjohn.k.phili@gmail.com
