@@ -1541,3 +1541,7 @@ blacklist_to		inase.editorial@gmail.com
 
 # edd 08 Apr 2022	DMT
 blacklist_from		editor-dmt@universalwiser.com
+
+# edd 09 Apr 2022	GSCF-2023
+blacklist_from		mandya@biosummit2023.com
+blacklist_to		Mandy@bitcongress.com
