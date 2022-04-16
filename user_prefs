@@ -1549,3 +1549,7 @@ blacklist_to		Mandy@bitcongress.com
 # edd 13 Apr 2022	ICT4SD
 blacklist_from		support@ict4sd.org
 blacklist_to		support@ict4sd.org
+
+# edd 16 Apr 2022	WSEAS
+blacklist_from		anna.papadimitriou@hna.gr
+blacklist_to		wseas.transactions@gmail.com
