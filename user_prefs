@@ -1553,3 +1553,7 @@ blacklist_to		support@ict4sd.org
 # edd 16 Apr 2022	WSEAS
 blacklist_from		anna.papadimitriou@hna.gr
 blacklist_to		wseas.transactions@gmail.com
+
+# edd 20 Apr 2022	IEEE CSCC
+blacklist_from		25th.ieee.cscc.com@cs.ntua.gr
+blacklist_to		maria.managing.editor@gmail.com
