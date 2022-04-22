@@ -1557,3 +1557,8 @@ blacklist_to		wseas.transactions@gmail.com
 # edd 20 Apr 2022	IEEE CSCC
 blacklist_from		25th.ieee.cscc.com@cs.ntua.gr
 blacklist_to		maria.managing.editor@gmail.com
+
+# edd 22 Apr 2022	APSAC, RCMMS
+blacklist_from		kostas.chiotopoulos@med.uoa.gr
+blacklist_to		kostas.chiotopoulos@gmail.com
+blacklist_from		sendarticles@puvresjou.org
