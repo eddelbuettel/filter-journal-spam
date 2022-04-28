@@ -1562,3 +1562,7 @@ blacklist_to		maria.managing.editor@gmail.com
 blacklist_from		kostas.chiotopoulos@med.uoa.gr
 blacklist_to		kostas.chiotopoulos@gmail.com
 blacklist_from		sendarticles@puvresjou.org
+
+# edd 28 Apr 2022	GSCF-2023
+blacklist_from		lilyy5@cancercon-2023meeting.com
+blacklist_to		Mandy@bitcongress.com
