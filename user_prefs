@@ -1570,3 +1570,7 @@ blacklist_to		Mandy@bitcongress.com
 # edd 29 Apr 2022	Journal of Mathematical and Statistical Analysis
 blacklist_from		editor@sciadventstudyhub.biz
 blacklist_to		submissions@scholaropenpub.biz
+
+# edd 16 May 2022	JoAISC
+blacklist_from		editor@researchinterests.biz
+blacklist_to		submissions@scholarjrnlinsight.biz
