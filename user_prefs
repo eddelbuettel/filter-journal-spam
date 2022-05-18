@@ -1574,3 +1574,7 @@ blacklist_to		submissions@scholaropenpub.biz
 # edd 16 May 2022	JoAISC
 blacklist_from		editor@researchinterests.biz
 blacklist_to		submissions@scholarjrnlinsight.biz
+
+# edd 17 May 2022	Vaccines 2022
+blacklist_from		vaccines@sci-meetings.com
+blacklist_to		vaccines@sci-meetings.com
