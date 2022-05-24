@@ -1584,3 +1584,7 @@ blacklist_from		lee@info.shiyuanchuban.net
 blacklist_to		3391594004@qq.com
 blacklist_from		editorial@currentcardiologyreviews.net
 blacklist_to		editorial@currentcardiologyreviews.net
+
+# edd 23 May 2022	ICMECE
+blacklist_from		icmece@ecres.net
+blacklist_to		icmece@ecres.net
