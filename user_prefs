@@ -1588,3 +1588,6 @@ blacklist_to		editorial@currentcardiologyreviews.net
 # edd 23 May 2022	ICMECE
 blacklist_from		icmece@ecres.net
 blacklist_to		icmece@ecres.net
+
+# edd 25 May 2022	WSEAS
+blacklist_from		info@wseas.org
