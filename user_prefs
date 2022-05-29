@@ -1591,3 +1591,9 @@ blacklist_to		icmece@ecres.net
 
 # edd 25 May 2022	WSEAS
 blacklist_from		info@wseas.org
+
+# edd 29 May 2022	APSAC, WCC
+blacklist_from		drjohn.k.phili@gmail.com
+blacklist_to		drjohn.k.phili@gmail.com
+blacklist_from		niki01@awcc-2023cancercon.com
+blacklist_to		vicky-wcc@eventcomittee.com
