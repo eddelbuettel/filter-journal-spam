@@ -1597,3 +1597,6 @@ blacklist_from		drjohn.k.phili@gmail.com
 blacklist_to		drjohn.k.phili@gmail.com
 blacklist_from		niki01@awcc-2023cancercon.com
 blacklist_to		vicky-wcc@eventcomittee.com
+
+# edd 02 Jun 2022	MCSi
+blacklist_from		ioannis.f.makariou@mcsi-conf.org
