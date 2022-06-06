@@ -1600,3 +1600,7 @@ blacklist_to		vicky-wcc@eventcomittee.com
 
 # edd 02 Jun 2022	MCSi
 blacklist_from		ioannis.f.makariou@mcsi-conf.org
+
+# edd 06 Jun 2022
+blacklist_from		Michellesnow@callfor-papers.com
+blacklist_to		submission@sciepub.com
