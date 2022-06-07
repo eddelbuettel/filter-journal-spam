@@ -1601,6 +1601,10 @@ blacklist_to		vicky-wcc@eventcomittee.com
 # edd 02 Jun 2022	MCSi
 blacklist_from		ioannis.f.makariou@mcsi-conf.org
 
-# edd 06 Jun 2022
+# edd 06 Jun 2022	Science and Education Publishing
 blacklist_from		Michellesnow@callfor-papers.com
 blacklist_to		submission@sciepub.com
+
+# edd 07 Jun 2022	Proofread
+blacklist_from		manuscript@englishpublishers.ml
+blacklist_to		contact@oakfortressproofreading.com
