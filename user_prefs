@@ -1608,3 +1608,9 @@ blacklist_to		submission@sciepub.com
 # edd 07 Jun 2022	Proofread
 blacklist_from		manuscript@englishpublishers.ml
 blacklist_to		contact@oakfortressproofreading.com
+
+# edd 13 Jun 2022	ESJ, 3ICT2022
+blacklist_from		editor.ijta@gmail.com
+blacklist_to		vijaykumarjha2017@gmail.com
+blacklist_from		CFP@uob.edu.bh
+blacklist_to		CFP@uob.edu.bh
