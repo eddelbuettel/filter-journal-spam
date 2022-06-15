@@ -1614,3 +1614,7 @@ blacklist_from		editor.ijta@gmail.com
 blacklist_to		vijaykumarjha2017@gmail.com
 blacklist_from		CFP@uob.edu.bh
 blacklist_to		CFP@uob.edu.bh
+
+# edd 15 Jun 2022	WCC
+blacklist_from		emme3@awcc2021cancercon.com
+blacklist_to		vicky-wcc@eventcomittee.com
