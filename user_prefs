@@ -1618,3 +1618,7 @@ blacklist_to		CFP@uob.edu.bh
 # edd 15 Jun 2022	WCC
 blacklist_from		emme3@awcc2021cancercon.com
 blacklist_to		vicky-wcc@eventcomittee.com
+
+# edd 18 Jun 2022	ESJ
+blacklist_from		internationalsciencespress@gmail.com
+blacklist_to		ijta2018@gmail.com
