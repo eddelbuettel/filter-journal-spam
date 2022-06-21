@@ -1622,3 +1622,7 @@ blacklist_to		vicky-wcc@eventcomittee.com
 # edd 18 Jun 2022	ESJ
 blacklist_from		internationalsciencespress@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 21 Jun 2022	ICEET
+blacklist_from		iceet2022@gmail.com
+blacklist_to		iceet2022@gmail.com
