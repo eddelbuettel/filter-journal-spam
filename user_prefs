@@ -1626,3 +1626,6 @@ blacklist_to		ijta2018@gmail.com
 # edd 21 Jun 2022	ICEET
 blacklist_from		iceet2022@gmail.com
 blacklist_to		iceet2022@gmail.com
+
+# edd 22 Jun 2022	MedCrave Online Journal of Applied Bionics and Biomechanics
+blacklist_from		bionics@medcraveonline.org
