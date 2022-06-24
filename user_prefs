@@ -1629,3 +1629,7 @@ blacklist_to		iceet2022@gmail.com
 
 # edd 22 Jun 2022	MedCrave Online Journal of Applied Bionics and Biomechanics
 blacklist_from		bionics@medcraveonline.org
+
+# edd 24 Jun 2022	IJHSSI
+blacklist_from		noreply@hostbycenter.com
+blacklist_to		ijhssi@invmails.com
