@@ -1641,3 +1641,7 @@ blacklist_to		Mandy@bitcongress.com
 # edd 30 Jun 2022	Springer WorldS4 2022
 blacklist_from		info@ictcs.in
 blacklist_to		support@worlds4.co.uk
+
+# edd 01 Jul 2022	CECNet2022
+blacklist_from		cecnet@cecnetconf.org
+blacklist_to		cecnet@cecnetconf.org
