@@ -1645,3 +1645,7 @@ blacklist_to		support@worlds4.co.uk
 # edd 01 Jul 2022	CECNet2022
 blacklist_from		cecnet@cecnetconf.org
 blacklist_to		cecnet@cecnetconf.org
+
+# edd 03 Jul 2022	IJERA
+blacklist_from		info@jet.nexonjet.com
+blacklist_to		ijera.ad@gmail.com
