@@ -1649,3 +1649,7 @@ blacklist_to		cecnet@cecnetconf.org
 # edd 03 Jul 2022	IJERA
 blacklist_from		info@jet.nexonjet.com
 blacklist_to		ijera.ad@gmail.com
+
+# edd 08 Jul 2022	SciEP
+blacklist_from		Ashleyrobinson@callfor-papers.com
+blacklist_to		submission@sciepub.com
