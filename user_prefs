@@ -1653,3 +1653,7 @@ blacklist_to		ijera.ad@gmail.com
 # edd 08 Jul 2022	SciEP
 blacklist_from		Ashleyrobinson@callfor-papers.com
 blacklist_to		submission@sciepub.com
+
+# edd 12 Jul 2022	ARF India / The Econometrics and Statistics Journal
+blacklist_from		icaber2016@gmail.com
+blacklist_to		ijta2022@gmail.com
