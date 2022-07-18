@@ -1657,3 +1657,9 @@ blacklist_to		submission@sciepub.com
 # edd 12 Jul 2022	ARF India / The Econometrics and Statistics Journal
 blacklist_from		icaber2016@gmail.com
 blacklist_to		ijta2022@gmail.com
+
+# edd 18 Jul 2022	AJER, JCC
+blacklist_from		info@webz.webhoxton.com
+blacklist_to		ajer@editormails.com
+blacklist_from		jcc@elpfuly.com
+blacklist_to		service@oa-journals.com
