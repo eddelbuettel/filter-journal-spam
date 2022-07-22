@@ -1663,3 +1663,7 @@ blacklist_from		info@webz.webhoxton.com
 blacklist_to		ajer@editormails.com
 blacklist_from		jcc@elpfuly.com
 blacklist_to		service@oa-journals.com
+
+# edd 22 Jun 2022	WCC
+blacklist_from		sophiea2@cancer-meeting.com
+blacklist_to		vicky-wcc@eventcomittee.com
