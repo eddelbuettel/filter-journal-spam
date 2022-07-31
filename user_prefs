@@ -1668,6 +1668,8 @@ blacklist_to		service@oa-journals.com
 blacklist_from		sophiea2@cancer-meeting.com
 blacklist_to		vicky-wcc@eventcomittee.com
 
-# edd 31 Jul 2022	CSCC
+# edd 31 Jul 2022	CSCC, IJMER
 blacklist_from		soliman@unicompass.org
 blacklist_to		mastorakis4567@gmail.com
+blacklist_from		noreply@diwaligifts05.online
+blacklist_to		ijmer@submitmails.com
