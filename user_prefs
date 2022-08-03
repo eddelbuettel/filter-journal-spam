@@ -1673,3 +1673,7 @@ blacklist_from		soliman@unicompass.org
 blacklist_to		mastorakis4567@gmail.com
 blacklist_from		noreply@diwaligifts05.online
 blacklist_to		ijmer@submitmails.com
+
+# edd 03 Aug 2022	MMCTSE
+blacklist_from		ieee.proceedings@cscc.co
+blacklist_to		maria.managing.editor@gmail.com
