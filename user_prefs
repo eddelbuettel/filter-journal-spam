@@ -1685,3 +1685,7 @@ blacklist_to		ijei@editormails.com
 # edd 10 Aug 2022	JSCS / ARF India
 blacklist_from		vijaykumarjha2020@gmail.com
 blacklist_to		vijaykumarjha2019@gmail.com
+
+# edd 12 Aug 2022	GSCF
+blacklist_from		lucybb4@pepcon-congress2021.com
+blacklist_to		Mandy@bitcongress.com
