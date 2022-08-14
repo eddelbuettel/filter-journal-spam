@@ -1689,3 +1689,11 @@ blacklist_to		vijaykumarjha2019@gmail.com
 # edd 12 Aug 2022	GSCF
 blacklist_from		lucybb4@pepcon-congress2021.com
 blacklist_to		Mandy@bitcongress.com
+
+# edd 13 Aug 2022	JMSA
+blacklist_from		editor@scioascholarjrnlres.biz
+blacklist_to		submissions@sciresmedmailres.biz
+
+# edd 14 Aug 2022	IJPERA
+blacklist_from		noreply@growdigitalcamp.com
+blacklist_to		ijpera@editorboard.com
