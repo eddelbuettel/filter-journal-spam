@@ -1697,3 +1697,7 @@ blacklist_to		submissions@sciresmedmailres.biz
 # edd 14 Aug 2022	IJPERA
 blacklist_from		noreply@growdigitalcamp.com
 blacklist_to		ijpera@editorboard.com
+
+# edd 16 Aug 2022	Vaccines
+blacklist_from		events@confsummitseries.biz
+blacklist_to		newsletter@magnusevents.biz
