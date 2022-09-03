@@ -1705,3 +1705,7 @@ blacklist_to		newsletter@magnusevents.biz
 # edd 20 Aug 2022	JMSA
 blacklist_from		editor@resoascholarpublishres.biz
 blacklist_to		submissions@sciresmedmailres.biz
+
+# edd 03 Sep 2022	IJERA
+blacklist_from		noreply@digitalmarketingcareers.org
+blacklist_to		ijera.ad@gmail.com
