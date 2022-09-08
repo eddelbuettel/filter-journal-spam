@@ -1709,3 +1709,7 @@ blacklist_to		submissions@sciresmedmailres.biz
 # edd 03 Sep 2022	IJERA
 blacklist_from		noreply@digitalmarketingcareers.org
 blacklist_to		ijera.ad@gmail.com
+
+# edd 08 Sep 2022	vaccines, again
+blacklist_from		events@innovativedelegates.biz
+blacklist_to		vaccines@magnusevents.biz
