@@ -1713,3 +1713,6 @@ blacklist_to		ijera.ad@gmail.com
 # edd 08 Sep 2022	vaccines, again
 blacklist_from		events@innovativedelegates.biz
 blacklist_to		vaccines@magnusevents.biz
+
+# edd 10 Sep 2022	Renewable Energy
+blacklist_from		info@ecres.net
