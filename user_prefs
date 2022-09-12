@@ -1718,3 +1718,6 @@ blacklist_to		vaccines@magnusevents.biz
 blacklist_from		info@ecres.net
 blacklist_from		noreply@productvideoat99.online
 blacklist_to		ijhssmpaper.ad@gmail.com
+
+# edd 12 Sep 2022	Saudi Journal of Civil Engineering
+blacklist_from		drpooja020@gmail.com
