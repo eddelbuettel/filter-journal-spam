@@ -1721,3 +1721,7 @@ blacklist_to		ijhssmpaper.ad@gmail.com
 
 # edd 12 Sep 2022	Saudi Journal of Civil Engineering
 blacklist_from		drpooja020@gmail.com
+
+# edd 16 Sep 2022	GSCF-2023
+blacklist_from		lucyb1@pepcon-congress2021.com
+blacklist_to		Mandy@bitcongress.com
