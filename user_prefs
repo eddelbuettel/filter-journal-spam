@@ -1729,3 +1729,7 @@ blacklist_to		Mandy@bitcongress.com
 # edd 19 Sep 2022	ARF India, again
 blacklist_from		icmms2018@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 21 Sep 2022	ARF India, again
+blacklist_from		icebm2017@gmail.com
+blacklist_to		ijta2018@gmail.com
