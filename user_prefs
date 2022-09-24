@@ -1737,3 +1737,7 @@ blacklist_to		ijta2018@gmail.com
 # edd 23 Sep 2022	SciEP
 blacklist_from		Ashleywalker@callfor-papers.com
 blacklist_to		submission@sciepub.com
+
+# edd 24 Sep 2022	CSMA
+blacklist_from		csma@akeniz.com
+blacklist_to		wsconf5@163.com
