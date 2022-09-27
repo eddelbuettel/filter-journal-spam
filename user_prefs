@@ -1741,3 +1741,6 @@ blacklist_to		submission@sciepub.com
 # edd 24 Sep 2022	CSMA
 blacklist_from		csma@akeniz.com
 blacklist_to		wsconf5@163.com
+
+# edd 27 Sep 2022	ICETI
+blacklist_from		cfp-spring@2023conf-iiis.org
