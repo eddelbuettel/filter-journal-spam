@@ -1744,3 +1744,11 @@ blacklist_to		wsconf5@163.com
 
 # edd 27 Sep 2022	ICETI
 blacklist_from		cfp-spring@2023conf-iiis.org
+
+# edd 03 Oct 2022	WCC, again
+blacklist_from		tade10@wcc2023-conference.com
+blacklist_to		vicky-wcc@eventcomittee.com
+
+# edd 07 Oct 2022	ICENS 2022
+blacklist_from		icens0606@gmail.com
+blacklist_to		info@icens.eu
