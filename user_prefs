@@ -1756,3 +1756,8 @@ blacklist_to		info@icens.eu
 # edd 10 Oct 2022	GSCF
 blacklist_from		tade10@icc2023lisbon.com
 blacklist_to		Mandy@bitcongress.com
+
+# edd 11 Oct 2022	ARF (multiple)
+blacklist_from		icmms2021@gmail.com
+blacklist_to		vijaykumarjha2018@gmail.com
+blacklist_from		icebss2021@gmail.com
