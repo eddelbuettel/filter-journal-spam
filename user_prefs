@@ -1762,5 +1762,6 @@ blacklist_from		icmms2021@gmail.com
 blacklist_to		vijaykumarjha2018@gmail.com
 blacklist_from		icebss2021@gmail.com
 
-# edd 13 Oct 2022	JDMT
+# edd 13 Oct 2022	JDMT, IIIS
 blacklist_from		editor@medresscholarpublishres.biz
+blacklist_from		cfp-spring@mail1.2023iiisconferences.org
