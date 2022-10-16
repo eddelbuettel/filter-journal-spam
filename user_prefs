@@ -1765,3 +1765,7 @@ blacklist_from		icebss2021@gmail.com
 # edd 13 Oct 2022	JDMT, IIIS
 blacklist_from		editor@medresscholarpublishres.biz
 blacklist_from		cfp-spring@mail1.2023iiisconferences.org
+
+# edd 13 Oct 2022	ARF (multiple)
+blacklist_from		icmcsa2018@gmail.com
+blacklist_from		icmms2018@gmail.com
