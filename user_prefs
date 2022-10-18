@@ -1773,3 +1773,7 @@ blacklist_from		icmms2018@gmail.com
 # edd 17 Oct 2022	JES
 blacklist_from		vijaykumarjha2019@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 18 Oct 2022	JES
+blacklist_from		ispindia.journals@gmail.com
+blacklist_to		ijta2018@gmail.com
