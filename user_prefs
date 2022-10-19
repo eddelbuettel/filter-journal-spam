@@ -1777,3 +1777,7 @@ blacklist_to		ijta2018@gmail.com
 # edd 18 Oct 2022	JES
 blacklist_from		ispindia.journals@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 19 Oct 2022	IJHSSI
+blacklist_from		noreply@getpageranking.com
+blacklist_to		inventions.ad@gmail.com
