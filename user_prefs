@@ -1781,3 +1781,7 @@ blacklist_to		ijta2018@gmail.com
 # edd 19 Oct 2022	IJHSSI
 blacklist_from		noreply@getpageranking.com
 blacklist_to		inventions.ad@gmail.com
+
+# edd 26 Oct 2022	MA
+blacklist_from		editor@resmedicine.info
+blacklist_to		submissions@sciresmedmailres.biz
