@@ -1785,3 +1785,6 @@ blacklist_to		inventions.ad@gmail.com
 # edd 26 Oct 2022	MA
 blacklist_from		editor@resmedicine.info
 blacklist_to		submissions@sciresmedmailres.biz
+
+# edd 02 Nov 2022	IJSWCC
+blacklist_from		editorial@currentphysicalchemistry.net
