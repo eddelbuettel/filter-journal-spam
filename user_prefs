@@ -1788,3 +1788,6 @@ blacklist_to		submissions@sciresmedmailres.biz
 
 # edd 02 Nov 2022	IJSWCC
 blacklist_from		editorial@currentphysicalchemistry.net
+
+# edd 10 Nov 2022	ICMAME 2023
+blacklist_from		info@icmame.org
