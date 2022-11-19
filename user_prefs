@@ -1794,3 +1794,6 @@ blacklist_from		info@icmame.org
 
 # edd 12 Nov 2022	IIIS
 blacklist_from		cfp-spring@mail2.2023iiisconferences.org
+
+# edd 19 Nov 2022	WCC2023
+blacklist_from		mh3@oncology-2023.com
