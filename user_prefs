@@ -1801,3 +1801,6 @@ blacklist_from		mh3@oncology-2023.com
 # edd 22 Nov 2022	ARF India again
 blacklist_from		icefr2017@gmail.com
 blacklist_to		vijaykumarjha2015@gmail.com
+
+# edd 30 Nov 2022	IAMB 2023
+blacklist_from		larix@artificialintelligencemeetings.com
