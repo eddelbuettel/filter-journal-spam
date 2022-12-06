@@ -1804,3 +1804,7 @@ blacklist_to		vijaykumarjha2015@gmail.com
 
 # edd 30 Nov 2022	IAMB 2023
 blacklist_from		larix@artificialintelligencemeetings.com
+
+# edd 06 Dec 2022	WCC
+blacklist_from		lilya4@cancercon-2023meeting.com
+blacklist_to		Mandy@bitcongress.com
