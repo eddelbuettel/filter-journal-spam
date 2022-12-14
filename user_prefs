@@ -1808,3 +1808,6 @@ blacklist_from		larix@artificialintelligencemeetings.com
 # edd 06 Dec 2022	WCC
 blacklist_from		lilya4@cancercon-2023meeting.com
 blacklist_to		Mandy@bitcongress.com
+
+# edd 14 Dec 2022	ARF INDIA again
+blacklist_from		ijta2016@gmail.com
