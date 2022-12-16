@@ -1812,3 +1812,6 @@ blacklist_to		Mandy@bitcongress.com
 # edd 14 Dec 2022	ARF INDIA again, MACISE/ICCAIRO
 blacklist_from		ijta2016@gmail.com
 blacklist_from		zinovia.mastoraki@gmail.com
+
+# edd 16 Dec 2022	ARF INDIA again
+blacklist_from		ijeb2009@gmail.com
