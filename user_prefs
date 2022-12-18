@@ -1815,3 +1815,6 @@ blacklist_from		zinovia.mastoraki@gmail.com
 
 # edd 16 Dec 2022	ARF INDIA again
 blacklist_from		ijeb2009@gmail.com
+
+# edd 18 Dec 2022	JSATA
+blacklist_from		research@mathematicpublication.org
