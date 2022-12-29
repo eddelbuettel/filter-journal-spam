@@ -1824,3 +1824,6 @@ blacklist_from		editor@opensciencejournals.net
 
 # edd 26 Dec 2022	WCC2023
 blacklist_from		tade2@icc2023lisbon.com
+
+# edd 26 Dec 2022	WCC2023
+blacklist_from		editor@journalscientificresopentext.biz
