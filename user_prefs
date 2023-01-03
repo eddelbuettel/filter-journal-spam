@@ -1830,3 +1830,6 @@ blacklist_from		editor@journalscientificresopentext.biz
 
 # edd 02 Jan 2023	MOJ Appl Bionics and Biomechanics
 blacklist_from		bionics@medcraveonline.us
+
+# edd 04 Jan 2023	SciEP
+blacklist_from		Erica.Wheeler@callforpapers.vip
