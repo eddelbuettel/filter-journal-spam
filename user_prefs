@@ -1833,3 +1833,6 @@ blacklist_from		bionics@medcraveonline.us
 
 # edd 04 Jan 2023	SciEP
 blacklist_from		Erica.Wheeler@callforpapers.vip
+
+# edd 04 Jan 2023	Journal of Current Trends in Mass Communication
+blacklist_from		ctmc@openaccessgroup.org
