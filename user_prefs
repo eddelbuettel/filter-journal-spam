@@ -1836,3 +1836,7 @@ blacklist_from		Erica.Wheeler@callforpapers.vip
 
 # edd 04 Jan 2023	Journal of Current Trends in Mass Communication
 blacklist_from		ctmc@openaccessgroup.org
+
+# edd 05 Jan 2023	Int.Conference Time Series and Forecasting, IJEMH
+blacklist_from		iwtise_cfp@ugr.es
+blacklist_from		ijmeh.ad@gmail.com
