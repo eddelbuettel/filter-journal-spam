@@ -1840,3 +1840,6 @@ blacklist_from		ctmc@openaccessgroup.org
 # edd 05 Jan 2023	Int.Conference Time Series and Forecasting, IJEMH
 blacklist_from		iwtise_cfp@ugr.es
 blacklist_from		ijmeh.ad@gmail.com
+
+# edd 09 Jan 2023	ARF India
+blacklist_from		icahps2018@gmail.com
