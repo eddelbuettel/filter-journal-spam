@@ -1843,3 +1843,6 @@ blacklist_from		ijmeh.ad@gmail.com
 
 # edd 09 Jan 2023	ARF India
 blacklist_from		icahps2018@gmail.com
+
+# edd 11 Jan 2023	Mathematics and Statistics
+blacklist_from		jms.editor@hr-publishing.org
