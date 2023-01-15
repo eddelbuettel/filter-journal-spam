@@ -1846,3 +1846,6 @@ blacklist_from		icahps2018@gmail.com
 
 # edd 11 Jan 2023	Mathematics and Statistics
 blacklist_from		jms.editor@hr-publishing.org
+
+# edd 15 Jan 2023	Clinical Case Reports and Medical Case Reports
+blacklist_from		case-reports@mathewsjournal.com
