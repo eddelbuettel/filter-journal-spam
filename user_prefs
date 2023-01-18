@@ -1849,3 +1849,8 @@ blacklist_from		jms.editor@hr-publishing.org
 
 # edd 15 Jan 2023	Clinical Case Reports and Medical Case Reports
 blacklist_from		case-reports@mathewsjournal.com
+
+# edd 18 Jan 2023	WMSCI, JCC, ARMS
+blacklist_from		cfp-summer@mail2.2023iiisconferences.org
+blacklist_from		jcc@dissemu.com
+blacklist_from		Cameron.Brandon4@outlook.com
