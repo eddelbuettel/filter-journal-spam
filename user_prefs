@@ -1854,3 +1854,6 @@ blacklist_from		case-reports@mathewsjournal.com
 blacklist_from		cfp-summer@mail2.2023iiisconferences.org
 blacklist_from		jcc@dissemu.com
 blacklist_from		Cameron.Brandon4@outlook.com
+
+# edd 02 Feb 2023	ERA
+blacklist_from		era17@aimspress17.com
