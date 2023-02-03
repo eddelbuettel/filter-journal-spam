@@ -1857,3 +1857,6 @@ blacklist_from		Cameron.Brandon4@outlook.com
 
 # edd 02 Feb 2023	ERA
 blacklist_from		era17@aimspress17.com
+
+# edd 03 Feb 2023	ARF
+blacklist_from		icahps2018@gmail.com
