@@ -1860,3 +1860,7 @@ blacklist_from		era17@aimspress17.com
 
 # edd 03 Feb 2023	ARF
 blacklist_from		icahps2018@gmail.com
+
+# edd 11 Feb 2023	Double spam
+blacklist_from		cscc.conference@cscc.co
+blacklist_from		invited.authors@engineer.com
