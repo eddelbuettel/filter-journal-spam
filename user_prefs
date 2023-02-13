@@ -1864,3 +1864,6 @@ blacklist_from		icahps2018@gmail.com
 # edd 11 Feb 2023	Double spam
 blacklist_from		cscc.conference@cscc.co
 blacklist_from		invited.authors@engineer.com
+
+# edd 13 Feb 2023	Journal of Medical Case Reports and Case Series
+blacklist_from		wells_catherine@acquaintpublishers.online
