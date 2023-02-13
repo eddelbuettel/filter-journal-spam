@@ -1865,5 +1865,6 @@ blacklist_from		icahps2018@gmail.com
 blacklist_from		cscc.conference@cscc.co
 blacklist_from		invited.authors@engineer.com
 
-# edd 13 Feb 2023	Journal of Medical Case Reports and Case Series
+# edd 13 Feb 2023	Journal of Medical Case Reports and Case Series; Bentham
 blacklist_from		wells_catherine@acquaintpublishers.online
+blacklist_from		info@editorial-review.net
