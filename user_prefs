@@ -1869,3 +1869,6 @@ blacklist_from		invited.authors@engineer.com
 blacklist_from		wells_catherine@acquaintpublishers.online
 blacklist_from		info@editorial-review.net
 blacklist_from		oabb@crimsonpublisher.com
+
+# edd 21 Feb 2023	WCC2023
+blacklist_from		vickb4@wcc2023-congress.com
