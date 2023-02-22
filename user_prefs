@@ -1873,3 +1873,6 @@ blacklist_from		oabb@crimsonpublisher.com
 # edd 21 Feb 2023	WCC2023, INASE
 blacklist_from		vickb4@wcc2023-congress.com
 blacklist_from		info@iaras.org
+
+# edd 22 Feb 2023	ARF
+blacklist_from		icaber2016@gmail.com
