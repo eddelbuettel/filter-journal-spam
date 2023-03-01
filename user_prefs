@@ -1876,3 +1876,6 @@ blacklist_from		info@iaras.org
 
 # edd 22 Feb 2023	ARF
 blacklist_from		icaber2016@gmail.com
+
+# edd 28 Feb 2023	ICASIS
+blacklist_from		i_conf2@spce-sciei.top
