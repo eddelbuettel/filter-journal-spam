@@ -1879,3 +1879,6 @@ blacklist_from		icaber2016@gmail.com
 
 # edd 28 Feb 2023	ICASIS
 blacklist_from		i_conf2@spce-sciei.top
+
+# edd 01 Mar 2023	IJCM
+blacklist_from		newsletter@wspc.com
