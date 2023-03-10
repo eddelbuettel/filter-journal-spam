@@ -1882,3 +1882,9 @@ blacklist_from		i_conf2@spce-sciei.top
 
 # edd 01 Mar 2023	IJCM
 blacklist_from		newsletter@wspc.com
+
+# edd 07 Mar 2023	JMCRCS
+blacklist_from		surgeryandsurgicaloutcomes@acquaintjournals.org
+
+# edd 10 Mar 2023	JIA
+blacklist_from		editorial@office.innovationforever.com
