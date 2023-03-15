@@ -1888,3 +1888,6 @@ blacklist_from		surgeryandsurgicaloutcomes@acquaintjournals.org
 
 # edd 10 Mar 2023	JIA
 blacklist_from		editorial@office.innovationforever.com
+
+# edd 14 Mar 2024	INASE disguised
+blacklist_from		mastor@elecs.org
