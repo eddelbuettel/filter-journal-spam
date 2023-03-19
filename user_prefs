@@ -1891,3 +1891,6 @@ blacklist_from		editorial@office.innovationforever.com
 
 # edd 14 Mar 2024	INASE disguised
 blacklist_from		mastor@elecs.org
+
+# edd 19 Mar 2024	AJMCR
+blacklist_from		editor.4journal@gmail.com
