@@ -1894,3 +1894,6 @@ blacklist_from		mastor@elecs.org
 
 # edd 19 Mar 2024	AJMCR
 blacklist_from		editor.4journal@gmail.com
+
+# edd 23 Mar 2024	ARF India, again
+blacklist_from		ijta2018@gmail.com
