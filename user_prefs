@@ -1901,3 +1901,6 @@ blacklist_from		ijta2018@gmail.com
 # edd 24 Mar 2024	JMCRCS, FME
 blacklist_from		editor@medscholarjrnl.info
 blacklist_from		gladys.chew@piscomed.net
+
+# edd 27 Mar 2024	ARF India, again
+blacklist_from		icebss2018@gmail.com
