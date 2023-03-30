@@ -1904,3 +1904,7 @@ blacklist_from		gladys.chew@piscomed.net
 
 # edd 27 Mar 2024	ARF India, again
 blacklist_from		icebss2018@gmail.com
+
+# edd 29 Mar 2024	WCC, AJER
+blacklist_from		tade3@icc2023lisbon.com
+blacklist_from		ajer@editormails.com
