@@ -1889,22 +1889,25 @@ blacklist_from		surgeryandsurgicaloutcomes@acquaintjournals.org
 # edd 10 Mar 2023	JIA
 blacklist_from		editorial@office.innovationforever.com
 
-# edd 14 Mar 2024	INASE disguised
+# edd 14 Mar 2023	INASE disguised
 blacklist_from		mastor@elecs.org
 
-# edd 19 Mar 2024	AJMCR
+# edd 19 Mar 2023	AJMCR
 blacklist_from		editor.4journal@gmail.com
 
-# edd 23 Mar 2024	ARF India, again
+# edd 23 Mar 2023	ARF India, again
 blacklist_from		ijta2018@gmail.com
 
-# edd 24 Mar 2024	JMCRCS, FME
+# edd 24 Mar 2023	JMCRCS, FME
 blacklist_from		editor@medscholarjrnl.info
 blacklist_from		gladys.chew@piscomed.net
 
-# edd 27 Mar 2024	ARF India, again
+# edd 27 Mar 2023	ARF India, again
 blacklist_from		icebss2018@gmail.com
 
-# edd 29 Mar 2024	WCC, AJER
+# edd 29 Mar 2023	WCC, AJER
 blacklist_from		tade3@icc2023lisbon.com
 blacklist_from		ajer@editormails.com
+
+# edd 01 Apr 2023	JAISCT
+blacklist_from		editor@scischolar.info
