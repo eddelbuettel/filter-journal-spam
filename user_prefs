@@ -1911,3 +1911,6 @@ blacklist_from		ajer@editormails.com
 
 # edd 01 Apr 2023	JAISCT
 blacklist_from		editor@scischolar.info
+
+# edd 02 Apr 2023	GSCF
+blacklist_from		lucy05@pepcon-congress2023.com
