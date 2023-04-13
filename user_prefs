@@ -1915,5 +1915,6 @@ blacklist_from		editor@scischolar.info
 # edd 02 Apr 2023	GSCF
 blacklist_from		lucy05@pepcon-congress2023.com
 
-# edd 13 Apr 2023	WMSCI
+# edd 13 Apr 2023	WMSCI, CTCSA
 blacklist_from		cfp-summer@mail1.2023iiisconferences.org
+blacklist_from		computerscience@lupinepublishers.org
