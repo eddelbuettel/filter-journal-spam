@@ -1924,3 +1924,6 @@ blacklist_from		icpps2014@gmail.com
 
 # edd 19 Apr 2023	OSH
 blacklist_from		mirna.p@oa.intechopen.com
+
+# edd 20 Apr 2023	ABBA
+blacklist_from		biostatistics@irispublishers.org
