@@ -1927,3 +1927,9 @@ blacklist_from		mirna.p@oa.intechopen.com
 
 # edd 20 Apr 2023	ABBA
 blacklist_from		biostatistics@irispublishers.org
+
+# edd 25 Apr 2023	THEIJES
+blacklist_from		noreply@seomww.com
+
+# edd 27 Apr 2023	IJERD
+blacklist_from		noreply@nbscraft.com
