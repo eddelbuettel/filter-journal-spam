@@ -1936,3 +1936,6 @@ blacklist_from		noreply@nbscraft.com
 
 # edd 02 May 2023	JEM
 blacklist_from		iosrjen.ad@gmail.com
+
+# edd 05 May 2023	WCC2023
+blacklist_from		tade50@wddicc-conference.com
