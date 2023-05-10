@@ -1939,3 +1939,6 @@ blacklist_from		iosrjen.ad@gmail.com
 
 # edd 05 May 2023	WCC2023
 blacklist_from		tade50@wddicc-conference.com
+
+# edd 10 May 2023	3ICT2023
+blacklist_from		iiict_CFP@uob.edu.bh
