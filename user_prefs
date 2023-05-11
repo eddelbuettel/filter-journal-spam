@@ -1942,3 +1942,6 @@ blacklist_from		tade50@wddicc-conference.com
 
 # edd 10 May 2023	3ICT2023
 blacklist_from		iiict_CFP@uob.edu.bh
+
+# edd 11 May 2023	SJCE
+blacklist_from		editor111.saspublishers@gmail.com
