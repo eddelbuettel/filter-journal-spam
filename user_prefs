@@ -1945,3 +1945,7 @@ blacklist_from		iiict_CFP@uob.edu.bh
 
 # edd 11 May 2023	SJCE
 blacklist_from		editor111.saspublishers@gmail.com
+
+# edd 13 May 2023	INASE (twice)
+blacklist_from		dr.amclement@gmail.com
+blacklist_from		cps.proceedings@outlook.com
