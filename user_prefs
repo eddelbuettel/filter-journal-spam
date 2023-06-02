@@ -1952,3 +1952,6 @@ blacklist_from		cps.proceedings@outlook.com
 
 # edd 29 May 2023	WCC2023
 blacklist_from		emmea6@awcc2023cancercon.com
+
+# edd 02 Jun 2023	ARF
+blacklist_from		ijta2015@gmail.com
