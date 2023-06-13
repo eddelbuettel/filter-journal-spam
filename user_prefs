@@ -1955,3 +1955,6 @@ blacklist_from		emmea6@awcc2023cancercon.com
 
 # edd 02 Jun 2023	ARF
 blacklist_from		ijta2015@gmail.com
+
+# edd 13 Jun 2023	Annals of Case Reports
+blacklist_from		leslie@onlinearticleweb.com
