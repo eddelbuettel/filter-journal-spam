@@ -1958,3 +1958,6 @@ blacklist_from		ijta2015@gmail.com
 
 # edd 13 Jun 2023	Annals of Case Reports
 blacklist_from		leslie@onlinearticleweb.com
+
+# edd 19 Jun 2023	INASE
+blacklist_from		anna.papadimitriou@outlook.com
