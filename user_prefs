@@ -1961,3 +1961,6 @@ blacklist_from		leslie@onlinearticleweb.com
 
 # edd 19 Jun 2023	INASE
 blacklist_from		anna.papadimitriou@outlook.com
+
+# edd 21 Jun 2023	ABBA
+blacklist_from		biostatistics@iris-research.net
