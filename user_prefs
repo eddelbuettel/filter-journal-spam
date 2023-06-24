@@ -1964,3 +1964,7 @@ blacklist_from		anna.papadimitriou@outlook.com
 
 # edd 21 Jun 2023	ABBA
 blacklist_from		biostatistics@iris-research.net
+
+# edd 23 Jun 2023	AJBSR, WCC
+blacklist_from		conferences@biomedgrid.co
+blacklist_from		tade1@icc2023lisbon.com
