@@ -1974,3 +1974,6 @@ blacklist_from		ijta2018@gmail.com
 
 # edd 15 Jul 2023	Vaccines 2023
 blacklist_from		contact@magnus-conferences.net
+
+# edd 18 Jul 2023	Inventy
+blacklist_from		inventy.publish@gmail.com
