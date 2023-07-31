@@ -1980,3 +1980,6 @@ blacklist_from		inventy.publish@gmail.com
 
 # edd 19 Jul 2023	ICEET 2023
 blacklist_from		iceet@ecerconference.com
+
+# edd 31 Jul 2023	AJECE
+blacklist_from		eliana@jogynobs.org
