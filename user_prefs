@@ -1986,3 +1986,6 @@ blacklist_from		eliana@jogynobs.org
 
 # edd 01 Aug 2023	AJECE
 blacklist_from		amayazhao@ajoetm.com
+
+# edd 02 Aug 2023	JES
+blacklist_from		ispindia.journals@gmail.com
