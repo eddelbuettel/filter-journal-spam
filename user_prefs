@@ -1989,3 +1989,6 @@ blacklist_from		amayazhao@ajoetm.com
 
 # edd 02 Aug 2023	JES
 blacklist_from		ispindia.journals@gmail.com
+
+# edd 04 Aug 2023	WCC
+blacklist_from		lilyaa5@cancercon-2024meeting.com
