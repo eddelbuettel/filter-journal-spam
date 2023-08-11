@@ -1998,3 +1998,7 @@ blacklist_from		info@maxpro200.live
 
 # edd 09 Aug 2023	ARF
 blacklist_from		icahps2015@gmail.com
+
+# edd 11 Aug 2023	IC,MR
+blacklist_from		cfp@icomputing.zhejianglab.com
+blacklist_from		noreply@s1.scientificmedabstract.biz
