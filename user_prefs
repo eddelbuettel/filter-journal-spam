@@ -2002,3 +2002,6 @@ blacklist_from		icahps2015@gmail.com
 # edd 11 Aug 2023	IC,MR
 blacklist_from		cfp@icomputing.zhejianglab.com
 blacklist_from		noreply@s1.scientificmedabstract.biz
+
+# edd 17 Aug 2023	FSOM
+blacklist_from		fsdm2023@mail.cecnetconf.org
