@@ -2005,3 +2005,6 @@ blacklist_from		noreply@s1.scientificmedabstract.biz
 
 # edd 17 Aug 2023	FSOM
 blacklist_from		fsdm2023@mail.cecnetconf.org
+
+# edd 24 Aug 2023	Pioneer Journal of Theoretical and Applied Statistics
+blacklist_from		pioneer.sub@pspchv.com
