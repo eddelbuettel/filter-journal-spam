@@ -2008,3 +2008,6 @@ blacklist_from		fsdm2023@mail.cecnetconf.org
 
 # edd 24 Aug 2023	Pioneer Journal of Theoretical and Applied Statistics
 blacklist_from		pioneer.sub@pspchv.com
+
+# edd 25 Aug 2023	Worldwide AI and Web3 Summit
+blacklist_from		contact+edd@wowdao.ai
