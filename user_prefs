@@ -2011,3 +2011,7 @@ blacklist_from		pioneer.sub@pspchv.com
 
 # edd 25 Aug 2023	Worldwide AI and Web3 Summit
 blacklist_from		contact+edd@wowdao.ai
+
+# edd 27 Aug 2023	WCC, JCC
+blacklist_from		lucy2@cancer-conference2023.com
+blacklist_from		jcc@althoug.com
