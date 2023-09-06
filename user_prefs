@@ -2018,3 +2018,6 @@ blacklist_from		jcc@althoug.com
 
 # edd 28 Aug 2023	ARMS
 blacklist_from		brian.timothy4@outlook.com
+
+# edd 06 Sep 2023	MCSI
+blacklist_from		maria.managing.editor@gmail.com
