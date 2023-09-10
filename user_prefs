@@ -2022,5 +2022,6 @@ blacklist_from		brian.timothy4@outlook.com
 # edd 06 Sep 2023	MCSI
 blacklist_from		maria.managing.editor@gmail.com
 
-# edd 10 Sep 2023	MCSI
+# edd 10 Sep 2023	MCSI, WJET
 blacklist_from		mastor@hna.gr
+blacklist_from		wjet@sinzpu.com
