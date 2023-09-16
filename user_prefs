@@ -2028,3 +2028,6 @@ blacklist_from		wjet@sinzpu.com
 
 # edd 15 Sep 2023	INASE
 blacklist_from		eeesd.team@gmail.com
+
+# edd 16 Sep 2023	JMCRCS
+blacklist_from		gracie@acquaintpublishing.co
