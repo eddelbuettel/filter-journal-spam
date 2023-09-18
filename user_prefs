@@ -2031,3 +2031,6 @@ blacklist_from		eeesd.team@gmail.com
 
 # edd 16 Sep 2023	JMCRCS
 blacklist_from		gracie@acquaintpublishing.co
+
+# edd 18 Sep 2023	ARF
+blacklist_from		ijta2015@gmail.com
