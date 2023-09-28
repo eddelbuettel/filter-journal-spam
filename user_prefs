@@ -2035,3 +2035,6 @@ blacklist_from		gracie@acquaintpublishing.co
 # edd 18 Sep 2023	ARF, ACDSA
 blacklist_from		ijta2015@gmail.com
 blacklist_from		info@acdsa.org
+
+# edd 28 Sep 2023	AJSS
+blacklist_from		rspressindia@gmail.com
