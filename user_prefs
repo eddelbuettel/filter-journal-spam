@@ -2038,3 +2038,6 @@ blacklist_from		info@acdsa.org
 
 # edd 28 Sep 2023	AJSS
 blacklist_from		rspressindia@gmail.com
+
+# edd 01 Oct 2023	MACIS2024, ICNLS2024
+blacklist_from		pythagoras.georgiou@gmail.com
