@@ -2041,3 +2041,6 @@ blacklist_from		rspressindia@gmail.com
 
 # edd 01 Oct 2023	MACIS2024, ICNLS2024
 blacklist_from		pythagoras.georgiou@gmail.com
+
+# edd 04 Oct 2023	AJECE
+blacklist_from		tay.gre@intjsedu.org
