@@ -2047,3 +2047,6 @@ blacklist_from		tay.gre@intjsedu.org
 
 # edd 05 Oct 2023	Vaccines 2023
 blacklist_from		vaccines@intl-meetings.com
+
+# edd 11 Oct 2023	JCC
+blacklist_from		jcc@xume139.com
