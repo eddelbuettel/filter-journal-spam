@@ -2050,3 +2050,6 @@ blacklist_from		vaccines@intl-meetings.com
 
 # edd 11 Oct 2023	JCC
 blacklist_from		jcc@xume139.com
+
+# edd 13 Oct 2023	EMARA
+blacklist_from		info@fox300.live
