@@ -2053,3 +2053,6 @@ blacklist_from		jcc@xume139.com
 
 # edd 13 Oct 2023	EMARA
 blacklist_from		info@fox300.live
+
+# edd 15 Oct 2023	ICECCE 2023
+blacklist_from		icecce@ecerconference.com
