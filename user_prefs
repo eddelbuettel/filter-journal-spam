@@ -2056,3 +2056,7 @@ blacklist_from		info@fox300.live
 
 # edd 15 Oct 2023	ICECCE 2023
 blacklist_from		icecce@ecerconference.com
+
+# edd 17 Oct 2023	Iris, Inventy
+blacklist_from		biostatistics@irispublications.org
+blacklist_from		noreply@thebudgetmarketing.com
