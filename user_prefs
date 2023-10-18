@@ -2060,3 +2060,7 @@ blacklist_from		icecce@ecerconference.com
 # edd 17 Oct 2023	Iris, Inventy
 blacklist_from		biostatistics@irispublications.org
 blacklist_from		noreply@thebudgetmarketing.com
+
+# edd 18 Oct 2023	WCC
+blacklist_from		nihaoa2@wcc-cancercon.com
+blacklist_from		*@wcc-cancercon.com
