@@ -2068,3 +2068,6 @@ blacklist_from		*@wcc-cancercon.com
 # edd 19 Oct 2023	ELECS; JMCRCS & JCMPHR
 blacklist_from		george.h.soliman@gmail.com
 blacklist_from		hernandez-edith@acquaintpublicationsltd.life
+
+# edd 20 Oct 2023	AJBSR
+blacklist_from		biomed@biomedgridresearch.org
