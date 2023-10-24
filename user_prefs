@@ -2069,5 +2069,9 @@ blacklist_from		*@wcc-cancercon.com
 blacklist_from		george.h.soliman@gmail.com
 blacklist_from		hernandez-edith@acquaintpublicationsltd.life
 
-# edd 20 Oct 2023	AJBSR
+# edd 23 Oct 2023	AJBSR
 blacklist_from		biomed@biomedgridresearch.org
+
+# edd 24 Oct 2023	IMCIC 2024
+blacklist_from		cfp-spring@mail2.2024iiisconferences.org
+blacklist_from		*@*.2024iiisconferences.org
