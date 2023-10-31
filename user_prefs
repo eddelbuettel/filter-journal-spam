@@ -2075,3 +2075,6 @@ blacklist_from		biomed@biomedgridresearch.org
 # edd 24 Oct 2023	IMCIC 2024
 blacklist_from		cfp-spring@mail2.2024iiisconferences.org
 blacklist_from		*@*.2024iiisconferences.org
+
+# edd 31 Oct 2023	BIOMEDICNE 2024
+blacklist_from		*@worldses.org
