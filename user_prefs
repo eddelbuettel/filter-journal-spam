@@ -2079,6 +2079,10 @@ blacklist_from		*@*.2024iiisconferences.org
 # edd 31 Oct 2023	BIOMEDICNE 2024
 blacklist_from		*@worldses.org
 
-# edd 01 Noc 2023	AJMCR, ARF India
+# edd 01 Nov 2023	AJMCR, ARF India
 blacklist_from		editor.jhuma7@gmail.com
 blacklist_from		icahps2019@gmail.com
+
+# edd 06 Nov 2023	ARF INDIA
+blacklist_from		icbess2018@gmail.com
+blacklist_from		icbea2018@gmail.com
