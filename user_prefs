@@ -2086,3 +2086,6 @@ blacklist_from		icahps2019@gmail.com
 # edd 06 Nov 2023	ARF INDIA
 blacklist_from		icbess2018@gmail.com
 blacklist_from		icbea2018@gmail.com
+
+# edd 07 Nov 2023	JEN
+blacklist_from		notify@vtehnologies.com
