@@ -2089,3 +2089,6 @@ blacklist_from		icbea2018@gmail.com
 
 # edd 07 Nov 2023	JEN
 blacklist_from		notify@vtehnologies.com
+
+# edd 08 Nov 2023	WSEAS
+blacklist_from		*@wseas.org
