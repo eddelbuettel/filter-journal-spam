@@ -2092,3 +2092,6 @@ blacklist_from		notify@vtehnologies.com
 
 # edd 08 Nov 2023	WSEAS
 blacklist_from		*@wseas.org
+
+# edd 10 Nov 2023	MACISE
+blacklist_from		Maria.Delgado.mcsi@gmail.com
