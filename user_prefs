@@ -2098,3 +2098,6 @@ blacklist_from		Maria.Delgado.mcsi@gmail.com
 
 # edd 10 Nov 2023	EMAIRA
 blacklist_from		info@host50.live
+
+# edd 14 Nov 2023	WCC, again
+blacklist_from		*@wcc-event.com
