@@ -2095,3 +2095,6 @@ blacklist_from		*@wseas.org
 
 # edd 10 Nov 2023	MACISE
 blacklist_from		Maria.Delgado.mcsi@gmail.com
+
+# edd 10 Nov 2023	EMAIRA
+blacklist_from		info@host50.live
