@@ -2101,3 +2101,11 @@ blacklist_from		info@host50.live
 
 # edd 14 Nov 2023	WCC, again
 blacklist_from		*@wcc-event.com
+
+# edd 19 Nov 2023	CEII2023
+blacklist_from		abner@confere-ceii.asia
+
+# edd 24 Nov 2023	JMCRCS
+blacklist_from		laura@acquaintpublishers.live
+#                       SPAM
+blacklist_from		jeff@jeffadvisorco.com
