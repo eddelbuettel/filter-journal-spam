@@ -2109,3 +2109,9 @@ blacklist_from		abner@confere-ceii.asia
 blacklist_from		laura@acquaintpublishers.live
 #                       SPAM
 blacklist_from		jeff@jeffadvisorco.com
+
+# edd 07 Dec 2023	WCC, again
+blacklist_from		*@cardiac2024.com
+
+# edd 08 Dec 2023	IVC2024
+blacklist_from		vaccines@intl-symposium.net
