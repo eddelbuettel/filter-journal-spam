@@ -2115,3 +2115,6 @@ blacklist_from		*@cardiac2024.com
 
 # edd 08 Dec 2023	IVC2024
 blacklist_from		vaccines@intl-symposium.net
+
+# edd 21 Dec 2023	Journal of Statistics: Advances in Theory and Applications
+blacklist_from		openaccess@scienceacabart.org
