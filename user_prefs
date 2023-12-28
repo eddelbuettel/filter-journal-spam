@@ -2118,3 +2118,6 @@ blacklist_from		vaccines@intl-symposium.net
 
 # edd 21 Dec 2023	Journal of Statistics: Advances in Theory and Applications
 blacklist_from		openaccess@scienceacabart.org
+
+# edd 27 Dec 2023	Electrics and Computers Conference -Chicago,USA
+blacklist_from		info@intcec.org
