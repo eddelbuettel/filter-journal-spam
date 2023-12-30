@@ -2121,3 +2121,6 @@ blacklist_from		openaccess@scienceacabart.org
 
 # edd 27 Dec 2023	Electrics and Computers Conference -Chicago,USA
 blacklist_from		info@intcec.org
+
+# edd 30 Dec 2023	BIOMEDICINE 2024
+blacklist_from		invited.articles@cscc.co
