@@ -2124,3 +2124,6 @@ blacklist_from		info@intcec.org
 
 # edd 30 Dec 2023	BIOMEDICINE 2024
 blacklist_from		invited.articles@cscc.co
+
+# edd 02 Jan 2024	American Јoսrnal of Electrical and Computer Engineering
+blacklist_from		coleman@collosursci.com
