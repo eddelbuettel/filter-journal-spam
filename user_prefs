@@ -2127,3 +2127,6 @@ blacklist_from		invited.articles@cscc.co
 
 # edd 02 Jan 2024	American Јoսrnal of Electrical and Computer Engineering
 blacklist_from		coleman@collosursci.com
+
+# edd 03 Jan 2024	Annals of Biostatistics & Biometric Applications
+blacklist_from		biostatistics@irispublisher.com
