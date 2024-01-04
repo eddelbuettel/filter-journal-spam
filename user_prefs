@@ -2130,3 +2130,6 @@ blacklist_from		coleman@collosursci.com
 
 # edd 03 Jan 2024	Annals of Biostatistics & Biometric Applications
 blacklist_from		biostatistics@irispublisher.com
+
+# edd 04 Jan 2024	ICTIS 2024
+blacklist_from		support@ictislasvegas.com
