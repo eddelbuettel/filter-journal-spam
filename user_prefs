@@ -2133,3 +2133,6 @@ blacklist_from		biostatistics@irispublisher.com
 
 # edd 04 Jan 2024	ICTIS 2024
 blacklist_from		support@ictislasvegas.com
+
+# edd 08 Jan 2024	IJEI
+blacklist_from		ijeijournals.ad@gmail.com
