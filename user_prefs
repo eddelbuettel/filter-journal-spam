@@ -2137,3 +2137,6 @@ blacklist_from		support@ictislasvegas.com
 # edd 08 Jan 2024	IJEI, SciEP
 blacklist_from		ijeijournals.ad@gmail.c
 blacklist_from		Bruce.Porter@sciepinvation.vip
+
+# edd 14 Jan 202	Biopharma & Life Sciences
+blacklist_from		newsletter@industryexpo.ie
