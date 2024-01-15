@@ -2138,5 +2138,6 @@ blacklist_from		support@ictislasvegas.com
 blacklist_from		ijeijournals.ad@gmail.c
 blacklist_from		Bruce.Porter@sciepinvation.vip
 
-# edd 14 Jan 202	Biopharma & Life Sciences
+# edd 14 Jan 202	Biopharma & Life Sciences, 20th Materials and Nanotechnology Meet & Expo
 blacklist_from		newsletter@industryexpo.ie
+blacklist_from		info@host100.live
