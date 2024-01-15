@@ -2141,3 +2141,6 @@ blacklist_from		Bruce.Porter@sciepinvation.vip
 # edd 14 Jan 202	Biopharma & Life Sciences, 20th Materials and Nanotechnology Meet & Expo
 blacklist_from		newsletter@industryexpo.ie
 blacklist_from		info@host100.live
+
+# edd 15 Jan 202	20th Materials and Nanotechnology Meet & Expo
+blacklist_from		info@host100.live
