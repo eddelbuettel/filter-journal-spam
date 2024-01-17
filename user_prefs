@@ -2144,3 +2144,6 @@ blacklist_from		info@host100.live
 
 # edd 15 Jan 202	20th Materials and Nanotechnology Meet & Expo
 blacklist_from		info@host100.live
+
+# edd 17 Jan 2024	Vaccines 2024
+blacklist_from		vaccines@int-congress.net
