@@ -2147,3 +2147,6 @@ blacklist_from		info@host100.live
 
 # edd 17 Jan 2024	Vaccines 2024
 blacklist_from		vaccines@int-congress.net
+
+# edd 19 Jan 2024	17th Global Summit and Expo on Materials Science and Engineering
+blacklist_from		info@zee100.live
