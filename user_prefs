@@ -2154,5 +2154,6 @@ blacklist_from		info@zee100.live
 # edd 21 Jan 2024	MMCTSE 2024 and ENCEMA 2024
 blacklist_from		j.p.l.brugma.1961@gmail.com
 
-# edd 25 Jan 2024	IJMSI
+# edd 25 Jan 2024	IJMSI, Molecular Chemistry
 blacklist_from		notify@wizardinfotech.com
+blacklist_from		noreply@science-openjournals.biz
