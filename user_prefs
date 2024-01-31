@@ -2157,3 +2157,6 @@ blacklist_from		j.p.l.brugma.1961@gmail.com
 # edd 25 Jan 2024	IJMSI, Molecular Chemistry
 blacklist_from		notify@wizardinfotech.com
 blacklist_from		noreply@science-openjournals.biz
+
+# edd 31 Jan 2024	ARF India Journal of Statistics and Computer Science
+blacklist_from		ijeb2009@gmail.com
