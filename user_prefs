@@ -2163,3 +2163,6 @@ blacklist_from		ijeb2009@gmail.com
 
 # edd 05 Feb 2024	IOSR
 blacklist_from		*@onlinereputationking.com
+
+# edd 07 Feb 2024	IOSR
+blacklist_from		notify@smtppod.com
