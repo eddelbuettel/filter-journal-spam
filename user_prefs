@@ -2166,3 +2166,6 @@ blacklist_from		*@onlinereputationking.com
 
 # edd 07 Feb 2024	IOSR
 blacklist_from		notify@smtppod.com
+
+# edd 09 Feb 2024	JSCS
+blacklist_from		internationalsciencespress@gmail.com
