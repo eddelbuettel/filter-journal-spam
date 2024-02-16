@@ -2172,3 +2172,6 @@ blacklist_from		internationalsciencespress@gmail.com
 
 # edd 13 Feb 2024	JMCRCS,JCMPHR
 blacklist_from		johanna@acquaintpublicationsgroup.live
+
+# edd 16 Feb 2024	Molecular Chemistry
+blacklist_from		jmcs@review-meetup.biz
