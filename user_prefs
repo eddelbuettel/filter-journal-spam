@@ -2178,3 +2178,6 @@ blacklist_from		jmcs@review-meetup.biz
 
 # edd 17 Feb 2024	Biostatistics and Bioinformatics
 blacklist_from		oabb@crimson-publishers.com
+
+# edd 22 Feb 2024	WCC
+blacklist_from		*@pep-amsterdam2024meeting.com
