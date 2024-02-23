@@ -2181,3 +2181,6 @@ blacklist_from		oabb@crimson-publishers.com
 
 # edd 22 Feb 2024	WCC
 blacklist_from		*@pep-amsterdam2024meeting.com
+
+# edd 23 Feb 2024	Forum for Linguistic Studies
+blacklist_from		audsley.poh@acad-pub.net
