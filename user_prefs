@@ -2184,3 +2184,6 @@ blacklist_from		*@pep-amsterdam2024meeting.com
 
 # edd 23 Feb 2024	Forum for Linguistic Studies
 blacklist_from		audsley.poh@acad-pub.net
+
+# edd 24 Feb 2024	BIOMEDICINE 2024
+blacklist_from		anna.papadimitriou@gmail.com
