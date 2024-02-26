@@ -2187,3 +2187,6 @@ blacklist_from		audsley.poh@acad-pub.net
 
 # edd 24 Feb 2024	BIOMEDICINE 2024
 blacklist_from		anna.papadimitriou@gmail.com
+
+# edd 26 Feb 2024	AMJECEE
+blacklist_from		lu.coll@ajoaa.net
