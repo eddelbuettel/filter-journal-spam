@@ -2190,3 +2190,6 @@ blacklist_from		anna.papadimitriou@gmail.com
 
 # edd 26 Feb 2024	AMJECEE
 blacklist_from		lu.coll@ajoaa.net
+
+# edd 01 Mar 2024	Vaccines 2024
+blacklist_from		noreply@research-scimedscholarmail.biz
