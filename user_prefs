@@ -2193,3 +2193,6 @@ blacklist_from		lu.coll@ajoaa.net
 
 # edd 01 Mar 2024	Vaccines 2024
 blacklist_from		noreply@research-scimedscholarmail.biz
+
+# edd 05 Mar 2024	Insurance Analytics&AI Innovation APAC 2024
+blacklist_from		insurance@info.szwgroup.com
