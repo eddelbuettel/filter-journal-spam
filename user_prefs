@@ -2196,3 +2196,6 @@ blacklist_from		noreply@research-scimedscholarmail.biz
 
 # edd 05 Mar 2024	Insurance Analytics&AI Innovation APAC 2024
 blacklist_from		insurance@info.szwgroup.com
+
+# edd 09 Mar 2024	IJMER
+blacklist_from		notify@shinedistribution.co.uk
