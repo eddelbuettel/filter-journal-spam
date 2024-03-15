@@ -2199,3 +2199,6 @@ blacklist_from		insurance@info.szwgroup.com
 
 # edd 09 Mar 2024	IJMER
 blacklist_from		notify@shinedistribution.co.uk
+
+# edd 15 Mar 2024	IJMCRCS-2024
+blacklist_from		noreply@scijournals.biz
