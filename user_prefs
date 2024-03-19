@@ -2202,3 +2202,7 @@ blacklist_from		notify@shinedistribution.co.uk
 
 # edd 15 Mar 2024	IJMCRCS-2024
 blacklist_from		noreply@scijournals.biz
+
+# edd 19 Mar 2024	IJMSI, IOSR
+blacklist_from		notify@onlinedigitalmarketingsg.com
+blacklist_from		notify@luketechnocraft.com
