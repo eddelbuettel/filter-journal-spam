@@ -2207,3 +2207,6 @@ blacklist_from		noreply@scijournals.biz
 blacklist_from		notify@onlinedigitalmarketingsg.com
 blacklist_from		notify@luketechnocraft.com
 blacklist_from		acrt@journals.intechopen.com
+
+# edd 26 Mar 2024	JCCE
+blacklist_from		juno.jiang@jcceeditorial.com
