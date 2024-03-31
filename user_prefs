@@ -2213,3 +2213,10 @@ blacklist_from		juno.jiang@jcceeditorial.com
 
 # edd 28 Mar 2024	AJSA (ARF)
 blacklist_from		icaps2015@gmail.com
+
+# edd 30 Mar 2024	CSCC, AJSA (ARF)
+blacklist_from		cscc2024@mail3.engw.org
+blacklist_from		vijaykumarjha2020@gmail.com
+
+# edd 31 Mar 2024	PJTAS
+blacklist_from		pioneerinfo@pspchv.com
