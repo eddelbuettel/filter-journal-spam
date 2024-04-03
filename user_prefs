@@ -2220,3 +2220,6 @@ blacklist_from		vijaykumarjha2020@gmail.com
 
 # edd 31 Mar 2024	PJTAS
 blacklist_from		pioneerinfo@pspchv.com
+
+# edd 03 Apr 2024	BIOMEDICINE
+blacklist_from		kostas.chiotopoulos@mail4.engw.org
