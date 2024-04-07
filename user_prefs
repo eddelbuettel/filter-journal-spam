@@ -2223,3 +2223,6 @@ blacklist_from		pioneerinfo@pspchv.com
 
 # edd 03 Apr 2024	BIOMEDICINE
 blacklist_from		kostas.chiotopoulos@mail4.engw.org
+
+# edd 07 Apr 2024	WCC
+blacklist_from		irene5@cancer2024-event.com
