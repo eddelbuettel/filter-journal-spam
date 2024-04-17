@@ -2229,3 +2229,6 @@ blacklist_from		irene5@cancer2024-event.com
 
 # edd 10 Apr 2024	AJSA (ARF)
 blacklist_from		icahps2019@gmail.com
+
+# edd 17 Apr 2024	AJER
+blacklist_from		notify@xpendfile.com
