@@ -2232,3 +2232,6 @@ blacklist_from		icahps2019@gmail.com
 
 # edd 17 Apr 2024	AJER
 blacklist_from		notify@xpendfile.com
+
+# edd 20 Apr 2024	MMCTSE
+blacklist_from		mmctse2024@mail3.engw.org
