@@ -2236,5 +2236,9 @@ blacklist_from		notify@xpendfile.com
 # edd 20 Apr 2024	MMCTSE
 blacklist_from		mmctse2024@mail3.engw.org
 
-# edd 24 Apr 2024	ICANCS2024
+# edd 24 Apr 2024	ICAMCS2024
 blacklist_from		icamcs2024@mail3.engw.or
+
+# edd 25 Apr 2024	ICELECS2024
+blacklist_from		icamcs2024@mail3.engw.org
+blacklist_from		*@mail3.engw.org
