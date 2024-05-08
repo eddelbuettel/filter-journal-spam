@@ -2245,3 +2245,6 @@ blacklist_from		*@mail3.engw.org
 
 # edd 28 Apr 2024	Applied Mathematics (AM)
 blacklist_from		am@finalzo.com
+
+# edd 08 May 2024	ERA
+blacklist_from		era13@aimspress13.com
