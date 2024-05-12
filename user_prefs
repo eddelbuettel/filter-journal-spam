@@ -2248,3 +2248,6 @@ blacklist_from		am@finalzo.com
 
 # edd 08 May 2024	ERA
 blacklist_from		era13@aimspress13.com
+
+# edd 12 May 2024	AJECE
+blacklist_from		viv.pet@engappsci.com
