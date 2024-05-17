@@ -2251,3 +2251,6 @@ blacklist_from		era13@aimspress13.com
 
 # edd 12 May 2024	AJECE
 blacklist_from		viv.pet@engappsci.com
+
+# edd 17 May 2024	JAES (ARF)
+blacklist_from		icebss17@gmail.com
