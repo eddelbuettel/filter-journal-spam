@@ -2257,3 +2257,6 @@ blacklist_from		icebss17@gmail.com
 
 # edd 23 May 2024	ICECER
 blacklist_from		info@icecer.com
+
+# edd 24 May 2024	ICELECS
+blacklist_from		icelecs.conference@gmail.com
