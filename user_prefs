@@ -2260,3 +2260,6 @@ blacklist_from		info@icecer.com
 
 # edd 24 May 2024	ICELECS
 blacklist_from		icelecs.conference@gmail.com
+
+# edd 29 May 2024	Hong Kong Scopus
+blacklist_from		zeminzhang2004@yahoo.com
