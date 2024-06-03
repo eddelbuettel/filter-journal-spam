@@ -2264,6 +2264,7 @@ blacklist_from		icelecs.conference@gmail.com
 # edd 29 May 2024	Hong Kong Scopus
 blacklist_from		zeminzhang2004@yahoo.com
 
-# edd 03 Jun 2024	FSDM 2024, WCC (again)
+# edd 03 Jun 2024	FSDM 2024, WCC (again), AJECE
 blacklist_from		fsdm@confcfp.com
 blacklist_from		*@cancer-event.com
+blacklist_from		kaitychang@ijgastro.com
