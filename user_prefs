@@ -2263,3 +2263,6 @@ blacklist_from		icelecs.conference@gmail.com
 
 # edd 29 May 2024	Hong Kong Scopus
 blacklist_from		zeminzhang2004@yahoo.com
+
+# edd 03 Jun 2024	FSDM 2024
+blacklist_from		fsdm@confcfp.com
