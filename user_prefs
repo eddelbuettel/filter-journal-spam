@@ -2274,3 +2274,6 @@ blacklist_from		george.melovic@gmail.com
 
 # edd 11 Jun 2024	JIPO
 blacklist_from		joule.teo@apacsci.net
+
+# edd 16 Jun 2024	IntechOpen
+blacklist_from		marica@news.intechopen.com
