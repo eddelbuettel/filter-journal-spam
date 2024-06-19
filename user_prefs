@@ -2277,3 +2277,6 @@ blacklist_from		joule.teo@apacsci.net
 
 # edd 16 Jun 2024	IntechOpen
 blacklist_from		marica@news.intechopen.com
+
+# edd 18 Jun 2024	Vaccines 2024
+blacklist_from		vaccines@magnusgroupevents.com
