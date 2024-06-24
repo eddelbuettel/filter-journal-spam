@@ -2280,3 +2280,6 @@ blacklist_from		marica@news.intechopen.com
 
 # edd 18 Jun 2024	Vaccines 2024
 blacklist_from		vaccines@magnusgroupevents.com
+
+# edd 24 Jun 2024	COMCONF2024
+blacklist_from		comconf2024shanghai@gmail.com
