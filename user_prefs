@@ -2283,3 +2283,6 @@ blacklist_from		vaccines@magnusgroupevents.com
 
 # edd 24 Jun 2024	COMCONF2024
 blacklist_from		comconf2024shanghai@gmail.com
+
+# edd 25 Jun 2024	JIPO
+blacklist_from		kinson.lee@sin-chn.net
