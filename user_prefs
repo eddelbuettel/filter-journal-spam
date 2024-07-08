@@ -2286,3 +2286,6 @@ blacklist_from		comconf2024shanghai@gmail.com
 
 # edd 25 Jun 2024	JIPO
 blacklist_from		kinson.lee@sin-chn.net
+
+# edd 08 Jul 2024	JCMPHR-2024
+blacklist_from		noreply@authorshiphubs.com
