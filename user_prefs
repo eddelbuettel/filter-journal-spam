@@ -2292,3 +2292,6 @@ blacklist_from		noreply@authorshiphubs.com
 
 # edd 09 Jul 2024	WCC-* again
 blacklist_from		vick*@cancer-meeting202*.com
+
+# edd 16 Jul 2024	AMCS 2024
+blacklist_from		amcs2024@europe.com
