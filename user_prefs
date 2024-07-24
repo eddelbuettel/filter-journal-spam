@@ -2298,3 +2298,6 @@ blacklist_from		amcs2024@europe.com
 
 # edd 22 Jul 2024	MLIS 2024
 blacklist_from		mlis@mail.absconf.org
+
+# edd 24 Jul 2024	WCC-* again
+blacklist_from		*@cancer-conference202*.com
