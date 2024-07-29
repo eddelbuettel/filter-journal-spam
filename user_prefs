@@ -2301,3 +2301,6 @@ blacklist_from		mlis@mail.absconf.org
 
 # edd 24 Jul 2024	WCC-* again
 blacklist_from		*@cancer-conference202*.com
+
+# edd 29 Jul 2024	Journal of Statistics: Advances in Theory and Applications
+blacklist_from		invaitepapers@jyotiacademicpress.in
