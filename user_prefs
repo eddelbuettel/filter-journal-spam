@@ -2304,3 +2304,6 @@ blacklist_from		*@cancer-conference202*.com
 
 # edd 29 Jul 2024	Journal of Statistics: Advances in Theory and Applications
 blacklist_from		invaitepapers@jyotiacademicpress.in
+
+# edd 30 Jul 2024	IJMSI
+blacklist_from		noreply@indiandigitalexperts.com
