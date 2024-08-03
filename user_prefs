@@ -2307,3 +2307,6 @@ blacklist_from		invaitepapers@jyotiacademicpress.in
 
 # edd 30 Jul 2024	IJMSI
 blacklist_from		noreply@indiandigitalexperts.com
+
+# edd 03 Aug 2024	ICECCE
+blacklist_from		icecce@techfist.org
