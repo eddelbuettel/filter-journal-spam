@@ -2310,3 +2310,6 @@ blacklist_from		noreply@indiandigitalexperts.com
 
 # edd 03 Aug 2024	ICECCE
 blacklist_from		icecce@techfist.org
+
+# edd 16 Aug 2024	AMIC
+blacklist_from		online@iconfeecs.com
