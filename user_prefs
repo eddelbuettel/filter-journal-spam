@@ -2313,3 +2313,6 @@ blacklist_from		icecce@techfist.org
 
 # edd 16 Aug 2024	AMIC
 blacklist_from		online@iconfeecs.com
+
+# edd 26 Aug 2024	JoSODS
+blacklist_from		ijta2018@gmail.com
