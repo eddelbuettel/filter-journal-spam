@@ -2316,3 +2316,7 @@ blacklist_from		online@iconfeecs.com
 
 # edd 26 Aug 2024	JoSODS
 blacklist_from		ijta2018@gmail.com
+
+# edd 30 Aug 2024	AMCS, AJECE
+blacklist_from		amcs.conference@gmail.com
+blacklist_from		j.contactus@ajonc.net
