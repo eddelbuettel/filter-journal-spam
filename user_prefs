@@ -2323,3 +2323,6 @@ blacklist_from		j.contactus@ajonc.net
 
 # edd 04 Sep 2024	IJRES
 blacklist_to		ijres.ad@gmail.comki
+
+# edd 07 Sep 2024	ICT
+blacklist_from		jcc@ckcation.com
