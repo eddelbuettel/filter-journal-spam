@@ -2326,3 +2326,6 @@ blacklist_to		ijres.ad@gmail.comki
 
 # edd 07 Sep 2024	ICT
 blacklist_from		jcc@ckcation.com
+
+# edd 11 Sep 2024	WCC, again
+blacklist_from		*@wcc-event202*.com
