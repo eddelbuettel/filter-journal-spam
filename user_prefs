@@ -2332,3 +2332,6 @@ blacklist_from		*@wcc-event202*.com
 
 # edd 12 Sep 2024	AJECE
 blacklist_from		an.holm@ajoeace.com
+
+# edd 13 Sep 2024	AIMS Math
+blacklist_from		math@aimspress.org
