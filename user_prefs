@@ -2335,3 +2335,7 @@ blacklist_from		an.holm@ajoeace.com
 
 # edd 13 Sep 2024	AIMS Math
 blacklist_from		math@aimspress.org
+
+# edd 16 Sep 2024	ARF India
+blacklist_from		icahfs2019@gmail.com
+blacklist_to 		ijta2018@gmail.com
