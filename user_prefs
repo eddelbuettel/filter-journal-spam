@@ -2339,3 +2339,7 @@ blacklist_from		math@aimspress.org
 # edd 16 Sep 2024	ARF India
 blacklist_from		icahfs2019@gmail.com
 blacklist_to 		ijta2018@gmail.com
+
+# edd 02 Oct 2024	INTJIMSE/INTJMEA
+blacklist_from		Ella.Moore@intjimse.org
+blacklist_to		Ella.Moore@intjmea.org
