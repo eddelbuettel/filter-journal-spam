@@ -2343,3 +2343,6 @@ blacklist_to 		ijta2018@gmail.com
 # edd 02 Oct 2024	INTJIMSE/INTJMEA
 blacklist_from		Ella.Moore@intjimse.org
 blacklist_to		Ella.Moore@intjmea.org
+
+# edd 04 Oct 2024	IMCIC
+blacklist_from		cfp-spring@mail2.2025iiisconferences.org
