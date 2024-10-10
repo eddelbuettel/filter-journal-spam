@@ -2350,3 +2350,6 @@ blacklist_from		cfp-spring@mail2.2025iiisconferences.org
 # edd 07 Oct 2024	JIPD,JCMPHR
 blacklist_from		jaelyn.martinson@ep-pub.net
 blacklist_from		noreply@scimedopenaccesscfp.com
+
+# edd 10 Oct 2024	WCC, again
+blacklist_from		*@wdd-congress.com
