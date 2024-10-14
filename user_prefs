@@ -2353,3 +2353,6 @@ blacklist_from		noreply@scimedopenaccesscfp.com
 
 # edd 10 Oct 2024	WCC, again
 blacklist_from		*@wdd-congress.com
+
+# edd 14 Oct 2024	Sound & Vibration
+blacklist_from		asher.goh@techsci-press.net
