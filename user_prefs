@@ -2359,3 +2359,9 @@ blacklist_from		asher.goh@techsci-press.net
 
 # edd 24 Oct 2024	JCMPHR-2024
 blacklist_from		noreply@scholar83.com
+
+# edd 03 Nov 2024	INVENTION
+blacklist_to		invention.publish@gmail.com
+
+# edd 08 Nov 2024	Mathematics and Systems Science
+blacklist_from		mia.loo@academic-pub.net
