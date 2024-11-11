@@ -2365,3 +2365,6 @@ blacklist_to		invention.publish@gmail.com
 
 # edd 08 Nov 2024	Mathematics and Systems Science
 blacklist_from		mia.loo@academic-pub.net
+
+# edd 11 Nov 2024	Journal of Statistics: Advances in Theory and Applications
+blacklist_from		excellent@excellentjournal.org
