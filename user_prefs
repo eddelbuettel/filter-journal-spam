@@ -2368,3 +2368,7 @@ blacklist_from		mia.loo@academic-pub.net
 
 # edd 11 Nov 2024	Journal of Statistics: Advances in Theory and Applications
 blacklist_from		excellent@excellentjournal.org
+
+# edd 21 Nov 202	AJECE
+blacklist_from		j.service@ajsea.net
+blacklist_to		j.service@ajtas.net
