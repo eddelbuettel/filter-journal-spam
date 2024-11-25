@@ -2372,3 +2372,6 @@ blacklist_from		excellent@excellentjournal.org
 # edd 21 Nov 202	AJECE
 blacklist_from		j.service@ajsea.net
 blacklist_to		j.service@ajtas.net
+
+# edd 25 Nov 202	WVRDC 2025
+blacklist_from		vaccinernd@precisionglobalcon.com
