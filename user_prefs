@@ -2378,3 +2378,8 @@ blacklist_from		vaccinernd@precisionglobalcon.com
 
 # edd 29 Nov 2024	AIA
 blacklist_from		rosie.huang@aiaadministration.com
+
+# edd 08 Dec 2024	IJMSI, AMJECE
+blacklist_from		noreply@vtehnologies.com
+blacklist_to		invention.publish@gmail.com
+blacklist_from		kay.cal@ajbioes.org
