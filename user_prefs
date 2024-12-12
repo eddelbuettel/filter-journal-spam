@@ -2383,3 +2383,7 @@ blacklist_from		rosie.huang@aiaadministration.com
 blacklist_from		noreply@vtehnologies.com
 blacklist_to		invention.publish@gmail.com
 blacklist_from		kay.cal@ajbioes.org
+
+# edd 12 Dec 2024	WCC, again
+blacklist_from		*@pepcon-convention2025.com
+blacklist_from		vicky.wcc@gala-loc.com
