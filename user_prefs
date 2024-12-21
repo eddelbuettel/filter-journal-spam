@@ -2387,3 +2387,7 @@ blacklist_from		kay.cal@ajbioes.org
 # edd 12 Dec 2024	WCC, again
 blacklist_from		*@pepcon-convention2025.com
 blacklist_from		vicky.wcc@gala-loc.com
+
+# edd 21 Dec 2024	AJECE
+blacklist_from		Ava.Johnson@ijoaos.com
+blacklist_to		Ava.Johnson@ijoast.org
