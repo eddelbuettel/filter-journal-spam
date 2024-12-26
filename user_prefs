@@ -2391,3 +2391,6 @@ blacklist_from		vicky.wcc@gala-loc.com
 # edd 21 Dec 2024	AJECE
 blacklist_from		Ava.Johnson@ijoaos.com
 blacklist_to		Ava.Johnson@ijoast.org
+
+# edd 26 Dec 2024	Crimson
+blacklist_from		oabb@crimsonpublishers.org
