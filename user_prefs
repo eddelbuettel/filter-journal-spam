@@ -2394,3 +2394,6 @@ blacklist_to		Ava.Johnson@ijoast.org
 
 # edd 26 Dec 2024	Crimson
 blacklist_from		oabb@crimsonpublishers.org
+
+# edd 30 Dec 2024	CSCC 2025
+blacklist_from		cscc2025@mail.engw.org
