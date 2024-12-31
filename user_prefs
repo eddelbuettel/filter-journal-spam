@@ -2397,3 +2397,7 @@ blacklist_from		oabb@crimsonpublishers.org
 
 # edd 30 Dec 2024	CSCC 2025
 blacklist_from		cscc2025@mail.engw.org
+
+# edd 31 Dec 2024	MCB
+blacklist_from		lailah.chew@academic-pub.net
+blacklist_to		venus.mok@academic-pub.net
