@@ -2401,3 +2401,7 @@ blacklist_from		cscc2025@mail.engw.org
 # edd 31 Dec 2024	MCB
 blacklist_from		lailah.chew@academic-pub.net
 blacklist_to		venus.mok@academic-pub.net
+
+# edd 04 Jan 2025	ICT
+blacklist_from		jcc@econmic.com
+blacklist_to		service@srpjournals.com
