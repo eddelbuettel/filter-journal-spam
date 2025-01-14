@@ -2405,3 +2405,8 @@ blacklist_to		venus.mok@academic-pub.net
 # edd 04 Jan 2025	ICT
 blacklist_from		jcc@econmic.com
 blacklist_to		service@srpjournals.com
+
+# edd 14 Jan 2025	JIPD, SDNW
+blacklist_from		teresa.carpio@apacsci.net
+blacklist_from		nhm4@aimspress4.com
+blacklist_to		xiaochen.liu@aimsciences.org
