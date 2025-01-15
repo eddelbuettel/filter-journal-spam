@@ -2410,3 +2410,6 @@ blacklist_to		service@srpjournals.com
 blacklist_from		teresa.carpio@apacsci.net
 blacklist_from		nhm4@aimspress4.com
 blacklist_to		xiaochen.liu@aimsciences.org
+
+# edd 15 Jan 2025	SCI
+blacklist_from		cfp-summer@mail1.2025iiisconferences.org
