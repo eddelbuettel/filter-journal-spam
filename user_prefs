@@ -2414,6 +2414,8 @@ blacklist_to		xiaochen.liu@aimsciences.org
 # edd 15 Jan 2025	SCI
 blacklist_from		cfp-summer@mail1.2025iiisconferences.org
 
-# edd 26 Jan 2025	WCC, again
+# edd 26 Jan 2025	WCC, again; JBRHA
 blacklist_from		*@wcc2025-conference.com
 blacklist_to		vicky.wcc@gala-loc.com
+blacklist_from		keanu.russell@enpress-publisher.net
+blacklist_to		asher.goh@techsci-press.net
