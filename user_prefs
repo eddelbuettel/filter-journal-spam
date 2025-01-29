@@ -2420,6 +2420,7 @@ blacklist_to		vicky.wcc@gala-loc.com
 blacklist_from		keanu.russell@enpress-publisher.net
 blacklist_to		asher.goh@techsci-press.net
 
-# edd 29 Jan 2025	Editorial Board nonsense
+# edd 29 Jan 2025	Editorial Board nonsense, Vaccines
 blacklist_from		j.feedback@sjams.net
 blacklist_to		j.feedback@sjcssp.net
+blacklist_from		vaccines@scimedoral-presentation.com
