@@ -2419,3 +2419,7 @@ blacklist_from		*@wcc2025-conference.com
 blacklist_to		vicky.wcc@gala-loc.com
 blacklist_from		keanu.russell@enpress-publisher.net
 blacklist_to		asher.goh@techsci-press.net
+
+# edd 29 Jan 2025	Editorial Board nonsense
+blacklist_from		j.feedback@sjams.net
+blacklist_to		j.feedback@sjcssp.net
