@@ -2424,3 +2424,7 @@ blacklist_to		asher.goh@techsci-press.net
 blacklist_from		j.feedback@sjams.net
 blacklist_to		j.feedback@sjcssp.net
 blacklist_from		vaccines@scimedoral-presentation.com
+
+# edd 06 Feb 2025	Editorial in Chief nonsense
+blacklist_from		rayna.enoch@enpress-publisher.net
+blacklist_to		amaryllis.devlin@academic-pub.net
