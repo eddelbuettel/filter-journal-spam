@@ -2428,3 +2428,9 @@ blacklist_from		vaccines@scimedoral-presentation.com
 # edd 06 Feb 2025	Editorial in Chief nonsense
 blacklist_from		rayna.enoch@enpress-publisher.net
 blacklist_to		amaryllis.devlin@academic-pub.net
+
+# edd 08 Feb 2025	INASE variant, JBRHA
+blacklist_from		summits@engw.org
+blacklist_to		dr.a.m.clement@gmail.com
+blacklist_from		adrian.toh@academic-pub.net
+blacklist_to		venus.mok@academic-pub.net
