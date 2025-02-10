@@ -2434,3 +2434,7 @@ blacklist_from		summits@engw.org
 blacklist_to		dr.a.m.clement@gmail.com
 blacklist_from		adrian.toh@academic-pub.net
 blacklist_to		venus.mok@academic-pub.net
+
+# edd 10 Feb 2025	ICECET,	BIOMEDICINE
+blacklist_from		info3@icecet.com
+blacklist_from		dr.a.m.clement@gmail.com
