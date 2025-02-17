@@ -2441,3 +2441,7 @@ blacklist_from		dr.a.m.clement@gmail.com
 
 # edd 15 Feb 2025	MMCTSE
 blacklist_from		dr.ahmad.moreb@gmail.com
+
+# edd 17 Feb 2025	Ecosystem Journal
+blacklist_from		info@publication886.cn
+blacklist_to		scieipublication@263.net
