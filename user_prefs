@@ -2446,10 +2446,12 @@ blacklist_from		dr.ahmad.moreb@gmail.com
 blacklist_from		info@publication886.cn
 blacklist_to		scieipublication@263.net
 
-# edd 03 Mar 2025	ARF
+# edd 03 Mar 2025	ARF, JCC
 blacklist_from		ijta2019@gmail.com
 blacklist_to		ijta2018@gmail.com
 blacklist_from		icahps2015@gmail.com
 blacklist_from		icab2018@gmail.com
 blacklist_from		icab2018@gmail.com
 blacklist_from		icefr2017@gmail.com
+blacklist_from		jcc@ljemail.org
+blacklist_to		service@oa-journals.com
