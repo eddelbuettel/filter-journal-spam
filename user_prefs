@@ -2455,3 +2455,9 @@ blacklist_from		icab2018@gmail.com
 blacklist_from		icefr2017@gmail.com
 blacklist_from		jcc@ljemail.org
 blacklist_to		service@oa-journals.com
+
+# edd 12 Mar 2025	ASMDA 2025, ARF
+blacklist_from		skiadas1@otenet.gr
+blacklist_from		editor.ijta@gmail.com
+blacklist_to		ijta2018@gmail.com
+blacklist_from		icmms2014@gmail.com
