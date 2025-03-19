@@ -2467,3 +2467,6 @@ blacklist_from		wayne@wiserpub.com
 blacklist_to		wayne@wiserpub.com
 blacklist_from		noreply@edgedigitaltech.com
 blacklist_to		invention.publish@gmail.com
+
+# edd 19 Mar 2025	ICNAAM
+blacklist_from		info@icnaam.org
