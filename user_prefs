@@ -2470,3 +2470,7 @@ blacklist_to		invention.publish@gmail.com
 
 # edd 19 Mar 2025	ICNAAM
 blacklist_from		info@icnaam.org
+
+# edd 26 Mar 2025	COMCONF
+blacklist_from		Paul.E.A.Nelson@comconf.org
+blacklist_to		Paul.E.A.Nelson@gmail.com
