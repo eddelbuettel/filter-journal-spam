@@ -2478,3 +2478,7 @@ blacklist_to		Paul.E.A.Nelson@gmail.com
 # edd 28 Mar 2025	OJSS
 blacklist_from		jss@critibiz.com
 blacklist_to		Manuscript@oa-journals.com
+
+# edd 08 Apr 2025	Oncology again
+blacklist_from		sophiea3@oncology-2025.com
+blacklist_to		vicky.wcc@gala-loc.com
