@@ -2482,3 +2482,7 @@ blacklist_to		Manuscript@oa-journals.com
 # edd 08 Apr 2025	Oncology again
 blacklist_from		sophiea3@oncology-2025.com
 blacklist_to		vicky.wcc@gala-loc.com
+
+# edd 15 Apr 2025	EEACS
+blacklist_from		j.p.l.brugma.1961@eeacs.org
+blacklist_to		j.p.l.brugma.1961@gmail.com
