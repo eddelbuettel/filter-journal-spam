@@ -2490,3 +2490,7 @@ blacklist_to		j.p.l.brugma.1961@gmail.com
 # edd 16 Apr 2025	MCSI
 blacklist_from		dimitris.chatzipavlou@mcsi-conf.org
 blacklist_to		icnls.conference@gmail.com
+
+# edd 22 Apr 2025	Linguistic Explorations
+blacklist_from		editor-8127@oaspa.top
+blacklist_to		Christina@bilpub.com
