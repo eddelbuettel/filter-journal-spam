@@ -2494,3 +2494,7 @@ blacklist_to		icnls.conference@gmail.com
 # edd 22 Apr 2025	Linguistic Explorations
 blacklist_from		editor-8127@oaspa.top
 blacklist_to		Christina@bilpub.com
+
+# edd 29 Apr 2025	IOSR
+blacklist_from		noreply@buyorsellprint.co.uk
+blacklist_to		support@iosrmails.org
