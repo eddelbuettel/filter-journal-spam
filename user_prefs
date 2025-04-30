@@ -2498,3 +2498,7 @@ blacklist_to		Christina@bilpub.com
 # edd 29 Apr 2025	IOSR
 blacklist_from		noreply@buyorsellprint.co.uk
 blacklist_to		support@iosrmails.org
+
+# edd 30 Apr 2025	AJER
+blacklist_from		noreply@luketechnocraft.com
+blacklist_to		ajer.publish@gmail.com
