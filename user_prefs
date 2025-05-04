@@ -2502,3 +2502,7 @@ blacklist_to		support@iosrmails.org
 # edd 30 Apr 2025	AJER
 blacklist_from		noreply@luketechnocraft.com
 blacklist_to		ajer.publish@gmail.com
+
+# edd 04 May 2025	BIO2025
+blacklist_from		mastor@ieee.org
+blacklist_to		icnls.conference@gmail.com
