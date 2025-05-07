@@ -2506,3 +2506,7 @@ blacklist_to		ajer.publish@gmail.com
 # edd 04 May 2025	BIO2025
 blacklist_from		mastor@ieee.org
 blacklist_to		icnls.conference@gmail.com
+
+# edd 06 May 2025	AJECE
+blacklist_from		C.Wood@ajomp.net
+blacklist_to		C.Wood@ajomis.net
