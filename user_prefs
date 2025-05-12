@@ -2516,3 +2516,7 @@ blacklist_from		noreply@trustedservice-news.com
 blacklist_to		jist@sciencejournalsonline.com
 blacklist_from		nhm5@aimspress5.com
 blacklist_to		xiaochen.liu@aimsciences.org
+
+# edd 12 May 2025	JAIS
+blacklist_from		noreply@serviceloopnews-letter.com
+blacklist_to		jais@openaccess-publishers.com
