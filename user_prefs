@@ -2510,3 +2510,9 @@ blacklist_to		icnls.conference@gmail.com
 # edd 06 May 2025	AJECE
 blacklist_from		C.Wood@ajomp.net
 blacklist_to		C.Wood@ajomis.net
+
+# edd 07 May 2025	JIST,NHM
+blacklist_from		noreply@trustedservice-news.com
+blacklist_to		jist@sciencejournalsonline.com
+blacklist_from		nhm5@aimspress5.com
+blacklist_to		xiaochen.liu@aimsciences.org
