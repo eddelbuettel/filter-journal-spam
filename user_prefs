@@ -2524,3 +2524,7 @@ blacklist_to		jais@openaccess-publishers.com
 # edd 17 May 2025	JIC
 blacklist_from		editor-8062@oaspaz.top
 blacklist_to		Elsa@ukscip.com
+
+# edd 19 May 2025	RE
+blacklist_from		editor-8083@bilpubgroup.net
+blacklist_to		Betty@bilpubgroup.com
