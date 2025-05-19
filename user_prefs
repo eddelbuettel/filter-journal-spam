@@ -2520,3 +2520,7 @@ blacklist_to		xiaochen.liu@aimsciences.org
 # edd 12 May 2025	JAIS
 blacklist_from		noreply@serviceloopnews-letter.com
 blacklist_to		jais@openaccess-publishers.com
+
+# edd 17 May 2025	JIC
+blacklist_from		editor-8062@oaspaz.top
+blacklist_to		Elsa@ukscip.com
