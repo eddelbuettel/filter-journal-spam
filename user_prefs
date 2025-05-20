@@ -2528,3 +2528,7 @@ blacklist_to		Elsa@ukscip.com
 # edd 19 May 2025	RE
 blacklist_from		editor-8083@bilpubgroup.net
 blacklist_to		Betty@bilpubgroup.com
+
+# edd 20 May 2025	IMCJ
+blacklist_from		editor@2pressrelease.net
+blacklist_to		editor.sdi1@sciencedomains.org
