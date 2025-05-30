@@ -2532,3 +2532,7 @@ blacklist_to		Betty@bilpubgroup.com
 # edd 20 May 2025	IMCJ
 blacklist_from		editor@2pressrelease.net
 blacklist_to		editor.sdi1@sciencedomains.org
+
+# edd 30 May 2025	WVRDC
+blacklist_from		vaccinerd@precisionmeetings.com
+blacklist_to		vaccinerd@precisionmeetings.com
