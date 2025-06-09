@@ -2536,3 +2536,7 @@ blacklist_to		editor.sdi1@sciencedomains.org
 # edd 30 May 2025	WVRDC
 blacklist_from		vaccinerd@precisionmeetings.com
 blacklist_to		vaccinerd@precisionmeetings.com
+
+# edd 09 Jun 2025	WCC
+blacklist_from		anna03@wcc2025-meeting.com
+blacklist_to		vicky.wcc@gala-loc.com
