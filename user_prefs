@@ -2540,3 +2540,8 @@ blacklist_to		vaccinerd@precisionmeetings.com
 # edd 09 Jun 2025	WCC
 blacklist_from		anna03@wcc2025-meeting.com
 blacklist_to		vicky.wcc@gala-loc.com
+
+# edd 10 Jun 2025	JJoR, CM
+blacklist_from		editor@opensciencejournals.info
+blacklist_from		member@surveymonkeyuser.com
+blacklist_to		wayne@wiser.pub
