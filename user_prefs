@@ -2545,3 +2545,7 @@ blacklist_to		vicky.wcc@gala-loc.com
 blacklist_from		editor@opensciencejournals.info
 blacklist_from		member@surveymonkeyuser.com
 blacklist_to		wayne@wiser.pub
+
+# edd 11 Jun 2025	PTC/HA/LIP
+blacklist_from		kostas.chiotopoulos@mcsi-conf.org
+blacklist_to		kostas.chiotopoulos@gmail.com
