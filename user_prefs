@@ -2549,3 +2549,7 @@ blacklist_to		wayne@wiser.pub
 # edd 11 Jun 2025	PTC/HA/LIP
 blacklist_from		kostas.chiotopoulos@mcsi-conf.org
 blacklist_to		kostas.chiotopoulos@gmail.com
+
+# edd 16 Jun 2025	COMCONF
+blacklist_from		george.melovic@ece.ntua.gr
+blacklist_to		george.melovic@gmail.com
