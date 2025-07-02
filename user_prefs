@@ -2557,3 +2557,6 @@ blacklist_to		george.melovic@gmail.com
 # edd 26 Jun 2025	ADECP
 blacklist_from		daisy.cooper@scineer.net
 blacklist_to		olivia.wilson@scineer-pub.net
+
+# edd 02 Jul 2025	BDAA
+blacklist_from		syurish@smtpcomputer.com
