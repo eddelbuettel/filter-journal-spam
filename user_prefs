@@ -2560,3 +2560,7 @@ blacklist_to		olivia.wilson@scineer-pub.net
 
 # edd 02 Jul 2025	BDAA
 blacklist_from		syurish@smtpcomputer.com
+
+# edd 11 Jul 2025	MCSI
+blacklist_from		dimitris.chatzipavlou@tee.gr
+blacklist_to		icnls.conference@gmail.com
