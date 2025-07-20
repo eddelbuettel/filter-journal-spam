@@ -2564,3 +2564,11 @@ blacklist_from		syurish@smtpcomputer.com
 # edd 11 Jul 2025	MCSI
 blacklist_from		dimitris.chatzipavlou@tee.gr
 blacklist_to		icnls.conference@gmail.com
+
+# edd 20 Jul 2025	Bilpub, JAMP, IJMSI
+blacklist_from		editor-8075@wwys.net
+blacklist_to		editor-b@bilpubgroup.com
+blacklist_from		jamp@zseful.com
+blacklist_to		paper@openaccessj.com
+blacklist_from		noreply@nexonmailbox.com
+blacklist_to		invention.publish@gmail.com
