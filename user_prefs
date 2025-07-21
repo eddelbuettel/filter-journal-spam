@@ -2572,3 +2572,11 @@ blacklist_from		jamp@zseful.com
 blacklist_to		paper@openaccessj.com
 blacklist_from		noreply@nexonmailbox.com
 blacklist_to		invention.publish@gmail.com
+
+# edd 21 Jul 2025	JSCS (3x !!)
+blacklist_from		ijta2016@gmail.com
+blacklist_to		ijta2018@gmail.com
+blacklist_from		icebss2018@gmail.com
+blacklist_to		ijta2018@gmail.com
+blacklist_from		icebss2018@gmail.com
+blacklist_to		icebss2018@gmail.com
