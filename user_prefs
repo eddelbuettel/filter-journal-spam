@@ -2584,3 +2584,7 @@ blacklist_to		icebss2018@gmail.com
 # edd 25 Jul 2025	JSCS
 blacklist_from		editor.serialspublications@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 28 Jul 2025	JSCS
+blacklist_from		ijeb2009@gmail.com
+blacklist_to		ijta2018@gmail.com
