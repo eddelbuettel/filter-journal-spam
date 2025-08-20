@@ -2588,3 +2588,7 @@ blacklist_to		ijta2018@gmail.com
 # edd 28 Jul 2025	JSCS
 blacklist_from		ijeb2009@gmail.com
 blacklist_to		ijta2018@gmail.com
+
+# edd 20 Aug 2025	MSNC
+blacklist_from		chemistry.msnc@webconferences-network.com
+blacklist_to		chemistry.msnc@webconferences-network.com
