@@ -2596,3 +2596,7 @@ blacklist_to		chemistry.msnc@webconferences-network.com
 # edd 22 Aug 2025	UNGCSD
 blacklist_from		natovicath@connect.com.fj
 blacklist_to		registrations.participants@g-wsd.org
+
+# edd 25 Aug 2025	JCCE
+blacklist_from		juno@jcceeditorialoffice.com
+blacklist_to		juno@jcceeditorialoffice.com
