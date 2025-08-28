@@ -2600,3 +2600,7 @@ blacklist_to		registrations.participants@g-wsd.org
 # edd 25 Aug 2025	JCCE
 blacklist_from		juno@jcceeditorialoffice.com
 blacklist_to		juno@jcceeditorialoffice.com
+
+# edd 28 Aug 2025	Editage
+blacklist_from		researchsupport@editage.com
+blacklist_to		letstalk.global@editage.com
