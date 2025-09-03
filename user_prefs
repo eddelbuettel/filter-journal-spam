@@ -2607,3 +2607,6 @@ blacklist_to		letstalk.global@editage.com
 
 # edd 30 Aug 2025	Bentham
 blacklist_from		manuscript@bentham-peer-review-service-005.net
+
+# edd 03 Sep 2025	PRMWC
+blacklist_from		preventivemed@precisionmeetings.org
