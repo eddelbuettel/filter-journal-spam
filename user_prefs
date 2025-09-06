@@ -2610,3 +2610,7 @@ blacklist_from		manuscript@bentham-peer-review-service-005.net
 
 # edd 03 Sep 2025	PRMWC
 blacklist_from		preventivemed@precisionmeetings.org
+
+# edd 06 Sep 2025	Mathematics and Computer Journals
+blacklist_from		editor@2pressrelease.net
+blacklist_to		editor.sdi1@sciencedomains.org
