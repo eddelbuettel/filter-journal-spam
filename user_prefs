@@ -2614,3 +2614,7 @@ blacklist_from		preventivemed@precisionmeetings.org
 # edd 06 Sep 2025	Mathematics and Computer Journals
 blacklist_from		editor@2pressrelease.net
 blacklist_to		editor.sdi1@sciencedomains.org
+
+# edd 09 Sep 2025	IWSPT
+blacklist_from		info@final-call.cn
+blacklist_to		scieipublication@263.net
