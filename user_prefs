@@ -2615,6 +2615,8 @@ blacklist_from		preventivemed@precisionmeetings.org
 blacklist_from		editor@2pressrelease.net
 blacklist_to		editor.sdi1@sciencedomains.org
 
-# edd 09 Sep 2025	IWSPT
+# edd 09 Sep 2025	IWSPT, ICEEECS
 blacklist_from		info@final-call.cn
 blacklist_to		scieipublication@263.net
+blacklist_from		j.p.l.brugma.1961@mail.engw.org
+blacklist_to		j.p.l.brugma.1961@gmail.com
