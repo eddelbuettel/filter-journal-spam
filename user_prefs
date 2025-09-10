@@ -2620,3 +2620,7 @@ blacklist_from		info@final-call.cn
 blacklist_to		scieipublication@263.net
 blacklist_from		j.p.l.brugma.1961@mail.engw.org
 blacklist_to		j.p.l.brugma.1961@gmail.com
+
+# edd 10 Sep 2025	NHM
+blacklist_from		nhm16@aimspress16.com
+blacklist_to		xiaochen.liu@aimsciences.org
