@@ -2624,3 +2624,7 @@ blacklist_to		j.p.l.brugma.1961@gmail.com
 # edd 10 Sep 2025	NHM
 blacklist_from		nhm16@aimspress16.com
 blacklist_to		xiaochen.liu@aimsciences.org
+
+# edd 17 Sep 2025	MMCTSE
+blacklist_from		dr.g.petrakis@uop.gr
+blacklist_to		dr.g.petrakis@gmail.com
