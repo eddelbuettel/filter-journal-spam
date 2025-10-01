@@ -2628,3 +2628,6 @@ blacklist_to		xiaochen.liu@aimsciences.org
 # edd 17 Sep 2025	MMCTSE
 blacklist_from		dr.g.petrakis@uop.gr
 blacklist_to		dr.g.petrakis@gmail.com
+
+# edd 01 Oct 2025	ACRT
+blacklist_from		acrt@news.intechopen.com
