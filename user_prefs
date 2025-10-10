@@ -2631,3 +2631,7 @@ blacklist_to		dr.g.petrakis@gmail.com
 
 # edd 01 Oct 2025	ACRT
 blacklist_from		acrt@news.intechopen.com
+
+# edd 10 Oct 2025	AIS2026
+blacklist_from		j.p.l.brugma.1951@ltu.se
+blacklist_to		j.p.l.brugma.1951@gmail.com
