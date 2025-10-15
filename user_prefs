@@ -2635,3 +2635,7 @@ blacklist_from		acrt@news.intechopen.com
 # edd 10 Oct 2025	AIS2026
 blacklist_from		j.p.l.brugma.1951@ltu.se
 blacklist_to		j.p.l.brugma.1951@gmail.com
+
+# edd 14 Oct 2025	ICAMCS2025
+blacklist_from		george.melovic@cuni.cz
+blacklist_to		george.melovic@gmail.com
