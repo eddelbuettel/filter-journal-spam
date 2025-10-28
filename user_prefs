@@ -2639,3 +2639,6 @@ blacklist_to		j.p.l.brugma.1951@gmail.com
 # edd 14 Oct 2025	ICAMCS2025
 blacklist_from		george.melovic@cuni.cz
 blacklist_to		george.melovic@gmail.com
+
+# edd 27 Oct 2025	AJBSR
+blacklist_from		conferences@biomedgridresearch.com
