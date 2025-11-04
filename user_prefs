@@ -2642,3 +2642,7 @@ blacklist_to		george.melovic@gmail.com
 
 # edd 27 Oct 2025	AJBSR
 blacklist_from		conferences@biomedgridresearch.com
+
+# edd 04 Nov 2025	JRN/BinPub
+blacklist_from		editor-8001@jrnhub.net
+blacklist_to		editor-c@bilpubgroup.com
