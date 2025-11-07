@@ -2646,3 +2646,7 @@ blacklist_from		conferences@biomedgridresearch.com
 # edd 04 Nov 2025	JRN/BinPub
 blacklist_from		editor-8001@jrnhub.net
 blacklist_to		editor-c@bilpubgroup.com
+
+# edd 07 Nov 2025	WCC
+blacklist_from		vicky03@cancer-athens.com
+blacklist_to		alma.wgc@gala-tek.com
