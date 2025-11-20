@@ -2654,3 +2654,7 @@ blacklist_to		alma.wgc@gala-tek.com
 # edd 18 Mov 2025	ELECS 2025
 blacklist_from		dr.g.petrakis@mail5.engw.org
 blacklist_to		dr.g.petrakis@gmail.com
+
+# edd 20 Nov 2025	GVX 2026
+blacklist_from		vaccines@mimeets.com
+blacklist_to		vaccines@mimeets.com
