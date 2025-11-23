@@ -2658,3 +2658,6 @@ blacklist_to		dr.g.petrakis@gmail.com
 # edd 20 Nov 2025	GVX 2026
 blacklist_from		vaccines@mimeets.com
 blacklist_to		vaccines@mimeets.com
+
+# edd 23 Nov 2025	JAIMD
+blacklist_from		ijamd.invite@accscience.org
