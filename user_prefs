@@ -2659,5 +2659,7 @@ blacklist_to		dr.g.petrakis@gmail.com
 blacklist_from		vaccines@mimeets.com
 blacklist_to		vaccines@mimeets.com
 
-# edd 23 Nov 2025	JAIMD
+# edd 23 Nov 2025	JAIMD, WCC-2026
 blacklist_from		ijamd.invite@accscience.org
+blacklist_from		vickaa4@wcc2026-congress.com
+blacklist_to		vicky.wcc@eventscommittees.com
