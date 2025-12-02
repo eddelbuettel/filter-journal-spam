@@ -2663,3 +2663,6 @@ blacklist_to		vaccines@mimeets.com
 blacklist_from		ijamd.invite@accscience.org
 blacklist_from		vickaa4@wcc2026-congress.com
 blacklist_to		vicky.wcc@eventscommittees.com
+
+# edd 02 Dec 2025	SJPMS
+blacklist_from		drnitingogoi121@gmail.com
