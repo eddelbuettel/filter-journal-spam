@@ -2670,3 +2670,7 @@ blacklist_from		drnitingogoi121@gmail.com
 # edd 06 Dec 2025	MCJ
 blacklist_from		editor@digiiwire.co.in
 blacklist_to		editor.sdi1@sciencedomains.org
+
+# edd 08 Dec 2025	AFHWC
+blacklist_from		agriculture@globalconferencespeakers.com
+blacklist_to		agriculture@precisionsummits.com
