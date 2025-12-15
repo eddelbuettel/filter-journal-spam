@@ -2677,3 +2677,7 @@ blacklist_to		agriculture@precisionsummits.com
 
 # edd 09 Dec 2025	AICCS
 blacklist_from		info@comrtc.com
+
+# edd 15 Dec 2025	ESCI
+blacklist_from		ethan001@scipublishing.top
+blacklist_to		ethan@ukscip.com
