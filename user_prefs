@@ -2684,3 +2684,7 @@ blacklist_to		ethan@ukscip.com
 
 # edd 30 Dec 2025	CAC2026
 blacklist_from		sc@world-comp.org
+
+# edd 31 Dec 2025	ENCEMA
+blacklist_from		no.reply@mail2.engw.org
+blacklist_to		dr.g.petrakis@gmail.com
