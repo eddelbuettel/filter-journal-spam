@@ -2688,3 +2688,8 @@ blacklist_from		sc@world-comp.org
 # edd 31 Dec 2025	ENCEMA
 blacklist_from		no.reply@mail2.engw.org
 blacklist_to		dr.g.petrakis@gmail.com
+
+# edd 01 Jan 2026	EEACS
+blacklist_from		no.reply@mail.engw.org
+blacklist_to		j.p.l.brugma.1951@gmail.com
+blacklist_from		no.reply@*.engw.org
