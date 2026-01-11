@@ -2693,3 +2693,7 @@ blacklist_to		dr.g.petrakis@gmail.com
 blacklist_from		no.reply@mail.engw.org
 blacklist_to		j.p.l.brugma.1951@gmail.com
 blacklist_from		no.reply@*.engw.org
+
+# edd 11 Jan 2026	PRWMC
+blacklist_from		preventivemed@globalsubmissions.com
+blacklist_to		preventivemed@precisionsummits.com
