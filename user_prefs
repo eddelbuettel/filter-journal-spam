@@ -2697,3 +2697,7 @@ blacklist_from		no.reply@*.engw.org
 # edd 11 Jan 2026	PRWMC
 blacklist_from		preventivemed@globalsubmissions.com
 blacklist_to		preventivemed@precisionsummits.com
+
+# edd 19 Jan 2026	THEIJES
+blacklist_from		notify@pagerankingseo.com
+blacklist_to		theijes@submitmails.com
