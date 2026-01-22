@@ -2701,3 +2701,7 @@ blacklist_to		preventivemed@precisionsummits.com
 # edd 19 Jan 2026	THEIJES
 blacklist_from		notify@pagerankingseo.com
 blacklist_to		theijes@submitmails.com
+
+# edd 22 Jan 2026	JCSSD
+blacklist_from		jcssd@scientificresearchhub.org
+blacklist_to		jcssd@scientificresearchhub.org
