@@ -2705,3 +2705,6 @@ blacklist_to		theijes@submitmails.com
 # edd 22 Jan 2026	JCSSD
 blacklist_from		jcssd@scientificresearchhub.org
 blacklist_to		jcssd@scientificresearchhub.org
+
+# edd 25 Jan 2026	JAIEP
+blacklist_from		jaiep.sasar@gmail.com
