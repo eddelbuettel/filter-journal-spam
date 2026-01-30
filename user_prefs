@@ -2708,3 +2708,7 @@ blacklist_to		jcssd@scientificresearchhub.org
 
 # edd 25 Jan 2026	JAIEP
 blacklist_from		jaiep.sasar@gmail.com
+
+# edd 30 Jan 2026	MFA
+blacklist_from		submission@mathapplication.email
+blacklist_to		editor@mathsapplication.com
