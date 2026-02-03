@@ -2712,3 +2712,6 @@ blacklist_from		jaiep.sasar@gmail.com
 # edd 30 Jan 2026	MFA
 blacklist_from		submission@mathapplication.email
 blacklist_to		editor@mathsapplication.com
+
+# edd 03 Feb 2026	MSNC
+blacklist_from		chemistry.msnc@researchinnovationforum.com
