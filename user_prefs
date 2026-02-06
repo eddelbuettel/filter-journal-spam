@@ -2715,3 +2715,7 @@ blacklist_to		editor@mathsapplication.com
 
 # edd 03 Feb 2026	MSNC
 blacklist_from		chemistry.msnc@researchinnovationforum.com
+
+# edd 06 Feb 2026	WSMN
+blacklist_from		info@startechprox.store
+blacklist_to		info@conferencesglobal.org
