@@ -2719,3 +2719,6 @@ blacklist_from		chemistry.msnc@researchinnovationforum.com
 # edd 06 Feb 2026	WSMN
 blacklist_from		info@startechprox.store
 blacklist_to		info@conferencesglobal.org
+
+# edd 16 Feb 2026	SRC
+blacklist_from		sr.deprt@uob.edu.bh
