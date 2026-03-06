@@ -2723,5 +2723,9 @@ blacklist_to		info@conferencesglobal.org
 # edd 16 Feb 2026	SRC
 blacklist_from		sr.deprt@uob.edu.bh
 
-# edd 03 Mar 2025	JDSMT
+# edd 03 Mar 2026	JDSMT
 blacklist_from		jdmt@resoascimedscholaraccess.org
+
+# edd 05 Mar 2026	AFHWC
+blacklist_from		agriculture@globalscientificmeetings.net
+blacklist_to		agriculture@precisionsummits.com
