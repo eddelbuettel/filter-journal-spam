@@ -2729,3 +2729,6 @@ blacklist_from		jdmt@resoascimedscholaraccess.org
 # edd 05 Mar 2026	AFHWC
 blacklist_from		agriculture@globalscientificmeetings.net
 blacklist_to		agriculture@precisionsummits.com
+
+# edd 06 Mar 2026	NURER
+blacklist_from		info@nurer.org
