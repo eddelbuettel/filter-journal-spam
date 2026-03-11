@@ -2732,3 +2732,6 @@ blacklist_to		agriculture@precisionsummits.com
 
 # edd 06 Mar 2026	NURER
 blacklist_from		info@nurer.org
+
+# edd 11 Mar 2026	JDMT
+blacklist_from		jdmt@openaccess-papers.org
