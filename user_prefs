@@ -2735,3 +2735,7 @@ blacklist_from		info@nurer.org
 
 # edd 11 Mar 2026	JDMT
 blacklist_from		jdmt@openaccess-papers.org
+
+# edd 13 Mar 2026	WCSTAI
+blacklist_from		info@sciencejournals.live
+blacklist_to		info@conferencesglobal.org
