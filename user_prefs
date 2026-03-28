@@ -2739,3 +2739,7 @@ blacklist_from		jdmt@openaccess-papers.org
 # edd 13 Mar 2026	WCSTAI
 blacklist_from		info@sciencejournals.live
 blacklist_to		info@conferencesglobal.org
+
+# edd 28 Mar 2026	SciEP
+blacklist_from		Ashleywalker@callforpapers.life
+blacklist_to		submission@sciepub.com
