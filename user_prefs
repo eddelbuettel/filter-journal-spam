@@ -2747,3 +2747,7 @@ blacklist_to		submission@sciepub.com
 # edd 29 Mar 2026	WOS-ESCI
 blacklist_from		grace005@wwys.net
 blacklist_to		editorial.support@acad-pub.com
+
+# edd 12 Apr 2026	PMBWC 2026
+blacklist_from		plant@internationalscimeetings.com
+blacklist_to		plant@precisionsummits.com
