@@ -2751,3 +2751,7 @@ blacklist_to		editorial.support@acad-pub.com
 # edd 12 Apr 2026	PMBWC 2026
 blacklist_from		plant@internationalscimeetings.com
 blacklist_to		plant@precisionsummits.com
+
+# edd 04 May 2026	JSCS
+blacklist_from		icahps2019@gmail.com
+blacklist_to		ijta2018@gmail.com
