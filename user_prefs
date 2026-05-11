@@ -2756,3 +2756,6 @@ blacklist_to		plant@precisionsummits.com
 blacklist_from		icahps2019@gmail.com
 blacklist_to		ijta2018@gmail.com
 blacklist_from		icaber2018@gmail.com
+
+# edd 11 May 2026       CJMSS
+blacklist_from		info@scientificassociation.org
