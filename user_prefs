@@ -2760,5 +2760,6 @@ blacklist_from		icaber2018@gmail.com
 # edd 11 May 2026       CJMSS
 blacklist_from		info@scientificassociation.org
 
-# edd 13 May 2026       BDAA
+# edd 13 May 2026       BDAA, Oxford scam
 blacklist_from		bdaa@sensorsportal.com
+blacklist_from		shenette@oxfordsymposiums.co.uk
