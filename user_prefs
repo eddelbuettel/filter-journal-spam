@@ -2763,3 +2763,7 @@ blacklist_from		info@scientificassociation.org
 # edd 13 May 2026       BDAA, Oxford scam
 blacklist_from		bdaa@sensorsportal.com
 blacklist_from		shenette@oxfordsymposiums.co.uk
+
+# edd 20 May 2026       IJMSI
+blacklist_from		noreply@evearthnetwork.com
+blacklist_to		invention.publish@gmail.com
