@@ -2767,3 +2767,6 @@ blacklist_from		shenette@oxfordsymposiums.co.uk
 # edd 20 May 2026       IJMSI
 blacklist_from		noreply@evearthnetwork.com
 blacklist_to		invention.publish@gmail.com
+
+# edd 08 Jun 2026       BDAA
+blacklist_from		syurish@smtpcomputer.com
