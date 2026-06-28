@@ -2770,3 +2770,7 @@ blacklist_to		invention.publish@gmail.com
 
 # edd 08 Jun 2026       BDAA
 blacklist_from		syurish@smtpcomputer.com
+
+# edd 27 Jun 2026       MCSI 2026
+blacklist_from		no.reply@mail2.enge.org
+blacklist_to		dr.g.petrakis@gmail.com
